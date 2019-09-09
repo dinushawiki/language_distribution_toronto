@@ -1,0 +1,6721 @@
+FSA,Language,Count,Year
+M1B,Cantonese,1625,2001
+M1B,Mandarin,70,2001
+M1B,Hakka,0,2001
+M1B,"Chinese, n.o.s.",935,2001
+M1B,Italian,140,2001
+M1B,Portuguese,45,2001
+M1B,Spanish,100,2001
+M1B,German,0,2001
+M1B,Polish,60,2001
+M1B,Punjabi,1095,2001
+M1B,Greek,10,2001
+M1B,Vietnamese,75,2001
+M1B,Arabic,115,2001
+M1B,Cree,0,2001
+M1B,Tagalog (Pilipino),710,2001
+M1B,Ukrainian,0,2001
+M1B,Persian (Farsi),425,2001
+M1B,Korean,80,2001
+M1B,Hungarian,10,2001
+M1B,Tamil,2635,2001
+M1B,Gujarati,595,2001
+M1B,Croatian,15,2001
+M1B,Armenian,45,2001
+M1B,Inuktitut (Eskimo),0,2001
+M1B,Hindi,180,2001
+M1B,Urdu,835,2001
+M1B,Japanese,15,2001
+M1B,Russian,20,2001
+M1B,Creoles,0,2001
+M1B,Dutch,0,2001
+M1B,Khmer (Cambodian),0,2001
+M1B,Ojibway,0,2001
+M1B,Romanian,0,2001
+M1B,Czech,0,2001
+M1B,Lao,0,2001
+M1B,Macedonian,65,2001
+M1B,Finnish,0,2001
+M1B,Montagnais-Naskapi,0,2001
+M1B,Hebrew,0,2001
+M1B,Yiddish,0,2001
+M1B,Serbian,20,2001
+M1B,Bengali,35,2001
+M1B,Slovak,0,2001
+M1B,Estonian,0,2001
+M1B,Turkish,10,2001
+M1B,Lithuanian,0,2001
+M1B,Latvian (Lettish),0,2001
+M1B,Micmac,0,2001
+M1B,Slovenian,0,2001
+M1B,Bulgarian,0,2001
+M1B,Serbo-Croatian,0,2001
+M1B,Dakota/Sioux,0,2001
+M1B,South Slave,0,2001
+M1B,Malay-Bahasa,0,2001
+M1B,Maltese,0,2001
+M1B,Blackfoot,0,2001
+M1B,Dogrib,0,2001
+M1B,Danish,0,2001
+M1B,Swedish,0,2001
+M1B,Malayalam,85,2001
+M1B,Thai,0,2001
+M1B,Kurdish,0,2001
+M1B,Pashto,0,2001
+M1B,Flemish,0,2001
+M1B,Chipewyan,0,2001
+M1B,Kutchin-Gwich'in (Loucheux),0,2001
+M1B,Norwegian,0,2001
+M1B,Gaelic languages,0,2001
+M1B,Tlingit,0,2001
+M1B,Other languages,300,2001
+M1C,Cantonese,275,2001
+M1C,Mandarin,25,2001
+M1C,Hakka,0,2001
+M1C,"Chinese, n.o.s.",260,2001
+M1C,Italian,135,2001
+M1C,Portuguese,0,2001
+M1C,Spanish,35,2001
+M1C,German,0,2001
+M1C,Polish,75,2001
+M1C,Punjabi,70,2001
+M1C,Greek,50,2001
+M1C,Vietnamese,10,2001
+M1C,Arabic,0,2001
+M1C,Cree,0,2001
+M1C,Tagalog (Pilipino),105,2001
+M1C,Ukrainian,0,2001
+M1C,Persian (Farsi),35,2001
+M1C,Korean,15,2001
+M1C,Hungarian,25,2001
+M1C,Tamil,160,2001
+M1C,Gujarati,40,2001
+M1C,Croatian,0,2001
+M1C,Armenian,10,2001
+M1C,Inuktitut (Eskimo),0,2001
+M1C,Hindi,35,2001
+M1C,Urdu,135,2001
+M1C,Japanese,25,2001
+M1C,Russian,0,2001
+M1C,Creoles,15,2001
+M1C,Dutch,15,2001
+M1C,Khmer (Cambodian),0,2001
+M1C,Ojibway,0,2001
+M1C,Romanian,30,2001
+M1C,Czech,15,2001
+M1C,Lao,0,2001
+M1C,Macedonian,75,2001
+M1C,Finnish,10,2001
+M1C,Montagnais-Naskapi,0,2001
+M1C,Hebrew,0,2001
+M1C,Yiddish,0,2001
+M1C,Serbian,0,2001
+M1C,Bengali,80,2001
+M1C,Slovak,0,2001
+M1C,Estonian,15,2001
+M1C,Turkish,0,2001
+M1C,Lithuanian,0,2001
+M1C,Latvian (Lettish),0,2001
+M1C,Micmac,0,2001
+M1C,Slovenian,0,2001
+M1C,Bulgarian,0,2001
+M1C,Serbo-Croatian,0,2001
+M1C,Dakota/Sioux,0,2001
+M1C,South Slave,0,2001
+M1C,Malay-Bahasa,0,2001
+M1C,Maltese,0,2001
+M1C,Blackfoot,0,2001
+M1C,Dogrib,0,2001
+M1C,Danish,0,2001
+M1C,Swedish,0,2001
+M1C,Malayalam,0,2001
+M1C,Thai,0,2001
+M1C,Kurdish,0,2001
+M1C,Pashto,0,2001
+M1C,Flemish,0,2001
+M1C,Chipewyan,0,2001
+M1C,Kutchin-Gwich'in (Loucheux),0,2001
+M1C,Norwegian,0,2001
+M1C,Gaelic languages,0,2001
+M1C,Tlingit,0,2001
+M1C,Other languages,175,2001
+M1G,Cantonese,140,2001
+M1G,Mandarin,110,2001
+M1G,Hakka,0,2001
+M1G,"Chinese, n.o.s.",285,2001
+M1G,Italian,55,2001
+M1G,Portuguese,30,2001
+M1G,Spanish,70,2001
+M1G,German,15,2001
+M1G,Polish,145,2001
+M1G,Punjabi,230,2001
+M1G,Greek,125,2001
+M1G,Vietnamese,10,2001
+M1G,Arabic,110,2001
+M1G,Cree,0,2001
+M1G,Tagalog (Pilipino),260,2001
+M1G,Ukrainian,0,2001
+M1G,Persian (Farsi),215,2001
+M1G,Korean,35,2001
+M1G,Hungarian,0,2001
+M1G,Tamil,1775,2001
+M1G,Gujarati,855,2001
+M1G,Croatian,0,2001
+M1G,Armenian,15,2001
+M1G,Inuktitut (Eskimo),0,2001
+M1G,Hindi,195,2001
+M1G,Urdu,350,2001
+M1G,Japanese,10,2001
+M1G,Russian,25,2001
+M1G,Creoles,0,2001
+M1G,Dutch,0,2001
+M1G,Khmer (Cambodian),0,2001
+M1G,Ojibway,0,2001
+M1G,Romanian,0,2001
+M1G,Czech,50,2001
+M1G,Lao,0,2001
+M1G,Macedonian,70,2001
+M1G,Finnish,10,2001
+M1G,Montagnais-Naskapi,0,2001
+M1G,Hebrew,0,2001
+M1G,Yiddish,0,2001
+M1G,Serbian,25,2001
+M1G,Bengali,195,2001
+M1G,Slovak,60,2001
+M1G,Estonian,0,2001
+M1G,Turkish,0,2001
+M1G,Lithuanian,0,2001
+M1G,Latvian (Lettish),0,2001
+M1G,Micmac,0,2001
+M1G,Slovenian,0,2001
+M1G,Bulgarian,0,2001
+M1G,Serbo-Croatian,0,2001
+M1G,Dakota/Sioux,0,2001
+M1G,South Slave,0,2001
+M1G,Malay-Bahasa,20,2001
+M1G,Maltese,0,2001
+M1G,Blackfoot,0,2001
+M1G,Dogrib,0,2001
+M1G,Danish,0,2001
+M1G,Swedish,0,2001
+M1G,Malayalam,25,2001
+M1G,Thai,0,2001
+M1G,Kurdish,0,2001
+M1G,Pashto,70,2001
+M1G,Flemish,0,2001
+M1G,Chipewyan,0,2001
+M1G,Kutchin-Gwich'in (Loucheux),0,2001
+M1G,Norwegian,0,2001
+M1G,Gaelic languages,0,2001
+M1G,Tlingit,0,2001
+M1G,Other languages,300,2001
+M1H,Cantonese,1035,2001
+M1H,Mandarin,180,2001
+M1H,Hakka,0,2001
+M1H,"Chinese, n.o.s.",665,2001
+M1H,Italian,70,2001
+M1H,Portuguese,0,2001
+M1H,Spanish,65,2001
+M1H,German,25,2001
+M1H,Polish,0,2001
+M1H,Punjabi,80,2001
+M1H,Greek,165,2001
+M1H,Vietnamese,25,2001
+M1H,Arabic,25,2001
+M1H,Cree,0,2001
+M1H,Tagalog (Pilipino),160,2001
+M1H,Ukrainian,0,2001
+M1H,Persian (Farsi),125,2001
+M1H,Korean,75,2001
+M1H,Hungarian,40,2001
+M1H,Tamil,720,2001
+M1H,Gujarati,625,2001
+M1H,Croatian,50,2001
+M1H,Armenian,0,2001
+M1H,Inuktitut (Eskimo),0,2001
+M1H,Hindi,75,2001
+M1H,Urdu,125,2001
+M1H,Japanese,0,2001
+M1H,Russian,0,2001
+M1H,Creoles,0,2001
+M1H,Dutch,0,2001
+M1H,Khmer (Cambodian),0,2001
+M1H,Ojibway,0,2001
+M1H,Romanian,20,2001
+M1H,Czech,0,2001
+M1H,Lao,0,2001
+M1H,Macedonian,40,2001
+M1H,Finnish,0,2001
+M1H,Montagnais-Naskapi,0,2001
+M1H,Hebrew,0,2001
+M1H,Yiddish,0,2001
+M1H,Serbian,0,2001
+M1H,Bengali,45,2001
+M1H,Slovak,0,2001
+M1H,Estonian,0,2001
+M1H,Turkish,0,2001
+M1H,Lithuanian,0,2001
+M1H,Latvian (Lettish),0,2001
+M1H,Micmac,0,2001
+M1H,Slovenian,10,2001
+M1H,Bulgarian,0,2001
+M1H,Serbo-Croatian,0,2001
+M1H,Dakota/Sioux,0,2001
+M1H,South Slave,0,2001
+M1H,Malay-Bahasa,0,2001
+M1H,Maltese,0,2001
+M1H,Blackfoot,0,2001
+M1H,Dogrib,0,2001
+M1H,Danish,0,2001
+M1H,Swedish,0,2001
+M1H,Malayalam,30,2001
+M1H,Thai,0,2001
+M1H,Kurdish,0,2001
+M1H,Pashto,75,2001
+M1H,Flemish,0,2001
+M1H,Chipewyan,0,2001
+M1H,Kutchin-Gwich'in (Loucheux),0,2001
+M1H,Norwegian,0,2001
+M1H,Gaelic languages,0,2001
+M1H,Tlingit,0,2001
+M1H,Other languages,125,2001
+M1J,Cantonese,270,2001
+M1J,Mandarin,0,2001
+M1J,Hakka,0,2001
+M1J,"Chinese, n.o.s.",320,2001
+M1J,Italian,140,2001
+M1J,Portuguese,55,2001
+M1J,Spanish,165,2001
+M1J,German,40,2001
+M1J,Polish,415,2001
+M1J,Punjabi,105,2001
+M1J,Greek,210,2001
+M1J,Vietnamese,25,2001
+M1J,Arabic,95,2001
+M1J,Cree,0,2001
+M1J,Tagalog (Pilipino),265,2001
+M1J,Ukrainian,0,2001
+M1J,Persian (Farsi),265,2001
+M1J,Korean,65,2001
+M1J,Hungarian,45,2001
+M1J,Tamil,1995,2001
+M1J,Gujarati,160,2001
+M1J,Croatian,0,2001
+M1J,Armenian,45,2001
+M1J,Inuktitut (Eskimo),0,2001
+M1J,Hindi,40,2001
+M1J,Urdu,515,2001
+M1J,Japanese,0,2001
+M1J,Russian,50,2001
+M1J,Creoles,0,2001
+M1J,Dutch,0,2001
+M1J,Khmer (Cambodian),0,2001
+M1J,Ojibway,0,2001
+M1J,Romanian,45,2001
+M1J,Czech,25,2001
+M1J,Lao,10,2001
+M1J,Macedonian,285,2001
+M1J,Finnish,10,2001
+M1J,Montagnais-Naskapi,0,2001
+M1J,Hebrew,0,2001
+M1J,Yiddish,0,2001
+M1J,Serbian,30,2001
+M1J,Bengali,145,2001
+M1J,Slovak,0,2001
+M1J,Estonian,10,2001
+M1J,Turkish,15,2001
+M1J,Lithuanian,0,2001
+M1J,Latvian (Lettish),0,2001
+M1J,Micmac,0,2001
+M1J,Slovenian,0,2001
+M1J,Bulgarian,0,2001
+M1J,Serbo-Croatian,10,2001
+M1J,Dakota/Sioux,0,2001
+M1J,South Slave,0,2001
+M1J,Malay-Bahasa,0,2001
+M1J,Maltese,0,2001
+M1J,Blackfoot,0,2001
+M1J,Dogrib,0,2001
+M1J,Danish,0,2001
+M1J,Swedish,0,2001
+M1J,Malayalam,45,2001
+M1J,Thai,0,2001
+M1J,Kurdish,45,2001
+M1J,Pashto,40,2001
+M1J,Flemish,0,2001
+M1J,Chipewyan,0,2001
+M1J,Kutchin-Gwich'in (Loucheux),0,2001
+M1J,Norwegian,0,2001
+M1J,Gaelic languages,0,2001
+M1J,Tlingit,0,2001
+M1J,Other languages,880,2001
+M1K,Cantonese,825,2001
+M1K,Mandarin,385,2001
+M1K,Hakka,0,2001
+M1K,"Chinese, n.o.s.",1285,2001
+M1K,Italian,565,2001
+M1K,Portuguese,55,2001
+M1K,Spanish,210,2001
+M1K,German,10,2001
+M1K,Polish,60,2001
+M1K,Punjabi,115,2001
+M1K,Greek,555,2001
+M1K,Vietnamese,180,2001
+M1K,Arabic,170,2001
+M1K,Cree,0,2001
+M1K,Tagalog (Pilipino),550,2001
+M1K,Ukrainian,0,2001
+M1K,Persian (Farsi),345,2001
+M1K,Korean,65,2001
+M1K,Hungarian,45,2001
+M1K,Tamil,2025,2001
+M1K,Gujarati,95,2001
+M1K,Croatian,15,2001
+M1K,Armenian,10,2001
+M1K,Inuktitut (Eskimo),0,2001
+M1K,Hindi,55,2001
+M1K,Urdu,210,2001
+M1K,Japanese,0,2001
+M1K,Russian,70,2001
+M1K,Creoles,10,2001
+M1K,Dutch,0,2001
+M1K,Khmer (Cambodian),0,2001
+M1K,Ojibway,0,2001
+M1K,Romanian,115,2001
+M1K,Czech,20,2001
+M1K,Lao,0,2001
+M1K,Macedonian,295,2001
+M1K,Finnish,10,2001
+M1K,Montagnais-Naskapi,0,2001
+M1K,Hebrew,0,2001
+M1K,Yiddish,0,2001
+M1K,Serbian,40,2001
+M1K,Bengali,20,2001
+M1K,Slovak,25,2001
+M1K,Estonian,0,2001
+M1K,Turkish,0,2001
+M1K,Lithuanian,0,2001
+M1K,Latvian (Lettish),0,2001
+M1K,Micmac,0,2001
+M1K,Slovenian,10,2001
+M1K,Bulgarian,60,2001
+M1K,Serbo-Croatian,10,2001
+M1K,Dakota/Sioux,0,2001
+M1K,South Slave,0,2001
+M1K,Malay-Bahasa,0,2001
+M1K,Maltese,0,2001
+M1K,Blackfoot,0,2001
+M1K,Dogrib,0,2001
+M1K,Danish,0,2001
+M1K,Swedish,0,2001
+M1K,Malayalam,0,2001
+M1K,Thai,0,2001
+M1K,Kurdish,15,2001
+M1K,Pashto,95,2001
+M1K,Flemish,0,2001
+M1K,Chipewyan,0,2001
+M1K,Kutchin-Gwich'in (Loucheux),0,2001
+M1K,Norwegian,0,2001
+M1K,Gaelic languages,0,2001
+M1K,Tlingit,0,2001
+M1K,Other languages,990,2001
+M1L,Cantonese,430,2001
+M1L,Mandarin,100,2001
+M1L,Hakka,0,2001
+M1L,"Chinese, n.o.s.",520,2001
+M1L,Italian,245,2001
+M1L,Portuguese,40,2001
+M1L,Spanish,135,2001
+M1L,German,10,2001
+M1L,Polish,45,2001
+M1L,Punjabi,10,2001
+M1L,Greek,185,2001
+M1L,Vietnamese,80,2001
+M1L,Arabic,135,2001
+M1L,Cree,0,2001
+M1L,Tagalog (Pilipino),310,2001
+M1L,Ukrainian,0,2001
+M1L,Persian (Farsi),175,2001
+M1L,Korean,30,2001
+M1L,Hungarian,10,2001
+M1L,Tamil,630,2001
+M1L,Gujarati,75,2001
+M1L,Croatian,0,2001
+M1L,Armenian,0,2001
+M1L,Inuktitut (Eskimo),0,2001
+M1L,Hindi,35,2001
+M1L,Urdu,415,2001
+M1L,Japanese,0,2001
+M1L,Russian,55,2001
+M1L,Creoles,0,2001
+M1L,Dutch,0,2001
+M1L,Khmer (Cambodian),0,2001
+M1L,Ojibway,0,2001
+M1L,Romanian,40,2001
+M1L,Czech,0,2001
+M1L,Lao,0,2001
+M1L,Macedonian,15,2001
+M1L,Finnish,10,2001
+M1L,Montagnais-Naskapi,0,2001
+M1L,Hebrew,0,2001
+M1L,Yiddish,0,2001
+M1L,Serbian,0,2001
+M1L,Bengali,370,2001
+M1L,Slovak,0,2001
+M1L,Estonian,0,2001
+M1L,Turkish,30,2001
+M1L,Lithuanian,0,2001
+M1L,Latvian (Lettish),0,2001
+M1L,Micmac,0,2001
+M1L,Slovenian,0,2001
+M1L,Bulgarian,10,2001
+M1L,Serbo-Croatian,60,2001
+M1L,Dakota/Sioux,0,2001
+M1L,South Slave,0,2001
+M1L,Malay-Bahasa,0,2001
+M1L,Maltese,0,2001
+M1L,Blackfoot,0,2001
+M1L,Dogrib,0,2001
+M1L,Danish,0,2001
+M1L,Swedish,0,2001
+M1L,Malayalam,15,2001
+M1L,Thai,0,2001
+M1L,Kurdish,15,2001
+M1L,Pashto,35,2001
+M1L,Flemish,0,2001
+M1L,Chipewyan,0,2001
+M1L,Kutchin-Gwich'in (Loucheux),0,2001
+M1L,Norwegian,0,2001
+M1L,Gaelic languages,0,2001
+M1L,Tlingit,0,2001
+M1L,Other languages,630,2001
+M1M,Cantonese,50,2001
+M1M,Mandarin,15,2001
+M1M,Hakka,0,2001
+M1M,"Chinese, n.o.s.",215,2001
+M1M,Italian,125,2001
+M1M,Portuguese,35,2001
+M1M,Spanish,75,2001
+M1M,German,30,2001
+M1M,Polish,60,2001
+M1M,Punjabi,65,2001
+M1M,Greek,75,2001
+M1M,Vietnamese,0,2001
+M1M,Arabic,45,2001
+M1M,Cree,0,2001
+M1M,Tagalog (Pilipino),75,2001
+M1M,Ukrainian,20,2001
+M1M,Persian (Farsi),90,2001
+M1M,Korean,75,2001
+M1M,Hungarian,35,2001
+M1M,Tamil,265,2001
+M1M,Gujarati,0,2001
+M1M,Croatian,0,2001
+M1M,Armenian,0,2001
+M1M,Inuktitut (Eskimo),0,2001
+M1M,Hindi,0,2001
+M1M,Urdu,15,2001
+M1M,Japanese,80,2001
+M1M,Russian,95,2001
+M1M,Creoles,0,2001
+M1M,Dutch,10,2001
+M1M,Khmer (Cambodian),0,2001
+M1M,Ojibway,0,2001
+M1M,Romanian,0,2001
+M1M,Czech,0,2001
+M1M,Lao,0,2001
+M1M,Macedonian,75,2001
+M1M,Finnish,0,2001
+M1M,Montagnais-Naskapi,0,2001
+M1M,Hebrew,0,2001
+M1M,Yiddish,0,2001
+M1M,Serbian,50,2001
+M1M,Bengali,50,2001
+M1M,Slovak,20,2001
+M1M,Estonian,15,2001
+M1M,Turkish,80,2001
+M1M,Lithuanian,0,2001
+M1M,Latvian (Lettish),15,2001
+M1M,Micmac,0,2001
+M1M,Slovenian,0,2001
+M1M,Bulgarian,0,2001
+M1M,Serbo-Croatian,0,2001
+M1M,Dakota/Sioux,0,2001
+M1M,South Slave,0,2001
+M1M,Malay-Bahasa,0,2001
+M1M,Maltese,0,2001
+M1M,Blackfoot,0,2001
+M1M,Dogrib,0,2001
+M1M,Danish,0,2001
+M1M,Swedish,0,2001
+M1M,Malayalam,0,2001
+M1M,Thai,0,2001
+M1M,Kurdish,10,2001
+M1M,Pashto,20,2001
+M1M,Flemish,0,2001
+M1M,Chipewyan,0,2001
+M1M,Kutchin-Gwich'in (Loucheux),0,2001
+M1M,Norwegian,0,2001
+M1M,Gaelic languages,0,2001
+M1M,Tlingit,0,2001
+M1M,Other languages,190,2001
+M1N,Cantonese,520,2001
+M1N,Mandarin,145,2001
+M1N,Hakka,0,2001
+M1N,"Chinese, n.o.s.",280,2001
+M1N,Italian,105,2001
+M1N,Portuguese,0,2001
+M1N,Spanish,50,2001
+M1N,German,25,2001
+M1N,Polish,30,2001
+M1N,Punjabi,15,2001
+M1N,Greek,85,2001
+M1N,Vietnamese,0,2001
+M1N,Arabic,15,2001
+M1N,Cree,0,2001
+M1N,Tagalog (Pilipino),60,2001
+M1N,Ukrainian,0,2001
+M1N,Persian (Farsi),35,2001
+M1N,Korean,10,2001
+M1N,Hungarian,20,2001
+M1N,Tamil,50,2001
+M1N,Gujarati,0,2001
+M1N,Croatian,0,2001
+M1N,Armenian,0,2001
+M1N,Inuktitut (Eskimo),0,2001
+M1N,Hindi,0,2001
+M1N,Urdu,10,2001
+M1N,Japanese,40,2001
+M1N,Russian,40,2001
+M1N,Creoles,0,2001
+M1N,Dutch,15,2001
+M1N,Khmer (Cambodian),0,2001
+M1N,Ojibway,0,2001
+M1N,Romanian,20,2001
+M1N,Czech,0,2001
+M1N,Lao,0,2001
+M1N,Macedonian,35,2001
+M1N,Finnish,0,2001
+M1N,Montagnais-Naskapi,0,2001
+M1N,Hebrew,0,2001
+M1N,Yiddish,0,2001
+M1N,Serbian,0,2001
+M1N,Bengali,115,2001
+M1N,Slovak,0,2001
+M1N,Estonian,0,2001
+M1N,Turkish,0,2001
+M1N,Lithuanian,0,2001
+M1N,Latvian (Lettish),10,2001
+M1N,Micmac,0,2001
+M1N,Slovenian,0,2001
+M1N,Bulgarian,0,2001
+M1N,Serbo-Croatian,20,2001
+M1N,Dakota/Sioux,0,2001
+M1N,South Slave,0,2001
+M1N,Malay-Bahasa,0,2001
+M1N,Maltese,0,2001
+M1N,Blackfoot,0,2001
+M1N,Dogrib,0,2001
+M1N,Danish,0,2001
+M1N,Swedish,0,2001
+M1N,Malayalam,0,2001
+M1N,Thai,0,2001
+M1N,Kurdish,0,2001
+M1N,Pashto,0,2001
+M1N,Flemish,0,2001
+M1N,Chipewyan,0,2001
+M1N,Kutchin-Gwich'in (Loucheux),0,2001
+M1N,Norwegian,0,2001
+M1N,Gaelic languages,0,2001
+M1N,Tlingit,0,2001
+M1N,Other languages,105,2001
+M1P,Cantonese,1060,2001
+M1P,Mandarin,225,2001
+M1P,Hakka,15,2001
+M1P,"Chinese, n.o.s.",1155,2001
+M1P,Italian,130,2001
+M1P,Portuguese,90,2001
+M1P,Spanish,95,2001
+M1P,German,15,2001
+M1P,Polish,75,2001
+M1P,Punjabi,70,2001
+M1P,Greek,290,2001
+M1P,Vietnamese,90,2001
+M1P,Arabic,330,2001
+M1P,Cree,0,2001
+M1P,Tagalog (Pilipino),335,2001
+M1P,Ukrainian,0,2001
+M1P,Persian (Farsi),475,2001
+M1P,Korean,295,2001
+M1P,Hungarian,35,2001
+M1P,Tamil,1685,2001
+M1P,Gujarati,435,2001
+M1P,Croatian,10,2001
+M1P,Armenian,110,2001
+M1P,Inuktitut (Eskimo),0,2001
+M1P,Hindi,55,2001
+M1P,Urdu,405,2001
+M1P,Japanese,10,2001
+M1P,Russian,30,2001
+M1P,Creoles,50,2001
+M1P,Dutch,0,2001
+M1P,Khmer (Cambodian),0,2001
+M1P,Ojibway,0,2001
+M1P,Romanian,60,2001
+M1P,Czech,20,2001
+M1P,Lao,0,2001
+M1P,Macedonian,105,2001
+M1P,Finnish,0,2001
+M1P,Montagnais-Naskapi,0,2001
+M1P,Hebrew,0,2001
+M1P,Yiddish,0,2001
+M1P,Serbian,0,2001
+M1P,Bengali,80,2001
+M1P,Slovak,0,2001
+M1P,Estonian,0,2001
+M1P,Turkish,10,2001
+M1P,Lithuanian,0,2001
+M1P,Latvian (Lettish),30,2001
+M1P,Micmac,0,2001
+M1P,Slovenian,25,2001
+M1P,Bulgarian,25,2001
+M1P,Serbo-Croatian,10,2001
+M1P,Dakota/Sioux,0,2001
+M1P,South Slave,0,2001
+M1P,Malay-Bahasa,0,2001
+M1P,Maltese,0,2001
+M1P,Blackfoot,0,2001
+M1P,Dogrib,0,2001
+M1P,Danish,0,2001
+M1P,Swedish,0,2001
+M1P,Malayalam,0,2001
+M1P,Thai,0,2001
+M1P,Kurdish,20,2001
+M1P,Pashto,35,2001
+M1P,Flemish,0,2001
+M1P,Chipewyan,0,2001
+M1P,Kutchin-Gwich'in (Loucheux),0,2001
+M1P,Norwegian,0,2001
+M1P,Gaelic languages,0,2001
+M1P,Tlingit,0,2001
+M1P,Other languages,400,2001
+M1R,Cantonese,135,2001
+M1R,Mandarin,50,2001
+M1R,Hakka,0,2001
+M1R,"Chinese, n.o.s.",505,2001
+M1R,Italian,220,2001
+M1R,Portuguese,15,2001
+M1R,Spanish,55,2001
+M1R,German,25,2001
+M1R,Polish,60,2001
+M1R,Punjabi,35,2001
+M1R,Greek,250,2001
+M1R,Vietnamese,55,2001
+M1R,Arabic,490,2001
+M1R,Cree,0,2001
+M1R,Tagalog (Pilipino),400,2001
+M1R,Ukrainian,0,2001
+M1R,Persian (Farsi),150,2001
+M1R,Korean,150,2001
+M1R,Hungarian,15,2001
+M1R,Tamil,490,2001
+M1R,Gujarati,15,2001
+M1R,Croatian,10,2001
+M1R,Armenian,120,2001
+M1R,Inuktitut (Eskimo),0,2001
+M1R,Hindi,0,2001
+M1R,Urdu,175,2001
+M1R,Japanese,20,2001
+M1R,Russian,35,2001
+M1R,Creoles,0,2001
+M1R,Dutch,0,2001
+M1R,Khmer (Cambodian),0,2001
+M1R,Ojibway,0,2001
+M1R,Romanian,15,2001
+M1R,Czech,0,2001
+M1R,Lao,0,2001
+M1R,Macedonian,40,2001
+M1R,Finnish,0,2001
+M1R,Montagnais-Naskapi,0,2001
+M1R,Hebrew,0,2001
+M1R,Yiddish,0,2001
+M1R,Serbian,70,2001
+M1R,Bengali,0,2001
+M1R,Slovak,15,2001
+M1R,Estonian,25,2001
+M1R,Turkish,60,2001
+M1R,Lithuanian,0,2001
+M1R,Latvian (Lettish),20,2001
+M1R,Micmac,0,2001
+M1R,Slovenian,15,2001
+M1R,Bulgarian,40,2001
+M1R,Serbo-Croatian,0,2001
+M1R,Dakota/Sioux,0,2001
+M1R,South Slave,0,2001
+M1R,Malay-Bahasa,0,2001
+M1R,Maltese,0,2001
+M1R,Blackfoot,0,2001
+M1R,Dogrib,0,2001
+M1R,Danish,0,2001
+M1R,Swedish,0,2001
+M1R,Malayalam,10,2001
+M1R,Thai,0,2001
+M1R,Kurdish,0,2001
+M1R,Pashto,0,2001
+M1R,Flemish,0,2001
+M1R,Chipewyan,0,2001
+M1R,Kutchin-Gwich'in (Loucheux),0,2001
+M1R,Norwegian,0,2001
+M1R,Gaelic languages,0,2001
+M1R,Tlingit,0,2001
+M1R,Other languages,325,2001
+M1S,Cantonese,4595,2001
+M1S,Mandarin,680,2001
+M1S,Hakka,15,2001
+M1S,"Chinese, n.o.s.",3975,2001
+M1S,Italian,150,2001
+M1S,Portuguese,10,2001
+M1S,Spanish,0,2001
+M1S,German,0,2001
+M1S,Polish,20,2001
+M1S,Punjabi,25,2001
+M1S,Greek,210,2001
+M1S,Vietnamese,95,2001
+M1S,Arabic,50,2001
+M1S,Cree,0,2001
+M1S,Tagalog (Pilipino),145,2001
+M1S,Ukrainian,85,2001
+M1S,Persian (Farsi),90,2001
+M1S,Korean,20,2001
+M1S,Hungarian,30,2001
+M1S,Tamil,620,2001
+M1S,Gujarati,150,2001
+M1S,Croatian,0,2001
+M1S,Armenian,85,2001
+M1S,Inuktitut (Eskimo),0,2001
+M1S,Hindi,30,2001
+M1S,Urdu,145,2001
+M1S,Japanese,15,2001
+M1S,Russian,25,2001
+M1S,Creoles,30,2001
+M1S,Dutch,10,2001
+M1S,Khmer (Cambodian),0,2001
+M1S,Ojibway,0,2001
+M1S,Romanian,15,2001
+M1S,Czech,0,2001
+M1S,Lao,0,2001
+M1S,Macedonian,35,2001
+M1S,Finnish,0,2001
+M1S,Montagnais-Naskapi,0,2001
+M1S,Hebrew,0,2001
+M1S,Yiddish,0,2001
+M1S,Serbian,0,2001
+M1S,Bengali,0,2001
+M1S,Slovak,0,2001
+M1S,Estonian,0,2001
+M1S,Turkish,0,2001
+M1S,Lithuanian,0,2001
+M1S,Latvian (Lettish),15,2001
+M1S,Micmac,0,2001
+M1S,Slovenian,0,2001
+M1S,Bulgarian,15,2001
+M1S,Serbo-Croatian,0,2001
+M1S,Dakota/Sioux,0,2001
+M1S,South Slave,0,2001
+M1S,Malay-Bahasa,0,2001
+M1S,Maltese,0,2001
+M1S,Blackfoot,0,2001
+M1S,Dogrib,0,2001
+M1S,Danish,0,2001
+M1S,Swedish,0,2001
+M1S,Malayalam,0,2001
+M1S,Thai,0,2001
+M1S,Kurdish,0,2001
+M1S,Pashto,55,2001
+M1S,Flemish,0,2001
+M1S,Chipewyan,0,2001
+M1S,Kutchin-Gwich'in (Loucheux),0,2001
+M1S,Norwegian,0,2001
+M1S,Gaelic languages,0,2001
+M1S,Tlingit,0,2001
+M1S,Other languages,555,2001
+M1T,Cantonese,2420,2001
+M1T,Mandarin,655,2001
+M1T,Hakka,0,2001
+M1T,"Chinese, n.o.s.",2270,2001
+M1T,Italian,280,2001
+M1T,Portuguese,75,2001
+M1T,Spanish,30,2001
+M1T,German,35,2001
+M1T,Polish,10,2001
+M1T,Punjabi,35,2001
+M1T,Greek,225,2001
+M1T,Vietnamese,20,2001
+M1T,Arabic,155,2001
+M1T,Cree,0,2001
+M1T,Tagalog (Pilipino),130,2001
+M1T,Ukrainian,0,2001
+M1T,Persian (Farsi),330,2001
+M1T,Korean,85,2001
+M1T,Hungarian,35,2001
+M1T,Tamil,505,2001
+M1T,Gujarati,70,2001
+M1T,Croatian,15,2001
+M1T,Armenian,405,2001
+M1T,Inuktitut (Eskimo),0,2001
+M1T,Hindi,85,2001
+M1T,Urdu,300,2001
+M1T,Japanese,10,2001
+M1T,Russian,40,2001
+M1T,Creoles,0,2001
+M1T,Dutch,0,2001
+M1T,Khmer (Cambodian),0,2001
+M1T,Ojibway,0,2001
+M1T,Romanian,15,2001
+M1T,Czech,0,2001
+M1T,Lao,10,2001
+M1T,Macedonian,55,2001
+M1T,Finnish,0,2001
+M1T,Montagnais-Naskapi,0,2001
+M1T,Hebrew,0,2001
+M1T,Yiddish,0,2001
+M1T,Serbian,60,2001
+M1T,Bengali,115,2001
+M1T,Slovak,0,2001
+M1T,Estonian,0,2001
+M1T,Turkish,15,2001
+M1T,Lithuanian,0,2001
+M1T,Latvian (Lettish),0,2001
+M1T,Micmac,0,2001
+M1T,Slovenian,10,2001
+M1T,Bulgarian,0,2001
+M1T,Serbo-Croatian,20,2001
+M1T,Dakota/Sioux,0,2001
+M1T,South Slave,0,2001
+M1T,Malay-Bahasa,10,2001
+M1T,Maltese,0,2001
+M1T,Blackfoot,0,2001
+M1T,Dogrib,0,2001
+M1T,Danish,0,2001
+M1T,Swedish,0,2001
+M1T,Malayalam,20,2001
+M1T,Thai,0,2001
+M1T,Kurdish,0,2001
+M1T,Pashto,80,2001
+M1T,Flemish,0,2001
+M1T,Chipewyan,0,2001
+M1T,Kutchin-Gwich'in (Loucheux),0,2001
+M1T,Norwegian,0,2001
+M1T,Gaelic languages,0,2001
+M1T,Tlingit,0,2001
+M1T,Other languages,360,2001
+M1V,Cantonese,9730,2001
+M1V,Mandarin,1010,2001
+M1V,Hakka,100,2001
+M1V,"Chinese, n.o.s.",6770,2001
+M1V,Italian,115,2001
+M1V,Portuguese,65,2001
+M1V,Spanish,95,2001
+M1V,German,0,2001
+M1V,Polish,30,2001
+M1V,Punjabi,190,2001
+M1V,Greek,210,2001
+M1V,Vietnamese,95,2001
+M1V,Arabic,150,2001
+M1V,Cree,0,2001
+M1V,Tagalog (Pilipino),190,2001
+M1V,Ukrainian,0,2001
+M1V,Persian (Farsi),25,2001
+M1V,Korean,30,2001
+M1V,Hungarian,10,2001
+M1V,Tamil,1745,2001
+M1V,Gujarati,65,2001
+M1V,Croatian,10,2001
+M1V,Armenian,0,2001
+M1V,Inuktitut (Eskimo),0,2001
+M1V,Hindi,80,2001
+M1V,Urdu,255,2001
+M1V,Japanese,30,2001
+M1V,Russian,20,2001
+M1V,Creoles,10,2001
+M1V,Dutch,10,2001
+M1V,Khmer (Cambodian),0,2001
+M1V,Ojibway,0,2001
+M1V,Romanian,20,2001
+M1V,Czech,10,2001
+M1V,Lao,0,2001
+M1V,Macedonian,30,2001
+M1V,Finnish,0,2001
+M1V,Montagnais-Naskapi,0,2001
+M1V,Hebrew,0,2001
+M1V,Yiddish,0,2001
+M1V,Serbian,0,2001
+M1V,Bengali,0,2001
+M1V,Slovak,0,2001
+M1V,Estonian,10,2001
+M1V,Turkish,0,2001
+M1V,Lithuanian,0,2001
+M1V,Latvian (Lettish),0,2001
+M1V,Micmac,0,2001
+M1V,Slovenian,0,2001
+M1V,Bulgarian,0,2001
+M1V,Serbo-Croatian,0,2001
+M1V,Dakota/Sioux,0,2001
+M1V,South Slave,0,2001
+M1V,Malay-Bahasa,0,2001
+M1V,Maltese,0,2001
+M1V,Blackfoot,0,2001
+M1V,Dogrib,0,2001
+M1V,Danish,0,2001
+M1V,Swedish,0,2001
+M1V,Malayalam,0,2001
+M1V,Thai,0,2001
+M1V,Kurdish,0,2001
+M1V,Pashto,0,2001
+M1V,Flemish,0,2001
+M1V,Chipewyan,0,2001
+M1V,Kutchin-Gwich'in (Loucheux),0,2001
+M1V,Norwegian,0,2001
+M1V,Gaelic languages,0,2001
+M1V,Tlingit,0,2001
+M1V,Other languages,780,2001
+M1W,Cantonese,5200,2001
+M1W,Mandarin,880,2001
+M1W,Hakka,50,2001
+M1W,"Chinese, n.o.s.",4420,2001
+M1W,Italian,350,2001
+M1W,Portuguese,35,2001
+M1W,Spanish,100,2001
+M1W,German,15,2001
+M1W,Polish,0,2001
+M1W,Punjabi,20,2001
+M1W,Greek,320,2001
+M1W,Vietnamese,105,2001
+M1W,Arabic,335,2001
+M1W,Cree,0,2001
+M1W,Tagalog (Pilipino),230,2001
+M1W,Ukrainian,0,2001
+M1W,Persian (Farsi),285,2001
+M1W,Korean,175,2001
+M1W,Hungarian,10,2001
+M1W,Tamil,1380,2001
+M1W,Gujarati,235,2001
+M1W,Croatian,0,2001
+M1W,Armenian,345,2001
+M1W,Inuktitut (Eskimo),0,2001
+M1W,Hindi,50,2001
+M1W,Urdu,165,2001
+M1W,Japanese,10,2001
+M1W,Russian,0,2001
+M1W,Creoles,30,2001
+M1W,Dutch,0,2001
+M1W,Khmer (Cambodian),0,2001
+M1W,Ojibway,0,2001
+M1W,Romanian,35,2001
+M1W,Czech,0,2001
+M1W,Lao,0,2001
+M1W,Macedonian,90,2001
+M1W,Finnish,0,2001
+M1W,Montagnais-Naskapi,0,2001
+M1W,Hebrew,0,2001
+M1W,Yiddish,0,2001
+M1W,Serbian,0,2001
+M1W,Bengali,25,2001
+M1W,Slovak,0,2001
+M1W,Estonian,0,2001
+M1W,Turkish,30,2001
+M1W,Lithuanian,0,2001
+M1W,Latvian (Lettish),0,2001
+M1W,Micmac,0,2001
+M1W,Slovenian,15,2001
+M1W,Bulgarian,10,2001
+M1W,Serbo-Croatian,0,2001
+M1W,Dakota/Sioux,0,2001
+M1W,South Slave,0,2001
+M1W,Malay-Bahasa,15,2001
+M1W,Maltese,0,2001
+M1W,Blackfoot,0,2001
+M1W,Dogrib,0,2001
+M1W,Danish,0,2001
+M1W,Swedish,0,2001
+M1W,Malayalam,0,2001
+M1W,Thai,30,2001
+M1W,Kurdish,0,2001
+M1W,Pashto,0,2001
+M1W,Flemish,0,2001
+M1W,Chipewyan,0,2001
+M1W,Kutchin-Gwich'in (Loucheux),0,2001
+M1W,Norwegian,0,2001
+M1W,Gaelic languages,0,2001
+M1W,Tlingit,0,2001
+M1W,Other languages,790,2001
+M1X,Cantonese,55,2001
+M1X,Mandarin,0,2001
+M1X,Hakka,0,2001
+M1X,"Chinese, n.o.s.",50,2001
+M1X,Italian,0,2001
+M1X,Portuguese,0,2001
+M1X,Spanish,25,2001
+M1X,German,0,2001
+M1X,Polish,0,2001
+M1X,Punjabi,0,2001
+M1X,Greek,0,2001
+M1X,Vietnamese,0,2001
+M1X,Arabic,10,2001
+M1X,Cree,0,2001
+M1X,Tagalog (Pilipino),15,2001
+M1X,Ukrainian,0,2001
+M1X,Persian (Farsi),0,2001
+M1X,Korean,0,2001
+M1X,Hungarian,0,2001
+M1X,Tamil,35,2001
+M1X,Gujarati,10,2001
+M1X,Croatian,0,2001
+M1X,Armenian,0,2001
+M1X,Inuktitut (Eskimo),0,2001
+M1X,Hindi,25,2001
+M1X,Urdu,0,2001
+M1X,Japanese,0,2001
+M1X,Russian,0,2001
+M1X,Creoles,0,2001
+M1X,Dutch,0,2001
+M1X,Khmer (Cambodian),0,2001
+M1X,Ojibway,0,2001
+M1X,Romanian,0,2001
+M1X,Czech,0,2001
+M1X,Lao,0,2001
+M1X,Macedonian,0,2001
+M1X,Finnish,0,2001
+M1X,Montagnais-Naskapi,0,2001
+M1X,Hebrew,0,2001
+M1X,Yiddish,0,2001
+M1X,Serbian,0,2001
+M1X,Bengali,0,2001
+M1X,Slovak,0,2001
+M1X,Estonian,0,2001
+M1X,Turkish,0,2001
+M1X,Lithuanian,0,2001
+M1X,Latvian (Lettish),0,2001
+M1X,Micmac,0,2001
+M1X,Slovenian,0,2001
+M1X,Bulgarian,0,2001
+M1X,Serbo-Croatian,0,2001
+M1X,Dakota/Sioux,0,2001
+M1X,South Slave,0,2001
+M1X,Malay-Bahasa,0,2001
+M1X,Maltese,0,2001
+M1X,Blackfoot,0,2001
+M1X,Dogrib,0,2001
+M1X,Danish,0,2001
+M1X,Swedish,0,2001
+M1X,Malayalam,0,2001
+M1X,Thai,0,2001
+M1X,Kurdish,0,2001
+M1X,Pashto,0,2001
+M1X,Flemish,0,2001
+M1X,Chipewyan,0,2001
+M1X,Kutchin-Gwich'in (Loucheux),0,2001
+M1X,Norwegian,0,2001
+M1X,Gaelic languages,0,2001
+M1X,Tlingit,0,2001
+M1X,Other languages,10,2001
+M2H,Cantonese,2055,2001
+M2H,Mandarin,665,2001
+M2H,Hakka,0,2001
+M2H,"Chinese, n.o.s.",2300,2001
+M2H,Italian,130,2001
+M2H,Portuguese,0,2001
+M2H,Spanish,55,2001
+M2H,German,0,2001
+M2H,Polish,15,2001
+M2H,Punjabi,55,2001
+M2H,Greek,120,2001
+M2H,Vietnamese,0,2001
+M2H,Arabic,85,2001
+M2H,Cree,0,2001
+M2H,Tagalog (Pilipino),80,2001
+M2H,Ukrainian,10,2001
+M2H,Persian (Farsi),480,2001
+M2H,Korean,440,2001
+M2H,Hungarian,20,2001
+M2H,Tamil,120,2001
+M2H,Gujarati,65,2001
+M2H,Croatian,0,2001
+M2H,Armenian,65,2001
+M2H,Inuktitut (Eskimo),0,2001
+M2H,Hindi,30,2001
+M2H,Urdu,80,2001
+M2H,Japanese,30,2001
+M2H,Russian,60,2001
+M2H,Creoles,0,2001
+M2H,Dutch,0,2001
+M2H,Khmer (Cambodian),0,2001
+M2H,Ojibway,0,2001
+M2H,Romanian,80,2001
+M2H,Czech,10,2001
+M2H,Lao,0,2001
+M2H,Macedonian,35,2001
+M2H,Finnish,10,2001
+M2H,Montagnais-Naskapi,0,2001
+M2H,Hebrew,20,2001
+M2H,Yiddish,0,2001
+M2H,Serbian,15,2001
+M2H,Bengali,75,2001
+M2H,Slovak,10,2001
+M2H,Estonian,0,2001
+M2H,Turkish,35,2001
+M2H,Lithuanian,0,2001
+M2H,Latvian (Lettish),0,2001
+M2H,Micmac,0,2001
+M2H,Slovenian,0,2001
+M2H,Bulgarian,0,2001
+M2H,Serbo-Croatian,0,2001
+M2H,Dakota/Sioux,0,2001
+M2H,South Slave,0,2001
+M2H,Malay-Bahasa,10,2001
+M2H,Maltese,0,2001
+M2H,Blackfoot,0,2001
+M2H,Dogrib,0,2001
+M2H,Danish,0,2001
+M2H,Swedish,0,2001
+M2H,Malayalam,0,2001
+M2H,Thai,0,2001
+M2H,Kurdish,0,2001
+M2H,Pashto,0,2001
+M2H,Flemish,0,2001
+M2H,Chipewyan,0,2001
+M2H,Kutchin-Gwich'in (Loucheux),0,2001
+M2H,Norwegian,0,2001
+M2H,Gaelic languages,0,2001
+M2H,Tlingit,0,2001
+M2H,Other languages,395,2001
+M2J,Cantonese,1565,2001
+M2J,Mandarin,1220,2001
+M2J,Hakka,0,2001
+M2J,"Chinese, n.o.s.",2520,2001
+M2J,Italian,355,2001
+M2J,Portuguese,75,2001
+M2J,Spanish,150,2001
+M2J,German,50,2001
+M2J,Polish,120,2001
+M2J,Punjabi,75,2001
+M2J,Greek,330,2001
+M2J,Vietnamese,65,2001
+M2J,Arabic,565,2001
+M2J,Cree,0,2001
+M2J,Tagalog (Pilipino),415,2001
+M2J,Ukrainian,10,2001
+M2J,Persian (Farsi),1825,2001
+M2J,Korean,715,2001
+M2J,Hungarian,75,2001
+M2J,Tamil,655,2001
+M2J,Gujarati,230,2001
+M2J,Croatian,15,2001
+M2J,Armenian,435,2001
+M2J,Inuktitut (Eskimo),0,2001
+M2J,Hindi,65,2001
+M2J,Urdu,315,2001
+M2J,Japanese,80,2001
+M2J,Russian,405,2001
+M2J,Creoles,0,2001
+M2J,Dutch,0,2001
+M2J,Khmer (Cambodian),0,2001
+M2J,Ojibway,0,2001
+M2J,Romanian,525,2001
+M2J,Czech,60,2001
+M2J,Lao,0,2001
+M2J,Macedonian,85,2001
+M2J,Finnish,0,2001
+M2J,Montagnais-Naskapi,0,2001
+M2J,Hebrew,0,2001
+M2J,Yiddish,0,2001
+M2J,Serbian,165,2001
+M2J,Bengali,30,2001
+M2J,Slovak,20,2001
+M2J,Estonian,25,2001
+M2J,Turkish,95,2001
+M2J,Lithuanian,10,2001
+M2J,Latvian (Lettish),10,2001
+M2J,Micmac,0,2001
+M2J,Slovenian,0,2001
+M2J,Bulgarian,0,2001
+M2J,Serbo-Croatian,30,2001
+M2J,Dakota/Sioux,0,2001
+M2J,South Slave,0,2001
+M2J,Malay-Bahasa,30,2001
+M2J,Maltese,0,2001
+M2J,Blackfoot,0,2001
+M2J,Dogrib,0,2001
+M2J,Danish,10,2001
+M2J,Swedish,0,2001
+M2J,Malayalam,15,2001
+M2J,Thai,0,2001
+M2J,Kurdish,35,2001
+M2J,Pashto,0,2001
+M2J,Flemish,0,2001
+M2J,Chipewyan,0,2001
+M2J,Kutchin-Gwich'in (Loucheux),0,2001
+M2J,Norwegian,0,2001
+M2J,Gaelic languages,0,2001
+M2J,Tlingit,0,2001
+M2J,Other languages,620,2001
+M2K,Cantonese,470,2001
+M2K,Mandarin,210,2001
+M2K,Hakka,0,2001
+M2K,"Chinese, n.o.s.",440,2001
+M2K,Italian,15,2001
+M2K,Portuguese,0,2001
+M2K,Spanish,0,2001
+M2K,German,0,2001
+M2K,Polish,25,2001
+M2K,Punjabi,0,2001
+M2K,Greek,35,2001
+M2K,Vietnamese,0,2001
+M2K,Arabic,10,2001
+M2K,Cree,0,2001
+M2K,Tagalog (Pilipino),15,2001
+M2K,Ukrainian,0,2001
+M2K,Persian (Farsi),360,2001
+M2K,Korean,220,2001
+M2K,Hungarian,50,2001
+M2K,Tamil,0,2001
+M2K,Gujarati,0,2001
+M2K,Croatian,40,2001
+M2K,Armenian,55,2001
+M2K,Inuktitut (Eskimo),0,2001
+M2K,Hindi,10,2001
+M2K,Urdu,10,2001
+M2K,Japanese,25,2001
+M2K,Russian,60,2001
+M2K,Creoles,0,2001
+M2K,Dutch,0,2001
+M2K,Khmer (Cambodian),0,2001
+M2K,Ojibway,0,2001
+M2K,Romanian,260,2001
+M2K,Czech,0,2001
+M2K,Lao,0,2001
+M2K,Macedonian,0,2001
+M2K,Finnish,10,2001
+M2K,Montagnais-Naskapi,0,2001
+M2K,Hebrew,0,2001
+M2K,Yiddish,0,2001
+M2K,Serbian,10,2001
+M2K,Bengali,0,2001
+M2K,Slovak,10,2001
+M2K,Estonian,10,2001
+M2K,Turkish,30,2001
+M2K,Lithuanian,0,2001
+M2K,Latvian (Lettish),10,2001
+M2K,Micmac,0,2001
+M2K,Slovenian,0,2001
+M2K,Bulgarian,10,2001
+M2K,Serbo-Croatian,10,2001
+M2K,Dakota/Sioux,0,2001
+M2K,South Slave,0,2001
+M2K,Malay-Bahasa,0,2001
+M2K,Maltese,0,2001
+M2K,Blackfoot,0,2001
+M2K,Dogrib,0,2001
+M2K,Danish,0,2001
+M2K,Swedish,0,2001
+M2K,Malayalam,0,2001
+M2K,Thai,0,2001
+M2K,Kurdish,0,2001
+M2K,Pashto,0,2001
+M2K,Flemish,0,2001
+M2K,Chipewyan,0,2001
+M2K,Kutchin-Gwich'in (Loucheux),0,2001
+M2K,Norwegian,0,2001
+M2K,Gaelic languages,0,2001
+M2K,Tlingit,0,2001
+M2K,Other languages,70,2001
+M2L,Cantonese,175,2001
+M2L,Mandarin,140,2001
+M2L,Hakka,0,2001
+M2L,"Chinese, n.o.s.",235,2001
+M2L,Italian,15,2001
+M2L,Portuguese,0,2001
+M2L,Spanish,80,2001
+M2L,German,0,2001
+M2L,Polish,0,2001
+M2L,Punjabi,0,2001
+M2L,Greek,10,2001
+M2L,Vietnamese,0,2001
+M2L,Arabic,25,2001
+M2L,Cree,0,2001
+M2L,Tagalog (Pilipino),40,2001
+M2L,Ukrainian,0,2001
+M2L,Persian (Farsi),255,2001
+M2L,Korean,215,2001
+M2L,Hungarian,0,2001
+M2L,Tamil,10,2001
+M2L,Gujarati,0,2001
+M2L,Croatian,0,2001
+M2L,Armenian,25,2001
+M2L,Inuktitut (Eskimo),0,2001
+M2L,Hindi,0,2001
+M2L,Urdu,0,2001
+M2L,Japanese,65,2001
+M2L,Russian,25,2001
+M2L,Creoles,0,2001
+M2L,Dutch,0,2001
+M2L,Khmer (Cambodian),0,2001
+M2L,Ojibway,0,2001
+M2L,Romanian,30,2001
+M2L,Czech,0,2001
+M2L,Lao,0,2001
+M2L,Macedonian,10,2001
+M2L,Finnish,0,2001
+M2L,Montagnais-Naskapi,0,2001
+M2L,Hebrew,0,2001
+M2L,Yiddish,0,2001
+M2L,Serbian,25,2001
+M2L,Bengali,0,2001
+M2L,Slovak,0,2001
+M2L,Estonian,0,2001
+M2L,Turkish,0,2001
+M2L,Lithuanian,0,2001
+M2L,Latvian (Lettish),0,2001
+M2L,Micmac,0,2001
+M2L,Slovenian,0,2001
+M2L,Bulgarian,0,2001
+M2L,Serbo-Croatian,25,2001
+M2L,Dakota/Sioux,0,2001
+M2L,South Slave,0,2001
+M2L,Malay-Bahasa,0,2001
+M2L,Maltese,0,2001
+M2L,Blackfoot,0,2001
+M2L,Dogrib,0,2001
+M2L,Danish,15,2001
+M2L,Swedish,0,2001
+M2L,Malayalam,0,2001
+M2L,Thai,0,2001
+M2L,Kurdish,0,2001
+M2L,Pashto,0,2001
+M2L,Flemish,0,2001
+M2L,Chipewyan,0,2001
+M2L,Kutchin-Gwich'in (Loucheux),0,2001
+M2L,Norwegian,0,2001
+M2L,Gaelic languages,0,2001
+M2L,Tlingit,0,2001
+M2L,Other languages,55,2001
+M2M,Cantonese,1450,2001
+M2M,Mandarin,520,2001
+M2M,Hakka,10,2001
+M2M,"Chinese, n.o.s.",1395,2001
+M2M,Italian,340,2001
+M2M,Portuguese,40,2001
+M2M,Spanish,135,2001
+M2M,German,15,2001
+M2M,Polish,60,2001
+M2M,Punjabi,0,2001
+M2M,Greek,55,2001
+M2M,Vietnamese,30,2001
+M2M,Arabic,65,2001
+M2M,Cree,0,2001
+M2M,Tagalog (Pilipino),140,2001
+M2M,Ukrainian,10,2001
+M2M,Persian (Farsi),335,2001
+M2M,Korean,1140,2001
+M2M,Hungarian,40,2001
+M2M,Tamil,40,2001
+M2M,Gujarati,10,2001
+M2M,Croatian,25,2001
+M2M,Armenian,30,2001
+M2M,Inuktitut (Eskimo),0,2001
+M2M,Hindi,45,2001
+M2M,Urdu,10,2001
+M2M,Japanese,135,2001
+M2M,Russian,980,2001
+M2M,Creoles,0,2001
+M2M,Dutch,0,2001
+M2M,Khmer (Cambodian),0,2001
+M2M,Ojibway,0,2001
+M2M,Romanian,85,2001
+M2M,Czech,10,2001
+M2M,Lao,0,2001
+M2M,Macedonian,15,2001
+M2M,Finnish,10,2001
+M2M,Montagnais-Naskapi,0,2001
+M2M,Hebrew,115,2001
+M2M,Yiddish,10,2001
+M2M,Serbian,40,2001
+M2M,Bengali,0,2001
+M2M,Slovak,0,2001
+M2M,Estonian,25,2001
+M2M,Turkish,20,2001
+M2M,Lithuanian,0,2001
+M2M,Latvian (Lettish),0,2001
+M2M,Micmac,0,2001
+M2M,Slovenian,15,2001
+M2M,Bulgarian,0,2001
+M2M,Serbo-Croatian,0,2001
+M2M,Dakota/Sioux,0,2001
+M2M,South Slave,0,2001
+M2M,Malay-Bahasa,10,2001
+M2M,Maltese,0,2001
+M2M,Blackfoot,0,2001
+M2M,Dogrib,0,2001
+M2M,Danish,0,2001
+M2M,Swedish,0,2001
+M2M,Malayalam,10,2001
+M2M,Thai,0,2001
+M2M,Kurdish,0,2001
+M2M,Pashto,0,2001
+M2M,Flemish,0,2001
+M2M,Chipewyan,0,2001
+M2M,Kutchin-Gwich'in (Loucheux),0,2001
+M2M,Norwegian,0,2001
+M2M,Gaelic languages,0,2001
+M2M,Tlingit,0,2001
+M2M,Other languages,240,2001
+M2N,Cantonese,2435,2001
+M2N,Mandarin,810,2001
+M2N,Hakka,0,2001
+M2N,"Chinese, n.o.s.",1850,2001
+M2N,Italian,55,2001
+M2N,Portuguese,35,2001
+M2N,Spanish,90,2001
+M2N,German,15,2001
+M2N,Polish,35,2001
+M2N,Punjabi,0,2001
+M2N,Greek,60,2001
+M2N,Vietnamese,50,2001
+M2N,Arabic,50,2001
+M2N,Cree,0,2001
+M2N,Tagalog (Pilipino),60,2001
+M2N,Ukrainian,10,2001
+M2N,Persian (Farsi),855,2001
+M2N,Korean,1210,2001
+M2N,Hungarian,90,2001
+M2N,Tamil,40,2001
+M2N,Gujarati,0,2001
+M2N,Croatian,10,2001
+M2N,Armenian,50,2001
+M2N,Inuktitut (Eskimo),0,2001
+M2N,Hindi,0,2001
+M2N,Urdu,45,2001
+M2N,Japanese,195,2001
+M2N,Russian,685,2001
+M2N,Creoles,10,2001
+M2N,Dutch,0,2001
+M2N,Khmer (Cambodian),15,2001
+M2N,Ojibway,0,2001
+M2N,Romanian,120,2001
+M2N,Czech,10,2001
+M2N,Lao,0,2001
+M2N,Macedonian,30,2001
+M2N,Finnish,10,2001
+M2N,Montagnais-Naskapi,0,2001
+M2N,Hebrew,20,2001
+M2N,Yiddish,10,2001
+M2N,Serbian,30,2001
+M2N,Bengali,30,2001
+M2N,Slovak,20,2001
+M2N,Estonian,30,2001
+M2N,Turkish,0,2001
+M2N,Lithuanian,0,2001
+M2N,Latvian (Lettish),20,2001
+M2N,Micmac,0,2001
+M2N,Slovenian,0,2001
+M2N,Bulgarian,40,2001
+M2N,Serbo-Croatian,0,2001
+M2N,Dakota/Sioux,0,2001
+M2N,South Slave,0,2001
+M2N,Malay-Bahasa,0,2001
+M2N,Maltese,0,2001
+M2N,Blackfoot,0,2001
+M2N,Dogrib,0,2001
+M2N,Danish,0,2001
+M2N,Swedish,0,2001
+M2N,Malayalam,0,2001
+M2N,Thai,0,2001
+M2N,Kurdish,0,2001
+M2N,Pashto,0,2001
+M2N,Flemish,0,2001
+M2N,Chipewyan,0,2001
+M2N,Kutchin-Gwich'in (Loucheux),0,2001
+M2N,Norwegian,0,2001
+M2N,Gaelic languages,0,2001
+M2N,Tlingit,0,2001
+M2N,Other languages,445,2001
+M2P,Cantonese,160,2001
+M2P,Mandarin,10,2001
+M2P,Hakka,0,2001
+M2P,"Chinese, n.o.s.",60,2001
+M2P,Italian,15,2001
+M2P,Portuguese,0,2001
+M2P,Spanish,25,2001
+M2P,German,0,2001
+M2P,Polish,0,2001
+M2P,Punjabi,0,2001
+M2P,Greek,0,2001
+M2P,Vietnamese,0,2001
+M2P,Arabic,20,2001
+M2P,Cree,0,2001
+M2P,Tagalog (Pilipino),0,2001
+M2P,Ukrainian,0,2001
+M2P,Persian (Farsi),35,2001
+M2P,Korean,65,2001
+M2P,Hungarian,0,2001
+M2P,Tamil,0,2001
+M2P,Gujarati,0,2001
+M2P,Croatian,0,2001
+M2P,Armenian,0,2001
+M2P,Inuktitut (Eskimo),0,2001
+M2P,Hindi,0,2001
+M2P,Urdu,0,2001
+M2P,Japanese,10,2001
+M2P,Russian,80,2001
+M2P,Creoles,0,2001
+M2P,Dutch,0,2001
+M2P,Khmer (Cambodian),0,2001
+M2P,Ojibway,0,2001
+M2P,Romanian,0,2001
+M2P,Czech,0,2001
+M2P,Lao,0,2001
+M2P,Macedonian,0,2001
+M2P,Finnish,0,2001
+M2P,Montagnais-Naskapi,0,2001
+M2P,Hebrew,0,2001
+M2P,Yiddish,0,2001
+M2P,Serbian,40,2001
+M2P,Bengali,0,2001
+M2P,Slovak,0,2001
+M2P,Estonian,0,2001
+M2P,Turkish,0,2001
+M2P,Lithuanian,0,2001
+M2P,Latvian (Lettish),0,2001
+M2P,Micmac,0,2001
+M2P,Slovenian,0,2001
+M2P,Bulgarian,0,2001
+M2P,Serbo-Croatian,0,2001
+M2P,Dakota/Sioux,0,2001
+M2P,South Slave,0,2001
+M2P,Malay-Bahasa,0,2001
+M2P,Maltese,0,2001
+M2P,Blackfoot,0,2001
+M2P,Dogrib,0,2001
+M2P,Danish,0,2001
+M2P,Swedish,0,2001
+M2P,Malayalam,0,2001
+M2P,Thai,0,2001
+M2P,Kurdish,0,2001
+M2P,Pashto,0,2001
+M2P,Flemish,0,2001
+M2P,Chipewyan,0,2001
+M2P,Kutchin-Gwich'in (Loucheux),0,2001
+M2P,Norwegian,0,2001
+M2P,Gaelic languages,0,2001
+M2P,Tlingit,0,2001
+M2P,Other languages,10,2001
+M2R,Cantonese,205,2001
+M2R,Mandarin,60,2001
+M2R,Hakka,0,2001
+M2R,"Chinese, n.o.s.",255,2001
+M2R,Italian,185,2001
+M2R,Portuguese,20,2001
+M2R,Spanish,215,2001
+M2R,German,10,2001
+M2R,Polish,25,2001
+M2R,Punjabi,0,2001
+M2R,Greek,60,2001
+M2R,Vietnamese,25,2001
+M2R,Arabic,90,2001
+M2R,Cree,0,2001
+M2R,Tagalog (Pilipino),355,2001
+M2R,Ukrainian,70,2001
+M2R,Persian (Farsi),220,2001
+M2R,Korean,735,2001
+M2R,Hungarian,165,2001
+M2R,Tamil,20,2001
+M2R,Gujarati,25,2001
+M2R,Croatian,20,2001
+M2R,Armenian,0,2001
+M2R,Inuktitut (Eskimo),0,2001
+M2R,Hindi,20,2001
+M2R,Urdu,25,2001
+M2R,Japanese,0,2001
+M2R,Russian,5895,2001
+M2R,Creoles,0,2001
+M2R,Dutch,0,2001
+M2R,Khmer (Cambodian),0,2001
+M2R,Ojibway,0,2001
+M2R,Romanian,180,2001
+M2R,Czech,0,2001
+M2R,Lao,0,2001
+M2R,Macedonian,0,2001
+M2R,Finnish,0,2001
+M2R,Montagnais-Naskapi,0,2001
+M2R,Hebrew,275,2001
+M2R,Yiddish,75,2001
+M2R,Serbian,80,2001
+M2R,Bengali,0,2001
+M2R,Slovak,0,2001
+M2R,Estonian,0,2001
+M2R,Turkish,10,2001
+M2R,Lithuanian,10,2001
+M2R,Latvian (Lettish),10,2001
+M2R,Micmac,0,2001
+M2R,Slovenian,15,2001
+M2R,Bulgarian,0,2001
+M2R,Serbo-Croatian,10,2001
+M2R,Dakota/Sioux,0,2001
+M2R,South Slave,0,2001
+M2R,Malay-Bahasa,0,2001
+M2R,Maltese,0,2001
+M2R,Blackfoot,0,2001
+M2R,Dogrib,0,2001
+M2R,Danish,0,2001
+M2R,Swedish,0,2001
+M2R,Malayalam,0,2001
+M2R,Thai,0,2001
+M2R,Kurdish,0,2001
+M2R,Pashto,0,2001
+M2R,Flemish,0,2001
+M2R,Chipewyan,0,2001
+M2R,Kutchin-Gwich'in (Loucheux),0,2001
+M2R,Norwegian,0,2001
+M2R,Gaelic languages,0,2001
+M2R,Tlingit,0,2001
+M2R,Other languages,1120,2001
+M3A,Cantonese,235,2001
+M3A,Mandarin,300,2001
+M3A,Hakka,0,2001
+M3A,"Chinese, n.o.s.",610,2001
+M3A,Italian,65,2001
+M3A,Portuguese,20,2001
+M3A,Spanish,80,2001
+M3A,German,0,2001
+M3A,Polish,100,2001
+M3A,Punjabi,20,2001
+M3A,Greek,115,2001
+M3A,Vietnamese,45,2001
+M3A,Arabic,455,2001
+M3A,Cree,0,2001
+M3A,Tagalog (Pilipino),100,2001
+M3A,Ukrainian,0,2001
+M3A,Persian (Farsi),895,2001
+M3A,Korean,635,2001
+M3A,Hungarian,35,2001
+M3A,Tamil,200,2001
+M3A,Gujarati,120,2001
+M3A,Croatian,0,2001
+M3A,Armenian,160,2001
+M3A,Inuktitut (Eskimo),0,2001
+M3A,Hindi,40,2001
+M3A,Urdu,75,2001
+M3A,Japanese,25,2001
+M3A,Russian,215,2001
+M3A,Creoles,0,2001
+M3A,Dutch,0,2001
+M3A,Khmer (Cambodian),0,2001
+M3A,Ojibway,0,2001
+M3A,Romanian,430,2001
+M3A,Czech,30,2001
+M3A,Lao,0,2001
+M3A,Macedonian,15,2001
+M3A,Finnish,30,2001
+M3A,Montagnais-Naskapi,0,2001
+M3A,Hebrew,0,2001
+M3A,Yiddish,0,2001
+M3A,Serbian,65,2001
+M3A,Bengali,105,2001
+M3A,Slovak,10,2001
+M3A,Estonian,10,2001
+M3A,Turkish,50,2001
+M3A,Lithuanian,15,2001
+M3A,Latvian (Lettish),10,2001
+M3A,Micmac,0,2001
+M3A,Slovenian,0,2001
+M3A,Bulgarian,10,2001
+M3A,Serbo-Croatian,15,2001
+M3A,Dakota/Sioux,0,2001
+M3A,South Slave,0,2001
+M3A,Malay-Bahasa,0,2001
+M3A,Maltese,0,2001
+M3A,Blackfoot,0,2001
+M3A,Dogrib,0,2001
+M3A,Danish,0,2001
+M3A,Swedish,0,2001
+M3A,Malayalam,0,2001
+M3A,Thai,0,2001
+M3A,Kurdish,0,2001
+M3A,Pashto,10,2001
+M3A,Flemish,0,2001
+M3A,Chipewyan,0,2001
+M3A,Kutchin-Gwich'in (Loucheux),0,2001
+M3A,Norwegian,0,2001
+M3A,Gaelic languages,0,2001
+M3A,Tlingit,0,2001
+M3A,Other languages,575,2001
+M3B,Cantonese,235,2001
+M3B,Mandarin,85,2001
+M3B,Hakka,0,2001
+M3B,"Chinese, n.o.s.",385,2001
+M3B,Italian,0,2001
+M3B,Portuguese,10,2001
+M3B,Spanish,45,2001
+M3B,German,15,2001
+M3B,Polish,20,2001
+M3B,Punjabi,0,2001
+M3B,Greek,35,2001
+M3B,Vietnamese,0,2001
+M3B,Arabic,25,2001
+M3B,Cree,0,2001
+M3B,Tagalog (Pilipino),40,2001
+M3B,Ukrainian,0,2001
+M3B,Persian (Farsi),130,2001
+M3B,Korean,65,2001
+M3B,Hungarian,20,2001
+M3B,Tamil,0,2001
+M3B,Gujarati,0,2001
+M3B,Croatian,0,2001
+M3B,Armenian,30,2001
+M3B,Inuktitut (Eskimo),0,2001
+M3B,Hindi,0,2001
+M3B,Urdu,35,2001
+M3B,Japanese,0,2001
+M3B,Russian,0,2001
+M3B,Creoles,0,2001
+M3B,Dutch,0,2001
+M3B,Khmer (Cambodian),0,2001
+M3B,Ojibway,0,2001
+M3B,Romanian,35,2001
+M3B,Czech,10,2001
+M3B,Lao,0,2001
+M3B,Macedonian,15,2001
+M3B,Finnish,0,2001
+M3B,Montagnais-Naskapi,0,2001
+M3B,Hebrew,30,2001
+M3B,Yiddish,0,2001
+M3B,Serbian,95,2001
+M3B,Bengali,0,2001
+M3B,Slovak,0,2001
+M3B,Estonian,20,2001
+M3B,Turkish,0,2001
+M3B,Lithuanian,0,2001
+M3B,Latvian (Lettish),0,2001
+M3B,Micmac,0,2001
+M3B,Slovenian,0,2001
+M3B,Bulgarian,0,2001
+M3B,Serbo-Croatian,0,2001
+M3B,Dakota/Sioux,0,2001
+M3B,South Slave,0,2001
+M3B,Malay-Bahasa,0,2001
+M3B,Maltese,0,2001
+M3B,Blackfoot,0,2001
+M3B,Dogrib,0,2001
+M3B,Danish,0,2001
+M3B,Swedish,0,2001
+M3B,Malayalam,0,2001
+M3B,Thai,0,2001
+M3B,Kurdish,0,2001
+M3B,Pashto,0,2001
+M3B,Flemish,0,2001
+M3B,Chipewyan,0,2001
+M3B,Kutchin-Gwich'in (Loucheux),0,2001
+M3B,Norwegian,0,2001
+M3B,Gaelic languages,0,2001
+M3B,Tlingit,0,2001
+M3B,Other languages,110,2001
+M3C,Cantonese,380,2001
+M3C,Mandarin,350,2001
+M3C,Hakka,0,2001
+M3C,"Chinese, n.o.s.",860,2001
+M3C,Italian,20,2001
+M3C,Portuguese,25,2001
+M3C,Spanish,45,2001
+M3C,German,30,2001
+M3C,Polish,60,2001
+M3C,Punjabi,55,2001
+M3C,Greek,385,2001
+M3C,Vietnamese,55,2001
+M3C,Arabic,110,2001
+M3C,Cree,0,2001
+M3C,Tagalog (Pilipino),460,2001
+M3C,Ukrainian,0,2001
+M3C,Persian (Farsi),945,2001
+M3C,Korean,420,2001
+M3C,Hungarian,30,2001
+M3C,Tamil,1265,2001
+M3C,Gujarati,510,2001
+M3C,Croatian,0,2001
+M3C,Armenian,60,2001
+M3C,Inuktitut (Eskimo),0,2001
+M3C,Hindi,100,2001
+M3C,Urdu,415,2001
+M3C,Japanese,35,2001
+M3C,Russian,345,2001
+M3C,Creoles,0,2001
+M3C,Dutch,0,2001
+M3C,Khmer (Cambodian),0,2001
+M3C,Ojibway,0,2001
+M3C,Romanian,170,2001
+M3C,Czech,0,2001
+M3C,Lao,0,2001
+M3C,Macedonian,15,2001
+M3C,Finnish,0,2001
+M3C,Montagnais-Naskapi,0,2001
+M3C,Hebrew,0,2001
+M3C,Yiddish,0,2001
+M3C,Serbian,115,2001
+M3C,Bengali,65,2001
+M3C,Slovak,0,2001
+M3C,Estonian,45,2001
+M3C,Turkish,90,2001
+M3C,Lithuanian,0,2001
+M3C,Latvian (Lettish),15,2001
+M3C,Micmac,0,2001
+M3C,Slovenian,0,2001
+M3C,Bulgarian,15,2001
+M3C,Serbo-Croatian,30,2001
+M3C,Dakota/Sioux,0,2001
+M3C,South Slave,0,2001
+M3C,Malay-Bahasa,0,2001
+M3C,Maltese,0,2001
+M3C,Blackfoot,0,2001
+M3C,Dogrib,0,2001
+M3C,Danish,0,2001
+M3C,Swedish,0,2001
+M3C,Malayalam,0,2001
+M3C,Thai,0,2001
+M3C,Kurdish,0,2001
+M3C,Pashto,185,2001
+M3C,Flemish,0,2001
+M3C,Chipewyan,0,2001
+M3C,Kutchin-Gwich'in (Loucheux),0,2001
+M3C,Norwegian,0,2001
+M3C,Gaelic languages,0,2001
+M3C,Tlingit,0,2001
+M3C,Other languages,965,2001
+M3H,Cantonese,30,2001
+M3H,Mandarin,45,2001
+M3H,Hakka,0,2001
+M3H,"Chinese, n.o.s.",145,2001
+M3H,Italian,655,2001
+M3H,Portuguese,80,2001
+M3H,Spanish,155,2001
+M3H,German,30,2001
+M3H,Polish,75,2001
+M3H,Punjabi,35,2001
+M3H,Greek,250,2001
+M3H,Vietnamese,90,2001
+M3H,Arabic,85,2001
+M3H,Cree,0,2001
+M3H,Tagalog (Pilipino),415,2001
+M3H,Ukrainian,30,2001
+M3H,Persian (Farsi),120,2001
+M3H,Korean,250,2001
+M3H,Hungarian,140,2001
+M3H,Tamil,10,2001
+M3H,Gujarati,55,2001
+M3H,Croatian,0,2001
+M3H,Armenian,0,2001
+M3H,Inuktitut (Eskimo),0,2001
+M3H,Hindi,0,2001
+M3H,Urdu,10,2001
+M3H,Japanese,10,2001
+M3H,Russian,1065,2001
+M3H,Creoles,0,2001
+M3H,Dutch,10,2001
+M3H,Khmer (Cambodian),0,2001
+M3H,Ojibway,0,2001
+M3H,Romanian,40,2001
+M3H,Czech,0,2001
+M3H,Lao,0,2001
+M3H,Macedonian,30,2001
+M3H,Finnish,0,2001
+M3H,Montagnais-Naskapi,0,2001
+M3H,Hebrew,110,2001
+M3H,Yiddish,120,2001
+M3H,Serbian,30,2001
+M3H,Bengali,0,2001
+M3H,Slovak,0,2001
+M3H,Estonian,10,2001
+M3H,Turkish,80,2001
+M3H,Lithuanian,10,2001
+M3H,Latvian (Lettish),0,2001
+M3H,Micmac,0,2001
+M3H,Slovenian,20,2001
+M3H,Bulgarian,0,2001
+M3H,Serbo-Croatian,20,2001
+M3H,Dakota/Sioux,0,2001
+M3H,South Slave,0,2001
+M3H,Malay-Bahasa,0,2001
+M3H,Maltese,0,2001
+M3H,Blackfoot,0,2001
+M3H,Dogrib,0,2001
+M3H,Danish,0,2001
+M3H,Swedish,0,2001
+M3H,Malayalam,0,2001
+M3H,Thai,0,2001
+M3H,Kurdish,0,2001
+M3H,Pashto,0,2001
+M3H,Flemish,0,2001
+M3H,Chipewyan,0,2001
+M3H,Kutchin-Gwich'in (Loucheux),0,2001
+M3H,Norwegian,0,2001
+M3H,Gaelic languages,0,2001
+M3H,Tlingit,0,2001
+M3H,Other languages,330,2001
+M3J,Cantonese,255,2001
+M3J,Mandarin,305,2001
+M3J,Hakka,15,2001
+M3J,"Chinese, n.o.s.",740,2001
+M3J,Italian,1330,2001
+M3J,Portuguese,80,2001
+M3J,Spanish,430,2001
+M3J,German,10,2001
+M3J,Polish,185,2001
+M3J,Punjabi,110,2001
+M3J,Greek,40,2001
+M3J,Vietnamese,195,2001
+M3J,Arabic,75,2001
+M3J,Cree,0,2001
+M3J,Tagalog (Pilipino),70,2001
+M3J,Ukrainian,15,2001
+M3J,Persian (Farsi),255,2001
+M3J,Korean,155,2001
+M3J,Hungarian,0,2001
+M3J,Tamil,650,2001
+M3J,Gujarati,25,2001
+M3J,Croatian,60,2001
+M3J,Armenian,90,2001
+M3J,Inuktitut (Eskimo),0,2001
+M3J,Hindi,60,2001
+M3J,Urdu,215,2001
+M3J,Japanese,0,2001
+M3J,Russian,170,2001
+M3J,Creoles,0,2001
+M3J,Dutch,0,2001
+M3J,Khmer (Cambodian),15,2001
+M3J,Ojibway,0,2001
+M3J,Romanian,10,2001
+M3J,Czech,0,2001
+M3J,Lao,15,2001
+M3J,Macedonian,0,2001
+M3J,Finnish,0,2001
+M3J,Montagnais-Naskapi,0,2001
+M3J,Hebrew,0,2001
+M3J,Yiddish,0,2001
+M3J,Serbian,0,2001
+M3J,Bengali,55,2001
+M3J,Slovak,0,2001
+M3J,Estonian,0,2001
+M3J,Turkish,95,2001
+M3J,Lithuanian,0,2001
+M3J,Latvian (Lettish),0,2001
+M3J,Micmac,0,2001
+M3J,Slovenian,0,2001
+M3J,Bulgarian,25,2001
+M3J,Serbo-Croatian,35,2001
+M3J,Dakota/Sioux,0,2001
+M3J,South Slave,0,2001
+M3J,Malay-Bahasa,0,2001
+M3J,Maltese,0,2001
+M3J,Blackfoot,0,2001
+M3J,Dogrib,0,2001
+M3J,Danish,0,2001
+M3J,Swedish,0,2001
+M3J,Malayalam,0,2001
+M3J,Thai,0,2001
+M3J,Kurdish,10,2001
+M3J,Pashto,10,2001
+M3J,Flemish,0,2001
+M3J,Chipewyan,0,2001
+M3J,Kutchin-Gwich'in (Loucheux),0,2001
+M3J,Norwegian,0,2001
+M3J,Gaelic languages,0,2001
+M3J,Tlingit,0,2001
+M3J,Other languages,405,2001
+M3K,Cantonese,10,2001
+M3K,Mandarin,15,2001
+M3K,Hakka,0,2001
+M3K,"Chinese, n.o.s.",25,2001
+M3K,Italian,645,2001
+M3K,Portuguese,10,2001
+M3K,Spanish,130,2001
+M3K,German,0,2001
+M3K,Polish,35,2001
+M3K,Punjabi,15,2001
+M3K,Greek,20,2001
+M3K,Vietnamese,105,2001
+M3K,Arabic,10,2001
+M3K,Cree,0,2001
+M3K,Tagalog (Pilipino),40,2001
+M3K,Ukrainian,0,2001
+M3K,Persian (Farsi),0,2001
+M3K,Korean,0,2001
+M3K,Hungarian,45,2001
+M3K,Tamil,15,2001
+M3K,Gujarati,0,2001
+M3K,Croatian,10,2001
+M3K,Armenian,0,2001
+M3K,Inuktitut (Eskimo),0,2001
+M3K,Hindi,15,2001
+M3K,Urdu,10,2001
+M3K,Japanese,0,2001
+M3K,Russian,0,2001
+M3K,Creoles,0,2001
+M3K,Dutch,0,2001
+M3K,Khmer (Cambodian),0,2001
+M3K,Ojibway,0,2001
+M3K,Romanian,20,2001
+M3K,Czech,0,2001
+M3K,Lao,0,2001
+M3K,Macedonian,0,2001
+M3K,Finnish,0,2001
+M3K,Montagnais-Naskapi,0,2001
+M3K,Hebrew,0,2001
+M3K,Yiddish,0,2001
+M3K,Serbian,0,2001
+M3K,Bengali,0,2001
+M3K,Slovak,0,2001
+M3K,Estonian,0,2001
+M3K,Turkish,15,2001
+M3K,Lithuanian,0,2001
+M3K,Latvian (Lettish),0,2001
+M3K,Micmac,0,2001
+M3K,Slovenian,0,2001
+M3K,Bulgarian,0,2001
+M3K,Serbo-Croatian,0,2001
+M3K,Dakota/Sioux,0,2001
+M3K,South Slave,0,2001
+M3K,Malay-Bahasa,0,2001
+M3K,Maltese,0,2001
+M3K,Blackfoot,0,2001
+M3K,Dogrib,0,2001
+M3K,Danish,0,2001
+M3K,Swedish,0,2001
+M3K,Malayalam,0,2001
+M3K,Thai,0,2001
+M3K,Kurdish,0,2001
+M3K,Pashto,0,2001
+M3K,Flemish,0,2001
+M3K,Chipewyan,0,2001
+M3K,Kutchin-Gwich'in (Loucheux),0,2001
+M3K,Norwegian,0,2001
+M3K,Gaelic languages,0,2001
+M3K,Tlingit,0,2001
+M3K,Other languages,55,2001
+M3L,Cantonese,210,2001
+M3L,Mandarin,40,2001
+M3L,Hakka,0,2001
+M3L,"Chinese, n.o.s.",270,2001
+M3L,Italian,1720,2001
+M3L,Portuguese,45,2001
+M3L,Spanish,845,2001
+M3L,German,15,2001
+M3L,Polish,10,2001
+M3L,Punjabi,25,2001
+M3L,Greek,40,2001
+M3L,Vietnamese,510,2001
+M3L,Arabic,65,2001
+M3L,Cree,0,2001
+M3L,Tagalog (Pilipino),15,2001
+M3L,Ukrainian,0,2001
+M3L,Persian (Farsi),25,2001
+M3L,Korean,30,2001
+M3L,Hungarian,10,2001
+M3L,Tamil,75,2001
+M3L,Gujarati,60,2001
+M3L,Croatian,0,2001
+M3L,Armenian,0,2001
+M3L,Inuktitut (Eskimo),0,2001
+M3L,Hindi,0,2001
+M3L,Urdu,55,2001
+M3L,Japanese,0,2001
+M3L,Russian,20,2001
+M3L,Creoles,0,2001
+M3L,Dutch,0,2001
+M3L,Khmer (Cambodian),75,2001
+M3L,Ojibway,0,2001
+M3L,Romanian,20,2001
+M3L,Czech,10,2001
+M3L,Lao,0,2001
+M3L,Macedonian,0,2001
+M3L,Finnish,0,2001
+M3L,Montagnais-Naskapi,0,2001
+M3L,Hebrew,0,2001
+M3L,Yiddish,0,2001
+M3L,Serbian,0,2001
+M3L,Bengali,20,2001
+M3L,Slovak,10,2001
+M3L,Estonian,0,2001
+M3L,Turkish,0,2001
+M3L,Lithuanian,0,2001
+M3L,Latvian (Lettish),0,2001
+M3L,Micmac,0,2001
+M3L,Slovenian,0,2001
+M3L,Bulgarian,0,2001
+M3L,Serbo-Croatian,0,2001
+M3L,Dakota/Sioux,0,2001
+M3L,South Slave,0,2001
+M3L,Malay-Bahasa,0,2001
+M3L,Maltese,0,2001
+M3L,Blackfoot,0,2001
+M3L,Dogrib,0,2001
+M3L,Danish,0,2001
+M3L,Swedish,0,2001
+M3L,Malayalam,0,2001
+M3L,Thai,0,2001
+M3L,Kurdish,0,2001
+M3L,Pashto,0,2001
+M3L,Flemish,0,2001
+M3L,Chipewyan,0,2001
+M3L,Kutchin-Gwich'in (Loucheux),0,2001
+M3L,Norwegian,0,2001
+M3L,Gaelic languages,0,2001
+M3L,Tlingit,0,2001
+M3L,Other languages,370,2001
+M3M,Cantonese,275,2001
+M3M,Mandarin,0,2001
+M3M,Hakka,0,2001
+M3M,"Chinese, n.o.s.",430,2001
+M3M,Italian,1345,2001
+M3M,Portuguese,65,2001
+M3M,Spanish,980,2001
+M3M,German,0,2001
+M3M,Polish,195,2001
+M3M,Punjabi,135,2001
+M3M,Greek,20,2001
+M3M,Vietnamese,605,2001
+M3M,Arabic,240,2001
+M3M,Cree,0,2001
+M3M,Tagalog (Pilipino),260,2001
+M3M,Ukrainian,20,2001
+M3M,Persian (Farsi),45,2001
+M3M,Korean,70,2001
+M3M,Hungarian,95,2001
+M3M,Tamil,120,2001
+M3M,Gujarati,60,2001
+M3M,Croatian,55,2001
+M3M,Armenian,0,2001
+M3M,Inuktitut (Eskimo),0,2001
+M3M,Hindi,15,2001
+M3M,Urdu,115,2001
+M3M,Japanese,0,2001
+M3M,Russian,145,2001
+M3M,Creoles,10,2001
+M3M,Dutch,0,2001
+M3M,Khmer (Cambodian),35,2001
+M3M,Ojibway,0,2001
+M3M,Romanian,80,2001
+M3M,Czech,0,2001
+M3M,Lao,90,2001
+M3M,Macedonian,0,2001
+M3M,Finnish,0,2001
+M3M,Montagnais-Naskapi,0,2001
+M3M,Hebrew,0,2001
+M3M,Yiddish,0,2001
+M3M,Serbian,20,2001
+M3M,Bengali,0,2001
+M3M,Slovak,0,2001
+M3M,Estonian,0,2001
+M3M,Turkish,25,2001
+M3M,Lithuanian,10,2001
+M3M,Latvian (Lettish),10,2001
+M3M,Micmac,0,2001
+M3M,Slovenian,0,2001
+M3M,Bulgarian,0,2001
+M3M,Serbo-Croatian,10,2001
+M3M,Dakota/Sioux,0,2001
+M3M,South Slave,0,2001
+M3M,Malay-Bahasa,0,2001
+M3M,Maltese,15,2001
+M3M,Blackfoot,0,2001
+M3M,Dogrib,0,2001
+M3M,Danish,0,2001
+M3M,Swedish,0,2001
+M3M,Malayalam,25,2001
+M3M,Thai,10,2001
+M3M,Kurdish,0,2001
+M3M,Pashto,0,2001
+M3M,Flemish,0,2001
+M3M,Chipewyan,0,2001
+M3M,Kutchin-Gwich'in (Loucheux),0,2001
+M3M,Norwegian,0,2001
+M3M,Gaelic languages,0,2001
+M3M,Tlingit,0,2001
+M3M,Other languages,445,2001
+M3N,Cantonese,585,2001
+M3N,Mandarin,125,2001
+M3N,Hakka,0,2001
+M3N,"Chinese, n.o.s.",740,2001
+M3N,Italian,1875,2001
+M3N,Portuguese,115,2001
+M3N,Spanish,1680,2001
+M3N,German,0,2001
+M3N,Polish,185,2001
+M3N,Punjabi,860,2001
+M3N,Greek,40,2001
+M3N,Vietnamese,1935,2001
+M3N,Arabic,1035,2001
+M3N,Cree,0,2001
+M3N,Tagalog (Pilipino),75,2001
+M3N,Ukrainian,25,2001
+M3N,Persian (Farsi),290,2001
+M3N,Korean,40,2001
+M3N,Hungarian,80,2001
+M3N,Tamil,1035,2001
+M3N,Gujarati,330,2001
+M3N,Croatian,0,2001
+M3N,Armenian,20,2001
+M3N,Inuktitut (Eskimo),0,2001
+M3N,Hindi,35,2001
+M3N,Urdu,375,2001
+M3N,Japanese,0,2001
+M3N,Russian,165,2001
+M3N,Creoles,10,2001
+M3N,Dutch,0,2001
+M3N,Khmer (Cambodian),210,2001
+M3N,Ojibway,0,2001
+M3N,Romanian,10,2001
+M3N,Czech,50,2001
+M3N,Lao,155,2001
+M3N,Macedonian,0,2001
+M3N,Finnish,0,2001
+M3N,Montagnais-Naskapi,0,2001
+M3N,Hebrew,0,2001
+M3N,Yiddish,0,2001
+M3N,Serbian,0,2001
+M3N,Bengali,75,2001
+M3N,Slovak,0,2001
+M3N,Estonian,0,2001
+M3N,Turkish,130,2001
+M3N,Lithuanian,0,2001
+M3N,Latvian (Lettish),0,2001
+M3N,Micmac,0,2001
+M3N,Slovenian,0,2001
+M3N,Bulgarian,0,2001
+M3N,Serbo-Croatian,0,2001
+M3N,Dakota/Sioux,0,2001
+M3N,South Slave,0,2001
+M3N,Malay-Bahasa,0,2001
+M3N,Maltese,0,2001
+M3N,Blackfoot,0,2001
+M3N,Dogrib,0,2001
+M3N,Danish,0,2001
+M3N,Swedish,0,2001
+M3N,Malayalam,0,2001
+M3N,Thai,25,2001
+M3N,Kurdish,0,2001
+M3N,Pashto,0,2001
+M3N,Flemish,0,2001
+M3N,Chipewyan,0,2001
+M3N,Kutchin-Gwich'in (Loucheux),0,2001
+M3N,Norwegian,0,2001
+M3N,Gaelic languages,0,2001
+M3N,Tlingit,0,2001
+M3N,Other languages,1815,2001
+M4A,Cantonese,90,2001
+M4A,Mandarin,30,2001
+M4A,Hakka,0,2001
+M4A,"Chinese, n.o.s.",285,2001
+M4A,Italian,125,2001
+M4A,Portuguese,15,2001
+M4A,Spanish,175,2001
+M4A,German,15,2001
+M4A,Polish,45,2001
+M4A,Punjabi,35,2001
+M4A,Greek,200,2001
+M4A,Vietnamese,0,2001
+M4A,Arabic,75,2001
+M4A,Cree,0,2001
+M4A,Tagalog (Pilipino),55,2001
+M4A,Ukrainian,0,2001
+M4A,Persian (Farsi),145,2001
+M4A,Korean,130,2001
+M4A,Hungarian,0,2001
+M4A,Tamil,295,2001
+M4A,Gujarati,130,2001
+M4A,Croatian,0,2001
+M4A,Armenian,10,2001
+M4A,Inuktitut (Eskimo),0,2001
+M4A,Hindi,25,2001
+M4A,Urdu,145,2001
+M4A,Japanese,0,2001
+M4A,Russian,40,2001
+M4A,Creoles,0,2001
+M4A,Dutch,15,2001
+M4A,Khmer (Cambodian),0,2001
+M4A,Ojibway,0,2001
+M4A,Romanian,0,2001
+M4A,Czech,0,2001
+M4A,Lao,0,2001
+M4A,Macedonian,50,2001
+M4A,Finnish,0,2001
+M4A,Montagnais-Naskapi,0,2001
+M4A,Hebrew,0,2001
+M4A,Yiddish,0,2001
+M4A,Serbian,40,2001
+M4A,Bengali,75,2001
+M4A,Slovak,0,2001
+M4A,Estonian,60,2001
+M4A,Turkish,0,2001
+M4A,Lithuanian,0,2001
+M4A,Latvian (Lettish),10,2001
+M4A,Micmac,0,2001
+M4A,Slovenian,0,2001
+M4A,Bulgarian,0,2001
+M4A,Serbo-Croatian,0,2001
+M4A,Dakota/Sioux,0,2001
+M4A,South Slave,0,2001
+M4A,Malay-Bahasa,0,2001
+M4A,Maltese,0,2001
+M4A,Blackfoot,0,2001
+M4A,Dogrib,0,2001
+M4A,Danish,0,2001
+M4A,Swedish,0,2001
+M4A,Malayalam,0,2001
+M4A,Thai,0,2001
+M4A,Kurdish,20,2001
+M4A,Pashto,0,2001
+M4A,Flemish,0,2001
+M4A,Chipewyan,0,2001
+M4A,Kutchin-Gwich'in (Loucheux),0,2001
+M4A,Norwegian,0,2001
+M4A,Gaelic languages,0,2001
+M4A,Tlingit,0,2001
+M4A,Other languages,330,2001
+M4B,Cantonese,55,2001
+M4B,Mandarin,50,2001
+M4B,Hakka,0,2001
+M4B,"Chinese, n.o.s.",115,2001
+M4B,Italian,50,2001
+M4B,Portuguese,20,2001
+M4B,Spanish,65,2001
+M4B,German,0,2001
+M4B,Polish,60,2001
+M4B,Punjabi,35,2001
+M4B,Greek,305,2001
+M4B,Vietnamese,15,2001
+M4B,Arabic,30,2001
+M4B,Cree,0,2001
+M4B,Tagalog (Pilipino),105,2001
+M4B,Ukrainian,0,2001
+M4B,Persian (Farsi),265,2001
+M4B,Korean,60,2001
+M4B,Hungarian,10,2001
+M4B,Tamil,390,2001
+M4B,Gujarati,0,2001
+M4B,Croatian,0,2001
+M4B,Armenian,0,2001
+M4B,Inuktitut (Eskimo),0,2001
+M4B,Hindi,10,2001
+M4B,Urdu,85,2001
+M4B,Japanese,20,2001
+M4B,Russian,15,2001
+M4B,Creoles,0,2001
+M4B,Dutch,0,2001
+M4B,Khmer (Cambodian),0,2001
+M4B,Ojibway,0,2001
+M4B,Romanian,0,2001
+M4B,Czech,0,2001
+M4B,Lao,0,2001
+M4B,Macedonian,75,2001
+M4B,Finnish,0,2001
+M4B,Montagnais-Naskapi,0,2001
+M4B,Hebrew,0,2001
+M4B,Yiddish,0,2001
+M4B,Serbian,75,2001
+M4B,Bengali,225,2001
+M4B,Slovak,0,2001
+M4B,Estonian,20,2001
+M4B,Turkish,0,2001
+M4B,Lithuanian,0,2001
+M4B,Latvian (Lettish),0,2001
+M4B,Micmac,0,2001
+M4B,Slovenian,0,2001
+M4B,Bulgarian,35,2001
+M4B,Serbo-Croatian,0,2001
+M4B,Dakota/Sioux,0,2001
+M4B,South Slave,0,2001
+M4B,Malay-Bahasa,0,2001
+M4B,Maltese,0,2001
+M4B,Blackfoot,0,2001
+M4B,Dogrib,0,2001
+M4B,Danish,0,2001
+M4B,Swedish,0,2001
+M4B,Malayalam,40,2001
+M4B,Thai,0,2001
+M4B,Kurdish,0,2001
+M4B,Pashto,25,2001
+M4B,Flemish,0,2001
+M4B,Chipewyan,0,2001
+M4B,Kutchin-Gwich'in (Loucheux),0,2001
+M4B,Norwegian,0,2001
+M4B,Gaelic languages,0,2001
+M4B,Tlingit,0,2001
+M4B,Other languages,145,2001
+M4C,Cantonese,1110,2001
+M4C,Mandarin,245,2001
+M4C,Hakka,0,2001
+M4C,"Chinese, n.o.s.",1070,2001
+M4C,Italian,395,2001
+M4C,Portuguese,25,2001
+M4C,Spanish,115,2001
+M4C,German,10,2001
+M4C,Polish,80,2001
+M4C,Punjabi,30,2001
+M4C,Greek,445,2001
+M4C,Vietnamese,100,2001
+M4C,Arabic,35,2001
+M4C,Cree,0,2001
+M4C,Tagalog (Pilipino),155,2001
+M4C,Ukrainian,20,2001
+M4C,Persian (Farsi),285,2001
+M4C,Korean,130,2001
+M4C,Hungarian,45,2001
+M4C,Tamil,400,2001
+M4C,Gujarati,220,2001
+M4C,Croatian,10,2001
+M4C,Armenian,0,2001
+M4C,Inuktitut (Eskimo),0,2001
+M4C,Hindi,50,2001
+M4C,Urdu,520,2001
+M4C,Japanese,40,2001
+M4C,Russian,85,2001
+M4C,Creoles,0,2001
+M4C,Dutch,0,2001
+M4C,Khmer (Cambodian),0,2001
+M4C,Ojibway,0,2001
+M4C,Romanian,140,2001
+M4C,Czech,10,2001
+M4C,Lao,0,2001
+M4C,Macedonian,80,2001
+M4C,Finnish,0,2001
+M4C,Montagnais-Naskapi,0,2001
+M4C,Hebrew,0,2001
+M4C,Yiddish,0,2001
+M4C,Serbian,280,2001
+M4C,Bengali,885,2001
+M4C,Slovak,0,2001
+M4C,Estonian,25,2001
+M4C,Turkish,65,2001
+M4C,Lithuanian,0,2001
+M4C,Latvian (Lettish),20,2001
+M4C,Micmac,0,2001
+M4C,Slovenian,15,2001
+M4C,Bulgarian,40,2001
+M4C,Serbo-Croatian,140,2001
+M4C,Dakota/Sioux,0,2001
+M4C,South Slave,0,2001
+M4C,Malay-Bahasa,0,2001
+M4C,Maltese,0,2001
+M4C,Blackfoot,0,2001
+M4C,Dogrib,0,2001
+M4C,Danish,0,2001
+M4C,Swedish,0,2001
+M4C,Malayalam,0,2001
+M4C,Thai,0,2001
+M4C,Kurdish,50,2001
+M4C,Pashto,0,2001
+M4C,Flemish,0,2001
+M4C,Chipewyan,0,2001
+M4C,Kutchin-Gwich'in (Loucheux),0,2001
+M4C,Norwegian,0,2001
+M4C,Gaelic languages,0,2001
+M4C,Tlingit,0,2001
+M4C,Other languages,610,2001
+M4E,Cantonese,140,2001
+M4E,Mandarin,15,2001
+M4E,Hakka,0,2001
+M4E,"Chinese, n.o.s.",110,2001
+M4E,Italian,45,2001
+M4E,Portuguese,10,2001
+M4E,Spanish,30,2001
+M4E,German,25,2001
+M4E,Polish,40,2001
+M4E,Punjabi,0,2001
+M4E,Greek,30,2001
+M4E,Vietnamese,85,2001
+M4E,Arabic,0,2001
+M4E,Cree,0,2001
+M4E,Tagalog (Pilipino),45,2001
+M4E,Ukrainian,0,2001
+M4E,Persian (Farsi),15,2001
+M4E,Korean,0,2001
+M4E,Hungarian,40,2001
+M4E,Tamil,0,2001
+M4E,Gujarati,0,2001
+M4E,Croatian,0,2001
+M4E,Armenian,0,2001
+M4E,Inuktitut (Eskimo),0,2001
+M4E,Hindi,0,2001
+M4E,Urdu,0,2001
+M4E,Japanese,0,2001
+M4E,Russian,0,2001
+M4E,Creoles,0,2001
+M4E,Dutch,0,2001
+M4E,Khmer (Cambodian),0,2001
+M4E,Ojibway,0,2001
+M4E,Romanian,15,2001
+M4E,Czech,0,2001
+M4E,Lao,0,2001
+M4E,Macedonian,0,2001
+M4E,Finnish,0,2001
+M4E,Montagnais-Naskapi,0,2001
+M4E,Hebrew,0,2001
+M4E,Yiddish,0,2001
+M4E,Serbian,0,2001
+M4E,Bengali,0,2001
+M4E,Slovak,0,2001
+M4E,Estonian,15,2001
+M4E,Turkish,0,2001
+M4E,Lithuanian,0,2001
+M4E,Latvian (Lettish),0,2001
+M4E,Micmac,0,2001
+M4E,Slovenian,0,2001
+M4E,Bulgarian,0,2001
+M4E,Serbo-Croatian,0,2001
+M4E,Dakota/Sioux,0,2001
+M4E,South Slave,0,2001
+M4E,Malay-Bahasa,0,2001
+M4E,Maltese,0,2001
+M4E,Blackfoot,0,2001
+M4E,Dogrib,0,2001
+M4E,Danish,0,2001
+M4E,Swedish,0,2001
+M4E,Malayalam,0,2001
+M4E,Thai,0,2001
+M4E,Kurdish,0,2001
+M4E,Pashto,0,2001
+M4E,Flemish,0,2001
+M4E,Chipewyan,0,2001
+M4E,Kutchin-Gwich'in (Loucheux),0,2001
+M4E,Norwegian,0,2001
+M4E,Gaelic languages,0,2001
+M4E,Tlingit,0,2001
+M4E,Other languages,25,2001
+M4G,Cantonese,15,2001
+M4G,Mandarin,20,2001
+M4G,Hakka,0,2001
+M4G,"Chinese, n.o.s.",15,2001
+M4G,Italian,40,2001
+M4G,Portuguese,0,2001
+M4G,Spanish,0,2001
+M4G,German,0,2001
+M4G,Polish,0,2001
+M4G,Punjabi,0,2001
+M4G,Greek,0,2001
+M4G,Vietnamese,0,2001
+M4G,Arabic,0,2001
+M4G,Cree,0,2001
+M4G,Tagalog (Pilipino),0,2001
+M4G,Ukrainian,0,2001
+M4G,Persian (Farsi),0,2001
+M4G,Korean,0,2001
+M4G,Hungarian,0,2001
+M4G,Tamil,0,2001
+M4G,Gujarati,0,2001
+M4G,Croatian,10,2001
+M4G,Armenian,15,2001
+M4G,Inuktitut (Eskimo),0,2001
+M4G,Hindi,0,2001
+M4G,Urdu,0,2001
+M4G,Japanese,0,2001
+M4G,Russian,30,2001
+M4G,Creoles,0,2001
+M4G,Dutch,0,2001
+M4G,Khmer (Cambodian),0,2001
+M4G,Ojibway,0,2001
+M4G,Romanian,0,2001
+M4G,Czech,10,2001
+M4G,Lao,0,2001
+M4G,Macedonian,0,2001
+M4G,Finnish,30,2001
+M4G,Montagnais-Naskapi,0,2001
+M4G,Hebrew,0,2001
+M4G,Yiddish,0,2001
+M4G,Serbian,15,2001
+M4G,Bengali,0,2001
+M4G,Slovak,0,2001
+M4G,Estonian,15,2001
+M4G,Turkish,10,2001
+M4G,Lithuanian,0,2001
+M4G,Latvian (Lettish),0,2001
+M4G,Micmac,0,2001
+M4G,Slovenian,0,2001
+M4G,Bulgarian,0,2001
+M4G,Serbo-Croatian,0,2001
+M4G,Dakota/Sioux,0,2001
+M4G,South Slave,0,2001
+M4G,Malay-Bahasa,0,2001
+M4G,Maltese,0,2001
+M4G,Blackfoot,0,2001
+M4G,Dogrib,0,2001
+M4G,Danish,0,2001
+M4G,Swedish,0,2001
+M4G,Malayalam,10,2001
+M4G,Thai,0,2001
+M4G,Kurdish,0,2001
+M4G,Pashto,0,2001
+M4G,Flemish,0,2001
+M4G,Chipewyan,0,2001
+M4G,Kutchin-Gwich'in (Loucheux),0,2001
+M4G,Norwegian,0,2001
+M4G,Gaelic languages,0,2001
+M4G,Tlingit,0,2001
+M4G,Other languages,50,2001
+M4H,Cantonese,10,2001
+M4H,Mandarin,70,2001
+M4H,Hakka,0,2001
+M4H,"Chinese, n.o.s.",155,2001
+M4H,Italian,0,2001
+M4H,Portuguese,10,2001
+M4H,Spanish,25,2001
+M4H,German,0,2001
+M4H,Polish,30,2001
+M4H,Punjabi,270,2001
+M4H,Greek,95,2001
+M4H,Vietnamese,0,2001
+M4H,Arabic,30,2001
+M4H,Cree,0,2001
+M4H,Tagalog (Pilipino),325,2001
+M4H,Ukrainian,0,2001
+M4H,Persian (Farsi),210,2001
+M4H,Korean,125,2001
+M4H,Hungarian,0,2001
+M4H,Tamil,230,2001
+M4H,Gujarati,735,2001
+M4H,Croatian,0,2001
+M4H,Armenian,10,2001
+M4H,Inuktitut (Eskimo),0,2001
+M4H,Hindi,20,2001
+M4H,Urdu,1035,2001
+M4H,Japanese,0,2001
+M4H,Russian,55,2001
+M4H,Creoles,0,2001
+M4H,Dutch,0,2001
+M4H,Khmer (Cambodian),0,2001
+M4H,Ojibway,0,2001
+M4H,Romanian,80,2001
+M4H,Czech,0,2001
+M4H,Lao,0,2001
+M4H,Macedonian,55,2001
+M4H,Finnish,0,2001
+M4H,Montagnais-Naskapi,0,2001
+M4H,Hebrew,0,2001
+M4H,Yiddish,0,2001
+M4H,Serbian,30,2001
+M4H,Bengali,120,2001
+M4H,Slovak,0,2001
+M4H,Estonian,0,2001
+M4H,Turkish,0,2001
+M4H,Lithuanian,0,2001
+M4H,Latvian (Lettish),10,2001
+M4H,Micmac,0,2001
+M4H,Slovenian,0,2001
+M4H,Bulgarian,15,2001
+M4H,Serbo-Croatian,10,2001
+M4H,Dakota/Sioux,0,2001
+M4H,South Slave,0,2001
+M4H,Malay-Bahasa,0,2001
+M4H,Maltese,0,2001
+M4H,Blackfoot,0,2001
+M4H,Dogrib,0,2001
+M4H,Danish,0,2001
+M4H,Swedish,0,2001
+M4H,Malayalam,0,2001
+M4H,Thai,0,2001
+M4H,Kurdish,0,2001
+M4H,Pashto,130,2001
+M4H,Flemish,0,2001
+M4H,Chipewyan,0,2001
+M4H,Kutchin-Gwich'in (Loucheux),0,2001
+M4H,Norwegian,0,2001
+M4H,Gaelic languages,0,2001
+M4H,Tlingit,0,2001
+M4H,Other languages,605,2001
+M4J,Cantonese,925,2001
+M4J,Mandarin,100,2001
+M4J,Hakka,0,2001
+M4J,"Chinese, n.o.s.",905,2001
+M4J,Italian,505,2001
+M4J,Portuguese,60,2001
+M4J,Spanish,110,2001
+M4J,German,25,2001
+M4J,Polish,35,2001
+M4J,Punjabi,150,2001
+M4J,Greek,1255,2001
+M4J,Vietnamese,55,2001
+M4J,Arabic,25,2001
+M4J,Cree,0,2001
+M4J,Tagalog (Pilipino),125,2001
+M4J,Ukrainian,20,2001
+M4J,Persian (Farsi),20,2001
+M4J,Korean,35,2001
+M4J,Hungarian,0,2001
+M4J,Tamil,15,2001
+M4J,Gujarati,305,2001
+M4J,Croatian,20,2001
+M4J,Armenian,0,2001
+M4J,Inuktitut (Eskimo),0,2001
+M4J,Hindi,70,2001
+M4J,Urdu,265,2001
+M4J,Japanese,35,2001
+M4J,Russian,0,2001
+M4J,Creoles,0,2001
+M4J,Dutch,0,2001
+M4J,Khmer (Cambodian),0,2001
+M4J,Ojibway,0,2001
+M4J,Romanian,0,2001
+M4J,Czech,0,2001
+M4J,Lao,0,2001
+M4J,Macedonian,75,2001
+M4J,Finnish,10,2001
+M4J,Montagnais-Naskapi,0,2001
+M4J,Hebrew,0,2001
+M4J,Yiddish,0,2001
+M4J,Serbian,120,2001
+M4J,Bengali,25,2001
+M4J,Slovak,0,2001
+M4J,Estonian,25,2001
+M4J,Turkish,15,2001
+M4J,Lithuanian,0,2001
+M4J,Latvian (Lettish),10,2001
+M4J,Micmac,0,2001
+M4J,Slovenian,0,2001
+M4J,Bulgarian,80,2001
+M4J,Serbo-Croatian,55,2001
+M4J,Dakota/Sioux,0,2001
+M4J,South Slave,0,2001
+M4J,Malay-Bahasa,0,2001
+M4J,Maltese,0,2001
+M4J,Blackfoot,0,2001
+M4J,Dogrib,0,2001
+M4J,Danish,0,2001
+M4J,Swedish,0,2001
+M4J,Malayalam,0,2001
+M4J,Thai,0,2001
+M4J,Kurdish,35,2001
+M4J,Pashto,105,2001
+M4J,Flemish,0,2001
+M4J,Chipewyan,0,2001
+M4J,Kutchin-Gwich'in (Loucheux),0,2001
+M4J,Norwegian,0,2001
+M4J,Gaelic languages,0,2001
+M4J,Tlingit,0,2001
+M4J,Other languages,530,2001
+M4K,Cantonese,575,2001
+M4K,Mandarin,65,2001
+M4K,Hakka,10,2001
+M4K,"Chinese, n.o.s.",720,2001
+M4K,Italian,75,2001
+M4K,Portuguese,30,2001
+M4K,Spanish,50,2001
+M4K,German,25,2001
+M4K,Polish,35,2001
+M4K,Punjabi,10,2001
+M4K,Greek,1165,2001
+M4K,Vietnamese,70,2001
+M4K,Arabic,25,2001
+M4K,Cree,0,2001
+M4K,Tagalog (Pilipino),170,2001
+M4K,Ukrainian,10,2001
+M4K,Persian (Farsi),110,2001
+M4K,Korean,20,2001
+M4K,Hungarian,0,2001
+M4K,Tamil,115,2001
+M4K,Gujarati,0,2001
+M4K,Croatian,30,2001
+M4K,Armenian,0,2001
+M4K,Inuktitut (Eskimo),0,2001
+M4K,Hindi,15,2001
+M4K,Urdu,10,2001
+M4K,Japanese,20,2001
+M4K,Russian,155,2001
+M4K,Creoles,0,2001
+M4K,Dutch,0,2001
+M4K,Khmer (Cambodian),0,2001
+M4K,Ojibway,0,2001
+M4K,Romanian,75,2001
+M4K,Czech,15,2001
+M4K,Lao,0,2001
+M4K,Macedonian,65,2001
+M4K,Finnish,0,2001
+M4K,Montagnais-Naskapi,0,2001
+M4K,Hebrew,0,2001
+M4K,Yiddish,0,2001
+M4K,Serbian,515,2001
+M4K,Bengali,20,2001
+M4K,Slovak,15,2001
+M4K,Estonian,25,2001
+M4K,Turkish,15,2001
+M4K,Lithuanian,0,2001
+M4K,Latvian (Lettish),0,2001
+M4K,Micmac,0,2001
+M4K,Slovenian,0,2001
+M4K,Bulgarian,200,2001
+M4K,Serbo-Croatian,105,2001
+M4K,Dakota/Sioux,0,2001
+M4K,South Slave,0,2001
+M4K,Malay-Bahasa,0,2001
+M4K,Maltese,0,2001
+M4K,Blackfoot,0,2001
+M4K,Dogrib,0,2001
+M4K,Danish,0,2001
+M4K,Swedish,0,2001
+M4K,Malayalam,0,2001
+M4K,Thai,0,2001
+M4K,Kurdish,20,2001
+M4K,Pashto,10,2001
+M4K,Flemish,0,2001
+M4K,Chipewyan,0,2001
+M4K,Kutchin-Gwich'in (Loucheux),0,2001
+M4K,Norwegian,0,2001
+M4K,Gaelic languages,0,2001
+M4K,Tlingit,0,2001
+M4K,Other languages,405,2001
+M4L,Cantonese,1175,2001
+M4L,Mandarin,150,2001
+M4L,Hakka,0,2001
+M4L,"Chinese, n.o.s.",1420,2001
+M4L,Italian,115,2001
+M4L,Portuguese,70,2001
+M4L,Spanish,60,2001
+M4L,German,0,2001
+M4L,Polish,25,2001
+M4L,Punjabi,85,2001
+M4L,Greek,75,2001
+M4L,Vietnamese,215,2001
+M4L,Arabic,10,2001
+M4L,Cree,0,2001
+M4L,Tagalog (Pilipino),100,2001
+M4L,Ukrainian,0,2001
+M4L,Persian (Farsi),10,2001
+M4L,Korean,0,2001
+M4L,Hungarian,10,2001
+M4L,Tamil,55,2001
+M4L,Gujarati,10,2001
+M4L,Croatian,0,2001
+M4L,Armenian,0,2001
+M4L,Inuktitut (Eskimo),0,2001
+M4L,Hindi,10,2001
+M4L,Urdu,345,2001
+M4L,Japanese,0,2001
+M4L,Russian,40,2001
+M4L,Creoles,0,2001
+M4L,Dutch,0,2001
+M4L,Khmer (Cambodian),0,2001
+M4L,Ojibway,0,2001
+M4L,Romanian,0,2001
+M4L,Czech,0,2001
+M4L,Lao,0,2001
+M4L,Macedonian,25,2001
+M4L,Finnish,0,2001
+M4L,Montagnais-Naskapi,0,2001
+M4L,Hebrew,0,2001
+M4L,Yiddish,0,2001
+M4L,Serbian,20,2001
+M4L,Bengali,40,2001
+M4L,Slovak,0,2001
+M4L,Estonian,10,2001
+M4L,Turkish,10,2001
+M4L,Lithuanian,0,2001
+M4L,Latvian (Lettish),10,2001
+M4L,Micmac,0,2001
+M4L,Slovenian,0,2001
+M4L,Bulgarian,0,2001
+M4L,Serbo-Croatian,0,2001
+M4L,Dakota/Sioux,0,2001
+M4L,South Slave,0,2001
+M4L,Malay-Bahasa,0,2001
+M4L,Maltese,0,2001
+M4L,Blackfoot,0,2001
+M4L,Dogrib,0,2001
+M4L,Danish,0,2001
+M4L,Swedish,0,2001
+M4L,Malayalam,0,2001
+M4L,Thai,0,2001
+M4L,Kurdish,0,2001
+M4L,Pashto,0,2001
+M4L,Flemish,0,2001
+M4L,Chipewyan,0,2001
+M4L,Kutchin-Gwich'in (Loucheux),0,2001
+M4L,Norwegian,0,2001
+M4L,Gaelic languages,0,2001
+M4L,Tlingit,0,2001
+M4L,Other languages,250,2001
+M4M,Cantonese,2000,2001
+M4M,Mandarin,565,2001
+M4M,Hakka,0,2001
+M4M,"Chinese, n.o.s.",2390,2001
+M4M,Italian,0,2001
+M4M,Portuguese,115,2001
+M4M,Spanish,35,2001
+M4M,German,10,2001
+M4M,Polish,0,2001
+M4M,Punjabi,0,2001
+M4M,Greek,55,2001
+M4M,Vietnamese,295,2001
+M4M,Arabic,0,2001
+M4M,Cree,0,2001
+M4M,Tagalog (Pilipino),70,2001
+M4M,Ukrainian,10,2001
+M4M,Persian (Farsi),50,2001
+M4M,Korean,10,2001
+M4M,Hungarian,20,2001
+M4M,Tamil,15,2001
+M4M,Gujarati,0,2001
+M4M,Croatian,0,2001
+M4M,Armenian,0,2001
+M4M,Inuktitut (Eskimo),0,2001
+M4M,Hindi,0,2001
+M4M,Urdu,40,2001
+M4M,Japanese,0,2001
+M4M,Russian,0,2001
+M4M,Creoles,0,2001
+M4M,Dutch,0,2001
+M4M,Khmer (Cambodian),0,2001
+M4M,Ojibway,0,2001
+M4M,Romanian,10,2001
+M4M,Czech,0,2001
+M4M,Lao,25,2001
+M4M,Macedonian,0,2001
+M4M,Finnish,0,2001
+M4M,Montagnais-Naskapi,0,2001
+M4M,Hebrew,0,2001
+M4M,Yiddish,0,2001
+M4M,Serbian,15,2001
+M4M,Bengali,70,2001
+M4M,Slovak,0,2001
+M4M,Estonian,0,2001
+M4M,Turkish,0,2001
+M4M,Lithuanian,0,2001
+M4M,Latvian (Lettish),0,2001
+M4M,Micmac,0,2001
+M4M,Slovenian,0,2001
+M4M,Bulgarian,0,2001
+M4M,Serbo-Croatian,0,2001
+M4M,Dakota/Sioux,0,2001
+M4M,South Slave,0,2001
+M4M,Malay-Bahasa,30,2001
+M4M,Maltese,0,2001
+M4M,Blackfoot,0,2001
+M4M,Dogrib,0,2001
+M4M,Danish,0,2001
+M4M,Swedish,0,2001
+M4M,Malayalam,0,2001
+M4M,Thai,0,2001
+M4M,Kurdish,0,2001
+M4M,Pashto,30,2001
+M4M,Flemish,0,2001
+M4M,Chipewyan,0,2001
+M4M,Kutchin-Gwich'in (Loucheux),0,2001
+M4M,Norwegian,0,2001
+M4M,Gaelic languages,0,2001
+M4M,Tlingit,0,2001
+M4M,Other languages,345,2001
+M4N,Cantonese,20,2001
+M4N,Mandarin,10,2001
+M4N,Hakka,0,2001
+M4N,"Chinese, n.o.s.",35,2001
+M4N,Italian,30,2001
+M4N,Portuguese,0,2001
+M4N,Spanish,30,2001
+M4N,German,10,2001
+M4N,Polish,0,2001
+M4N,Punjabi,10,2001
+M4N,Greek,0,2001
+M4N,Vietnamese,30,2001
+M4N,Arabic,0,2001
+M4N,Cree,0,2001
+M4N,Tagalog (Pilipino),15,2001
+M4N,Ukrainian,0,2001
+M4N,Persian (Farsi),60,2001
+M4N,Korean,25,2001
+M4N,Hungarian,0,2001
+M4N,Tamil,0,2001
+M4N,Gujarati,35,2001
+M4N,Croatian,0,2001
+M4N,Armenian,0,2001
+M4N,Inuktitut (Eskimo),0,2001
+M4N,Hindi,0,2001
+M4N,Urdu,15,2001
+M4N,Japanese,10,2001
+M4N,Russian,15,2001
+M4N,Creoles,0,2001
+M4N,Dutch,0,2001
+M4N,Khmer (Cambodian),0,2001
+M4N,Ojibway,0,2001
+M4N,Romanian,60,2001
+M4N,Czech,0,2001
+M4N,Lao,0,2001
+M4N,Macedonian,10,2001
+M4N,Finnish,0,2001
+M4N,Montagnais-Naskapi,0,2001
+M4N,Hebrew,0,2001
+M4N,Yiddish,0,2001
+M4N,Serbian,0,2001
+M4N,Bengali,0,2001
+M4N,Slovak,0,2001
+M4N,Estonian,0,2001
+M4N,Turkish,40,2001
+M4N,Lithuanian,0,2001
+M4N,Latvian (Lettish),10,2001
+M4N,Micmac,0,2001
+M4N,Slovenian,0,2001
+M4N,Bulgarian,25,2001
+M4N,Serbo-Croatian,0,2001
+M4N,Dakota/Sioux,0,2001
+M4N,South Slave,0,2001
+M4N,Malay-Bahasa,0,2001
+M4N,Maltese,0,2001
+M4N,Blackfoot,0,2001
+M4N,Dogrib,0,2001
+M4N,Danish,0,2001
+M4N,Swedish,0,2001
+M4N,Malayalam,0,2001
+M4N,Thai,0,2001
+M4N,Kurdish,0,2001
+M4N,Pashto,0,2001
+M4N,Flemish,0,2001
+M4N,Chipewyan,0,2001
+M4N,Kutchin-Gwich'in (Loucheux),0,2001
+M4N,Norwegian,0,2001
+M4N,Gaelic languages,0,2001
+M4N,Tlingit,0,2001
+M4N,Other languages,40,2001
+M4P,Cantonese,55,2001
+M4P,Mandarin,10,2001
+M4P,Hakka,0,2001
+M4P,"Chinese, n.o.s.",105,2001
+M4P,Italian,0,2001
+M4P,Portuguese,0,2001
+M4P,Spanish,70,2001
+M4P,German,0,2001
+M4P,Polish,40,2001
+M4P,Punjabi,0,2001
+M4P,Greek,15,2001
+M4P,Vietnamese,0,2001
+M4P,Arabic,10,2001
+M4P,Cree,0,2001
+M4P,Tagalog (Pilipino),35,2001
+M4P,Ukrainian,10,2001
+M4P,Persian (Farsi),170,2001
+M4P,Korean,105,2001
+M4P,Hungarian,0,2001
+M4P,Tamil,0,2001
+M4P,Gujarati,0,2001
+M4P,Croatian,10,2001
+M4P,Armenian,10,2001
+M4P,Inuktitut (Eskimo),10,2001
+M4P,Hindi,10,2001
+M4P,Urdu,0,2001
+M4P,Japanese,15,2001
+M4P,Russian,75,2001
+M4P,Creoles,0,2001
+M4P,Dutch,0,2001
+M4P,Khmer (Cambodian),0,2001
+M4P,Ojibway,0,2001
+M4P,Romanian,90,2001
+M4P,Czech,10,2001
+M4P,Lao,0,2001
+M4P,Macedonian,0,2001
+M4P,Finnish,0,2001
+M4P,Montagnais-Naskapi,0,2001
+M4P,Hebrew,0,2001
+M4P,Yiddish,0,2001
+M4P,Serbian,120,2001
+M4P,Bengali,10,2001
+M4P,Slovak,10,2001
+M4P,Estonian,55,2001
+M4P,Turkish,0,2001
+M4P,Lithuanian,0,2001
+M4P,Latvian (Lettish),20,2001
+M4P,Micmac,0,2001
+M4P,Slovenian,0,2001
+M4P,Bulgarian,25,2001
+M4P,Serbo-Croatian,40,2001
+M4P,Dakota/Sioux,0,2001
+M4P,South Slave,0,2001
+M4P,Malay-Bahasa,0,2001
+M4P,Maltese,0,2001
+M4P,Blackfoot,0,2001
+M4P,Dogrib,0,2001
+M4P,Danish,0,2001
+M4P,Swedish,0,2001
+M4P,Malayalam,0,2001
+M4P,Thai,0,2001
+M4P,Kurdish,0,2001
+M4P,Pashto,0,2001
+M4P,Flemish,0,2001
+M4P,Chipewyan,0,2001
+M4P,Kutchin-Gwich'in (Loucheux),0,2001
+M4P,Norwegian,0,2001
+M4P,Gaelic languages,0,2001
+M4P,Tlingit,0,2001
+M4P,Other languages,55,2001
+M4R,Cantonese,15,2001
+M4R,Mandarin,0,2001
+M4R,Hakka,0,2001
+M4R,"Chinese, n.o.s.",40,2001
+M4R,Italian,15,2001
+M4R,Portuguese,0,2001
+M4R,Spanish,0,2001
+M4R,German,35,2001
+M4R,Polish,0,2001
+M4R,Punjabi,0,2001
+M4R,Greek,55,2001
+M4R,Vietnamese,0,2001
+M4R,Arabic,10,2001
+M4R,Cree,0,2001
+M4R,Tagalog (Pilipino),0,2001
+M4R,Ukrainian,10,2001
+M4R,Persian (Farsi),20,2001
+M4R,Korean,10,2001
+M4R,Hungarian,0,2001
+M4R,Tamil,0,2001
+M4R,Gujarati,0,2001
+M4R,Croatian,0,2001
+M4R,Armenian,0,2001
+M4R,Inuktitut (Eskimo),0,2001
+M4R,Hindi,10,2001
+M4R,Urdu,0,2001
+M4R,Japanese,0,2001
+M4R,Russian,0,2001
+M4R,Creoles,0,2001
+M4R,Dutch,0,2001
+M4R,Khmer (Cambodian),0,2001
+M4R,Ojibway,0,2001
+M4R,Romanian,10,2001
+M4R,Czech,0,2001
+M4R,Lao,0,2001
+M4R,Macedonian,0,2001
+M4R,Finnish,0,2001
+M4R,Montagnais-Naskapi,0,2001
+M4R,Hebrew,0,2001
+M4R,Yiddish,0,2001
+M4R,Serbian,80,2001
+M4R,Bengali,0,2001
+M4R,Slovak,0,2001
+M4R,Estonian,10,2001
+M4R,Turkish,0,2001
+M4R,Lithuanian,0,2001
+M4R,Latvian (Lettish),0,2001
+M4R,Micmac,0,2001
+M4R,Slovenian,0,2001
+M4R,Bulgarian,0,2001
+M4R,Serbo-Croatian,10,2001
+M4R,Dakota/Sioux,0,2001
+M4R,South Slave,0,2001
+M4R,Malay-Bahasa,0,2001
+M4R,Maltese,0,2001
+M4R,Blackfoot,0,2001
+M4R,Dogrib,0,2001
+M4R,Danish,0,2001
+M4R,Swedish,0,2001
+M4R,Malayalam,0,2001
+M4R,Thai,0,2001
+M4R,Kurdish,0,2001
+M4R,Pashto,0,2001
+M4R,Flemish,0,2001
+M4R,Chipewyan,0,2001
+M4R,Kutchin-Gwich'in (Loucheux),0,2001
+M4R,Norwegian,0,2001
+M4R,Gaelic languages,0,2001
+M4R,Tlingit,0,2001
+M4R,Other languages,0,2001
+M4S,Cantonese,50,2001
+M4S,Mandarin,60,2001
+M4S,Hakka,0,2001
+M4S,"Chinese, n.o.s.",165,2001
+M4S,Italian,0,2001
+M4S,Portuguese,15,2001
+M4S,Spanish,100,2001
+M4S,German,20,2001
+M4S,Polish,45,2001
+M4S,Punjabi,0,2001
+M4S,Greek,55,2001
+M4S,Vietnamese,0,2001
+M4S,Arabic,15,2001
+M4S,Cree,0,2001
+M4S,Tagalog (Pilipino),40,2001
+M4S,Ukrainian,0,2001
+M4S,Persian (Farsi),325,2001
+M4S,Korean,65,2001
+M4S,Hungarian,45,2001
+M4S,Tamil,0,2001
+M4S,Gujarati,0,2001
+M4S,Croatian,0,2001
+M4S,Armenian,20,2001
+M4S,Inuktitut (Eskimo),0,2001
+M4S,Hindi,10,2001
+M4S,Urdu,0,2001
+M4S,Japanese,35,2001
+M4S,Russian,70,2001
+M4S,Creoles,10,2001
+M4S,Dutch,0,2001
+M4S,Khmer (Cambodian),0,2001
+M4S,Ojibway,0,2001
+M4S,Romanian,75,2001
+M4S,Czech,15,2001
+M4S,Lao,0,2001
+M4S,Macedonian,10,2001
+M4S,Finnish,0,2001
+M4S,Montagnais-Naskapi,0,2001
+M4S,Hebrew,0,2001
+M4S,Yiddish,0,2001
+M4S,Serbian,145,2001
+M4S,Bengali,0,2001
+M4S,Slovak,10,2001
+M4S,Estonian,25,2001
+M4S,Turkish,15,2001
+M4S,Lithuanian,0,2001
+M4S,Latvian (Lettish),0,2001
+M4S,Micmac,0,2001
+M4S,Slovenian,0,2001
+M4S,Bulgarian,25,2001
+M4S,Serbo-Croatian,0,2001
+M4S,Dakota/Sioux,0,2001
+M4S,South Slave,0,2001
+M4S,Malay-Bahasa,0,2001
+M4S,Maltese,0,2001
+M4S,Blackfoot,0,2001
+M4S,Dogrib,0,2001
+M4S,Danish,0,2001
+M4S,Swedish,0,2001
+M4S,Malayalam,0,2001
+M4S,Thai,0,2001
+M4S,Kurdish,0,2001
+M4S,Pashto,0,2001
+M4S,Flemish,0,2001
+M4S,Chipewyan,0,2001
+M4S,Kutchin-Gwich'in (Loucheux),0,2001
+M4S,Norwegian,0,2001
+M4S,Gaelic languages,0,2001
+M4S,Tlingit,0,2001
+M4S,Other languages,175,2001
+M4T,Cantonese,20,2001
+M4T,Mandarin,10,2001
+M4T,Hakka,0,2001
+M4T,"Chinese, n.o.s.",10,2001
+M4T,Italian,15,2001
+M4T,Portuguese,0,2001
+M4T,Spanish,20,2001
+M4T,German,0,2001
+M4T,Polish,0,2001
+M4T,Punjabi,0,2001
+M4T,Greek,0,2001
+M4T,Vietnamese,0,2001
+M4T,Arabic,0,2001
+M4T,Cree,0,2001
+M4T,Tagalog (Pilipino),10,2001
+M4T,Ukrainian,0,2001
+M4T,Persian (Farsi),0,2001
+M4T,Korean,10,2001
+M4T,Hungarian,25,2001
+M4T,Tamil,0,2001
+M4T,Gujarati,0,2001
+M4T,Croatian,0,2001
+M4T,Armenian,0,2001
+M4T,Inuktitut (Eskimo),0,2001
+M4T,Hindi,0,2001
+M4T,Urdu,0,2001
+M4T,Japanese,0,2001
+M4T,Russian,0,2001
+M4T,Creoles,0,2001
+M4T,Dutch,0,2001
+M4T,Khmer (Cambodian),0,2001
+M4T,Ojibway,0,2001
+M4T,Romanian,0,2001
+M4T,Czech,0,2001
+M4T,Lao,0,2001
+M4T,Macedonian,0,2001
+M4T,Finnish,0,2001
+M4T,Montagnais-Naskapi,0,2001
+M4T,Hebrew,0,2001
+M4T,Yiddish,0,2001
+M4T,Serbian,25,2001
+M4T,Bengali,0,2001
+M4T,Slovak,0,2001
+M4T,Estonian,0,2001
+M4T,Turkish,10,2001
+M4T,Lithuanian,0,2001
+M4T,Latvian (Lettish),0,2001
+M4T,Micmac,0,2001
+M4T,Slovenian,0,2001
+M4T,Bulgarian,0,2001
+M4T,Serbo-Croatian,25,2001
+M4T,Dakota/Sioux,0,2001
+M4T,South Slave,0,2001
+M4T,Malay-Bahasa,0,2001
+M4T,Maltese,0,2001
+M4T,Blackfoot,0,2001
+M4T,Dogrib,0,2001
+M4T,Danish,0,2001
+M4T,Swedish,0,2001
+M4T,Malayalam,0,2001
+M4T,Thai,0,2001
+M4T,Kurdish,0,2001
+M4T,Pashto,0,2001
+M4T,Flemish,0,2001
+M4T,Chipewyan,0,2001
+M4T,Kutchin-Gwich'in (Loucheux),0,2001
+M4T,Norwegian,0,2001
+M4T,Gaelic languages,0,2001
+M4T,Tlingit,0,2001
+M4T,Other languages,10,2001
+M4V,Cantonese,0,2001
+M4V,Mandarin,30,2001
+M4V,Hakka,0,2001
+M4V,"Chinese, n.o.s.",70,2001
+M4V,Italian,10,2001
+M4V,Portuguese,0,2001
+M4V,Spanish,35,2001
+M4V,German,10,2001
+M4V,Polish,15,2001
+M4V,Punjabi,0,2001
+M4V,Greek,0,2001
+M4V,Vietnamese,0,2001
+M4V,Arabic,0,2001
+M4V,Cree,0,2001
+M4V,Tagalog (Pilipino),0,2001
+M4V,Ukrainian,0,2001
+M4V,Persian (Farsi),50,2001
+M4V,Korean,25,2001
+M4V,Hungarian,35,2001
+M4V,Tamil,0,2001
+M4V,Gujarati,0,2001
+M4V,Croatian,0,2001
+M4V,Armenian,0,2001
+M4V,Inuktitut (Eskimo),0,2001
+M4V,Hindi,0,2001
+M4V,Urdu,0,2001
+M4V,Japanese,0,2001
+M4V,Russian,80,2001
+M4V,Creoles,0,2001
+M4V,Dutch,0,2001
+M4V,Khmer (Cambodian),0,2001
+M4V,Ojibway,0,2001
+M4V,Romanian,25,2001
+M4V,Czech,0,2001
+M4V,Lao,0,2001
+M4V,Macedonian,0,2001
+M4V,Finnish,0,2001
+M4V,Montagnais-Naskapi,0,2001
+M4V,Hebrew,0,2001
+M4V,Yiddish,0,2001
+M4V,Serbian,95,2001
+M4V,Bengali,0,2001
+M4V,Slovak,10,2001
+M4V,Estonian,0,2001
+M4V,Turkish,0,2001
+M4V,Lithuanian,0,2001
+M4V,Latvian (Lettish),0,2001
+M4V,Micmac,0,2001
+M4V,Slovenian,0,2001
+M4V,Bulgarian,0,2001
+M4V,Serbo-Croatian,0,2001
+M4V,Dakota/Sioux,0,2001
+M4V,South Slave,0,2001
+M4V,Malay-Bahasa,0,2001
+M4V,Maltese,0,2001
+M4V,Blackfoot,0,2001
+M4V,Dogrib,0,2001
+M4V,Danish,0,2001
+M4V,Swedish,10,2001
+M4V,Malayalam,0,2001
+M4V,Thai,0,2001
+M4V,Kurdish,0,2001
+M4V,Pashto,0,2001
+M4V,Flemish,0,2001
+M4V,Chipewyan,0,2001
+M4V,Kutchin-Gwich'in (Loucheux),0,2001
+M4V,Norwegian,0,2001
+M4V,Gaelic languages,0,2001
+M4V,Tlingit,0,2001
+M4V,Other languages,15,2001
+M4W,Cantonese,55,2001
+M4W,Mandarin,10,2001
+M4W,Hakka,0,2001
+M4W,"Chinese, n.o.s.",50,2001
+M4W,Italian,0,2001
+M4W,Portuguese,0,2001
+M4W,Spanish,20,2001
+M4W,German,0,2001
+M4W,Polish,25,2001
+M4W,Punjabi,0,2001
+M4W,Greek,0,2001
+M4W,Vietnamese,0,2001
+M4W,Arabic,0,2001
+M4W,Cree,0,2001
+M4W,Tagalog (Pilipino),35,2001
+M4W,Ukrainian,0,2001
+M4W,Persian (Farsi),15,2001
+M4W,Korean,10,2001
+M4W,Hungarian,0,2001
+M4W,Tamil,0,2001
+M4W,Gujarati,0,2001
+M4W,Croatian,0,2001
+M4W,Armenian,0,2001
+M4W,Inuktitut (Eskimo),0,2001
+M4W,Hindi,0,2001
+M4W,Urdu,0,2001
+M4W,Japanese,0,2001
+M4W,Russian,10,2001
+M4W,Creoles,0,2001
+M4W,Dutch,0,2001
+M4W,Khmer (Cambodian),0,2001
+M4W,Ojibway,0,2001
+M4W,Romanian,0,2001
+M4W,Czech,0,2001
+M4W,Lao,0,2001
+M4W,Macedonian,0,2001
+M4W,Finnish,0,2001
+M4W,Montagnais-Naskapi,0,2001
+M4W,Hebrew,10,2001
+M4W,Yiddish,0,2001
+M4W,Serbian,10,2001
+M4W,Bengali,0,2001
+M4W,Slovak,0,2001
+M4W,Estonian,10,2001
+M4W,Turkish,0,2001
+M4W,Lithuanian,0,2001
+M4W,Latvian (Lettish),0,2001
+M4W,Micmac,0,2001
+M4W,Slovenian,0,2001
+M4W,Bulgarian,0,2001
+M4W,Serbo-Croatian,0,2001
+M4W,Dakota/Sioux,0,2001
+M4W,South Slave,0,2001
+M4W,Malay-Bahasa,0,2001
+M4W,Maltese,0,2001
+M4W,Blackfoot,0,2001
+M4W,Dogrib,0,2001
+M4W,Danish,0,2001
+M4W,Swedish,0,2001
+M4W,Malayalam,0,2001
+M4W,Thai,0,2001
+M4W,Kurdish,0,2001
+M4W,Pashto,0,2001
+M4W,Flemish,0,2001
+M4W,Chipewyan,0,2001
+M4W,Kutchin-Gwich'in (Loucheux),0,2001
+M4W,Norwegian,0,2001
+M4W,Gaelic languages,0,2001
+M4W,Tlingit,0,2001
+M4W,Other languages,0,2001
+M4X,Cantonese,275,2001
+M4X,Mandarin,195,2001
+M4X,Hakka,0,2001
+M4X,"Chinese, n.o.s.",410,2001
+M4X,Italian,0,2001
+M4X,Portuguese,15,2001
+M4X,Spanish,105,2001
+M4X,German,10,2001
+M4X,Polish,50,2001
+M4X,Punjabi,45,2001
+M4X,Greek,20,2001
+M4X,Vietnamese,20,2001
+M4X,Arabic,65,2001
+M4X,Cree,0,2001
+M4X,Tagalog (Pilipino),665,2001
+M4X,Ukrainian,15,2001
+M4X,Persian (Farsi),180,2001
+M4X,Korean,565,2001
+M4X,Hungarian,45,2001
+M4X,Tamil,1135,2001
+M4X,Gujarati,10,2001
+M4X,Croatian,10,2001
+M4X,Armenian,10,2001
+M4X,Inuktitut (Eskimo),0,2001
+M4X,Hindi,20,2001
+M4X,Urdu,260,2001
+M4X,Japanese,60,2001
+M4X,Russian,170,2001
+M4X,Creoles,0,2001
+M4X,Dutch,0,2001
+M4X,Khmer (Cambodian),0,2001
+M4X,Ojibway,0,2001
+M4X,Romanian,25,2001
+M4X,Czech,0,2001
+M4X,Lao,0,2001
+M4X,Macedonian,0,2001
+M4X,Finnish,0,2001
+M4X,Montagnais-Naskapi,0,2001
+M4X,Hebrew,0,2001
+M4X,Yiddish,0,2001
+M4X,Serbian,45,2001
+M4X,Bengali,285,2001
+M4X,Slovak,0,2001
+M4X,Estonian,0,2001
+M4X,Turkish,0,2001
+M4X,Lithuanian,0,2001
+M4X,Latvian (Lettish),0,2001
+M4X,Micmac,0,2001
+M4X,Slovenian,0,2001
+M4X,Bulgarian,50,2001
+M4X,Serbo-Croatian,10,2001
+M4X,Dakota/Sioux,0,2001
+M4X,South Slave,0,2001
+M4X,Malay-Bahasa,0,2001
+M4X,Maltese,0,2001
+M4X,Blackfoot,0,2001
+M4X,Dogrib,0,2001
+M4X,Danish,0,2001
+M4X,Swedish,0,2001
+M4X,Malayalam,0,2001
+M4X,Thai,15,2001
+M4X,Kurdish,0,2001
+M4X,Pashto,10,2001
+M4X,Flemish,0,2001
+M4X,Chipewyan,0,2001
+M4X,Kutchin-Gwich'in (Loucheux),0,2001
+M4X,Norwegian,0,2001
+M4X,Gaelic languages,0,2001
+M4X,Tlingit,0,2001
+M4X,Other languages,840,2001
+M4Y,Cantonese,90,2001
+M4Y,Mandarin,230,2001
+M4Y,Hakka,0,2001
+M4Y,"Chinese, n.o.s.",470,2001
+M4Y,Italian,10,2001
+M4Y,Portuguese,30,2001
+M4Y,Spanish,65,2001
+M4Y,German,0,2001
+M4Y,Polish,30,2001
+M4Y,Punjabi,0,2001
+M4Y,Greek,10,2001
+M4Y,Vietnamese,35,2001
+M4Y,Arabic,10,2001
+M4Y,Cree,0,2001
+M4Y,Tagalog (Pilipino),105,2001
+M4Y,Ukrainian,0,2001
+M4Y,Persian (Farsi),90,2001
+M4Y,Korean,235,2001
+M4Y,Hungarian,20,2001
+M4Y,Tamil,40,2001
+M4Y,Gujarati,0,2001
+M4Y,Croatian,10,2001
+M4Y,Armenian,0,2001
+M4Y,Inuktitut (Eskimo),0,2001
+M4Y,Hindi,35,2001
+M4Y,Urdu,70,2001
+M4Y,Japanese,55,2001
+M4Y,Russian,85,2001
+M4Y,Creoles,0,2001
+M4Y,Dutch,0,2001
+M4Y,Khmer (Cambodian),0,2001
+M4Y,Ojibway,0,2001
+M4Y,Romanian,25,2001
+M4Y,Czech,0,2001
+M4Y,Lao,0,2001
+M4Y,Macedonian,55,2001
+M4Y,Finnish,0,2001
+M4Y,Montagnais-Naskapi,0,2001
+M4Y,Hebrew,10,2001
+M4Y,Yiddish,0,2001
+M4Y,Serbian,70,2001
+M4Y,Bengali,40,2001
+M4Y,Slovak,15,2001
+M4Y,Estonian,0,2001
+M4Y,Turkish,25,2001
+M4Y,Lithuanian,0,2001
+M4Y,Latvian (Lettish),0,2001
+M4Y,Micmac,0,2001
+M4Y,Slovenian,0,2001
+M4Y,Bulgarian,0,2001
+M4Y,Serbo-Croatian,10,2001
+M4Y,Dakota/Sioux,0,2001
+M4Y,South Slave,0,2001
+M4Y,Malay-Bahasa,15,2001
+M4Y,Maltese,0,2001
+M4Y,Blackfoot,0,2001
+M4Y,Dogrib,0,2001
+M4Y,Danish,0,2001
+M4Y,Swedish,0,2001
+M4Y,Malayalam,0,2001
+M4Y,Thai,0,2001
+M4Y,Kurdish,0,2001
+M4Y,Pashto,0,2001
+M4Y,Flemish,0,2001
+M4Y,Chipewyan,0,2001
+M4Y,Kutchin-Gwich'in (Loucheux),0,2001
+M4Y,Norwegian,0,2001
+M4Y,Gaelic languages,0,2001
+M4Y,Tlingit,0,2001
+M4Y,Other languages,130,2001
+M5A,Cantonese,445,2001
+M5A,Mandarin,240,2001
+M5A,Hakka,0,2001
+M5A,"Chinese, n.o.s.",775,2001
+M5A,Italian,30,2001
+M5A,Portuguese,20,2001
+M5A,Spanish,210,2001
+M5A,German,0,2001
+M5A,Polish,95,2001
+M5A,Punjabi,15,2001
+M5A,Greek,20,2001
+M5A,Vietnamese,510,2001
+M5A,Arabic,140,2001
+M5A,Cree,0,2001
+M5A,Tagalog (Pilipino),165,2001
+M5A,Ukrainian,0,2001
+M5A,Persian (Farsi),150,2001
+M5A,Korean,130,2001
+M5A,Hungarian,10,2001
+M5A,Tamil,505,2001
+M5A,Gujarati,0,2001
+M5A,Croatian,10,2001
+M5A,Armenian,0,2001
+M5A,Inuktitut (Eskimo),0,2001
+M5A,Hindi,20,2001
+M5A,Urdu,50,2001
+M5A,Japanese,45,2001
+M5A,Russian,165,2001
+M5A,Creoles,0,2001
+M5A,Dutch,10,2001
+M5A,Khmer (Cambodian),0,2001
+M5A,Ojibway,0,2001
+M5A,Romanian,0,2001
+M5A,Czech,70,2001
+M5A,Lao,0,2001
+M5A,Macedonian,0,2001
+M5A,Finnish,0,2001
+M5A,Montagnais-Naskapi,0,2001
+M5A,Hebrew,0,2001
+M5A,Yiddish,0,2001
+M5A,Serbian,0,2001
+M5A,Bengali,485,2001
+M5A,Slovak,25,2001
+M5A,Estonian,0,2001
+M5A,Turkish,10,2001
+M5A,Lithuanian,0,2001
+M5A,Latvian (Lettish),0,2001
+M5A,Micmac,0,2001
+M5A,Slovenian,0,2001
+M5A,Bulgarian,0,2001
+M5A,Serbo-Croatian,0,2001
+M5A,Dakota/Sioux,0,2001
+M5A,South Slave,0,2001
+M5A,Malay-Bahasa,10,2001
+M5A,Maltese,0,2001
+M5A,Blackfoot,0,2001
+M5A,Dogrib,0,2001
+M5A,Danish,0,2001
+M5A,Swedish,0,2001
+M5A,Malayalam,0,2001
+M5A,Thai,10,2001
+M5A,Kurdish,0,2001
+M5A,Pashto,10,2001
+M5A,Flemish,0,2001
+M5A,Chipewyan,0,2001
+M5A,Kutchin-Gwich'in (Loucheux),0,2001
+M5A,Norwegian,0,2001
+M5A,Gaelic languages,0,2001
+M5A,Tlingit,0,2001
+M5A,Other languages,990,2001
+M5B,Cantonese,120,2001
+M5B,Mandarin,145,2001
+M5B,Hakka,0,2001
+M5B,"Chinese, n.o.s.",200,2001
+M5B,Italian,0,2001
+M5B,Portuguese,0,2001
+M5B,Spanish,75,2001
+M5B,German,0,2001
+M5B,Polish,10,2001
+M5B,Punjabi,0,2001
+M5B,Greek,0,2001
+M5B,Vietnamese,0,2001
+M5B,Arabic,35,2001
+M5B,Cree,0,2001
+M5B,Tagalog (Pilipino),0,2001
+M5B,Ukrainian,0,2001
+M5B,Persian (Farsi),65,2001
+M5B,Korean,25,2001
+M5B,Hungarian,10,2001
+M5B,Tamil,0,2001
+M5B,Gujarati,15,2001
+M5B,Croatian,0,2001
+M5B,Armenian,0,2001
+M5B,Inuktitut (Eskimo),0,2001
+M5B,Hindi,35,2001
+M5B,Urdu,40,2001
+M5B,Japanese,10,2001
+M5B,Russian,20,2001
+M5B,Creoles,0,2001
+M5B,Dutch,0,2001
+M5B,Khmer (Cambodian),0,2001
+M5B,Ojibway,0,2001
+M5B,Romanian,0,2001
+M5B,Czech,0,2001
+M5B,Lao,0,2001
+M5B,Macedonian,0,2001
+M5B,Finnish,0,2001
+M5B,Montagnais-Naskapi,0,2001
+M5B,Hebrew,0,2001
+M5B,Yiddish,10,2001
+M5B,Serbian,0,2001
+M5B,Bengali,0,2001
+M5B,Slovak,0,2001
+M5B,Estonian,0,2001
+M5B,Turkish,0,2001
+M5B,Lithuanian,0,2001
+M5B,Latvian (Lettish),0,2001
+M5B,Micmac,0,2001
+M5B,Slovenian,0,2001
+M5B,Bulgarian,10,2001
+M5B,Serbo-Croatian,0,2001
+M5B,Dakota/Sioux,0,2001
+M5B,South Slave,0,2001
+M5B,Malay-Bahasa,0,2001
+M5B,Maltese,0,2001
+M5B,Blackfoot,0,2001
+M5B,Dogrib,0,2001
+M5B,Danish,0,2001
+M5B,Swedish,0,2001
+M5B,Malayalam,0,2001
+M5B,Thai,0,2001
+M5B,Kurdish,0,2001
+M5B,Pashto,0,2001
+M5B,Flemish,0,2001
+M5B,Chipewyan,0,2001
+M5B,Kutchin-Gwich'in (Loucheux),0,2001
+M5B,Norwegian,0,2001
+M5B,Gaelic languages,0,2001
+M5B,Tlingit,0,2001
+M5B,Other languages,60,2001
+M5C,Cantonese,25,2001
+M5C,Mandarin,10,2001
+M5C,Hakka,0,2001
+M5C,"Chinese, n.o.s.",15,2001
+M5C,Italian,0,2001
+M5C,Portuguese,10,2001
+M5C,Spanish,0,2001
+M5C,German,0,2001
+M5C,Polish,0,2001
+M5C,Punjabi,0,2001
+M5C,Greek,0,2001
+M5C,Vietnamese,0,2001
+M5C,Arabic,0,2001
+M5C,Cree,0,2001
+M5C,Tagalog (Pilipino),25,2001
+M5C,Ukrainian,0,2001
+M5C,Persian (Farsi),0,2001
+M5C,Korean,15,2001
+M5C,Hungarian,0,2001
+M5C,Tamil,0,2001
+M5C,Gujarati,0,2001
+M5C,Croatian,0,2001
+M5C,Armenian,0,2001
+M5C,Inuktitut (Eskimo),0,2001
+M5C,Hindi,0,2001
+M5C,Urdu,0,2001
+M5C,Japanese,0,2001
+M5C,Russian,10,2001
+M5C,Creoles,0,2001
+M5C,Dutch,0,2001
+M5C,Khmer (Cambodian),0,2001
+M5C,Ojibway,0,2001
+M5C,Romanian,15,2001
+M5C,Czech,0,2001
+M5C,Lao,0,2001
+M5C,Macedonian,0,2001
+M5C,Finnish,0,2001
+M5C,Montagnais-Naskapi,0,2001
+M5C,Hebrew,0,2001
+M5C,Yiddish,0,2001
+M5C,Serbian,0,2001
+M5C,Bengali,0,2001
+M5C,Slovak,0,2001
+M5C,Estonian,0,2001
+M5C,Turkish,0,2001
+M5C,Lithuanian,0,2001
+M5C,Latvian (Lettish),0,2001
+M5C,Micmac,0,2001
+M5C,Slovenian,0,2001
+M5C,Bulgarian,0,2001
+M5C,Serbo-Croatian,0,2001
+M5C,Dakota/Sioux,0,2001
+M5C,South Slave,0,2001
+M5C,Malay-Bahasa,0,2001
+M5C,Maltese,0,2001
+M5C,Blackfoot,0,2001
+M5C,Dogrib,0,2001
+M5C,Danish,0,2001
+M5C,Swedish,0,2001
+M5C,Malayalam,0,2001
+M5C,Thai,0,2001
+M5C,Kurdish,0,2001
+M5C,Pashto,0,2001
+M5C,Flemish,0,2001
+M5C,Chipewyan,0,2001
+M5C,Kutchin-Gwich'in (Loucheux),0,2001
+M5C,Norwegian,0,2001
+M5C,Gaelic languages,0,2001
+M5C,Tlingit,0,2001
+M5C,Other languages,0,2001
+M5E,Cantonese,10,2001
+M5E,Mandarin,0,2001
+M5E,Hakka,0,2001
+M5E,"Chinese, n.o.s.",60,2001
+M5E,Italian,0,2001
+M5E,Portuguese,10,2001
+M5E,Spanish,25,2001
+M5E,German,0,2001
+M5E,Polish,10,2001
+M5E,Punjabi,0,2001
+M5E,Greek,0,2001
+M5E,Vietnamese,10,2001
+M5E,Arabic,10,2001
+M5E,Cree,0,2001
+M5E,Tagalog (Pilipino),20,2001
+M5E,Ukrainian,0,2001
+M5E,Persian (Farsi),15,2001
+M5E,Korean,0,2001
+M5E,Hungarian,0,2001
+M5E,Tamil,0,2001
+M5E,Gujarati,0,2001
+M5E,Croatian,0,2001
+M5E,Armenian,0,2001
+M5E,Inuktitut (Eskimo),0,2001
+M5E,Hindi,0,2001
+M5E,Urdu,10,2001
+M5E,Japanese,10,2001
+M5E,Russian,15,2001
+M5E,Creoles,0,2001
+M5E,Dutch,0,2001
+M5E,Khmer (Cambodian),0,2001
+M5E,Ojibway,0,2001
+M5E,Romanian,0,2001
+M5E,Czech,0,2001
+M5E,Lao,0,2001
+M5E,Macedonian,0,2001
+M5E,Finnish,0,2001
+M5E,Montagnais-Naskapi,0,2001
+M5E,Hebrew,0,2001
+M5E,Yiddish,0,2001
+M5E,Serbian,0,2001
+M5E,Bengali,0,2001
+M5E,Slovak,0,2001
+M5E,Estonian,0,2001
+M5E,Turkish,10,2001
+M5E,Lithuanian,0,2001
+M5E,Latvian (Lettish),0,2001
+M5E,Micmac,0,2001
+M5E,Slovenian,0,2001
+M5E,Bulgarian,0,2001
+M5E,Serbo-Croatian,0,2001
+M5E,Dakota/Sioux,0,2001
+M5E,South Slave,0,2001
+M5E,Malay-Bahasa,0,2001
+M5E,Maltese,0,2001
+M5E,Blackfoot,0,2001
+M5E,Dogrib,0,2001
+M5E,Danish,0,2001
+M5E,Swedish,0,2001
+M5E,Malayalam,0,2001
+M5E,Thai,0,2001
+M5E,Kurdish,0,2001
+M5E,Pashto,0,2001
+M5E,Flemish,0,2001
+M5E,Chipewyan,0,2001
+M5E,Kutchin-Gwich'in (Loucheux),0,2001
+M5E,Norwegian,0,2001
+M5E,Gaelic languages,0,2001
+M5E,Tlingit,0,2001
+M5E,Other languages,85,2001
+M5G,Cantonese,125,2001
+M5G,Mandarin,30,2001
+M5G,Hakka,0,2001
+M5G,"Chinese, n.o.s.",135,2001
+M5G,Italian,0,2001
+M5G,Portuguese,0,2001
+M5G,Spanish,10,2001
+M5G,German,0,2001
+M5G,Polish,0,2001
+M5G,Punjabi,0,2001
+M5G,Greek,0,2001
+M5G,Vietnamese,0,2001
+M5G,Arabic,75,2001
+M5G,Cree,0,2001
+M5G,Tagalog (Pilipino),30,2001
+M5G,Ukrainian,0,2001
+M5G,Persian (Farsi),0,2001
+M5G,Korean,45,2001
+M5G,Hungarian,0,2001
+M5G,Tamil,0,2001
+M5G,Gujarati,0,2001
+M5G,Croatian,0,2001
+M5G,Armenian,0,2001
+M5G,Inuktitut (Eskimo),0,2001
+M5G,Hindi,0,2001
+M5G,Urdu,0,2001
+M5G,Japanese,75,2001
+M5G,Russian,0,2001
+M5G,Creoles,0,2001
+M5G,Dutch,0,2001
+M5G,Khmer (Cambodian),0,2001
+M5G,Ojibway,0,2001
+M5G,Romanian,0,2001
+M5G,Czech,0,2001
+M5G,Lao,0,2001
+M5G,Macedonian,0,2001
+M5G,Finnish,0,2001
+M5G,Montagnais-Naskapi,0,2001
+M5G,Hebrew,0,2001
+M5G,Yiddish,0,2001
+M5G,Serbian,0,2001
+M5G,Bengali,65,2001
+M5G,Slovak,0,2001
+M5G,Estonian,0,2001
+M5G,Turkish,0,2001
+M5G,Lithuanian,0,2001
+M5G,Latvian (Lettish),0,2001
+M5G,Micmac,0,2001
+M5G,Slovenian,0,2001
+M5G,Bulgarian,0,2001
+M5G,Serbo-Croatian,0,2001
+M5G,Dakota/Sioux,0,2001
+M5G,South Slave,0,2001
+M5G,Malay-Bahasa,0,2001
+M5G,Maltese,0,2001
+M5G,Blackfoot,0,2001
+M5G,Dogrib,0,2001
+M5G,Danish,0,2001
+M5G,Swedish,0,2001
+M5G,Malayalam,0,2001
+M5G,Thai,0,2001
+M5G,Kurdish,0,2001
+M5G,Pashto,0,2001
+M5G,Flemish,0,2001
+M5G,Chipewyan,0,2001
+M5G,Kutchin-Gwich'in (Loucheux),0,2001
+M5G,Norwegian,0,2001
+M5G,Gaelic languages,0,2001
+M5G,Tlingit,0,2001
+M5G,Other languages,40,2001
+M5H,Cantonese,0,2001
+M5H,Mandarin,15,2001
+M5H,Hakka,0,2001
+M5H,"Chinese, n.o.s.",45,2001
+M5H,Italian,0,2001
+M5H,Portuguese,0,2001
+M5H,Spanish,0,2001
+M5H,German,0,2001
+M5H,Polish,0,2001
+M5H,Punjabi,0,2001
+M5H,Greek,0,2001
+M5H,Vietnamese,0,2001
+M5H,Arabic,0,2001
+M5H,Cree,0,2001
+M5H,Tagalog (Pilipino),0,2001
+M5H,Ukrainian,0,2001
+M5H,Persian (Farsi),0,2001
+M5H,Korean,0,2001
+M5H,Hungarian,0,2001
+M5H,Tamil,0,2001
+M5H,Gujarati,0,2001
+M5H,Croatian,0,2001
+M5H,Armenian,0,2001
+M5H,Inuktitut (Eskimo),0,2001
+M5H,Hindi,0,2001
+M5H,Urdu,0,2001
+M5H,Japanese,0,2001
+M5H,Russian,0,2001
+M5H,Creoles,10,2001
+M5H,Dutch,0,2001
+M5H,Khmer (Cambodian),0,2001
+M5H,Ojibway,0,2001
+M5H,Romanian,0,2001
+M5H,Czech,0,2001
+M5H,Lao,0,2001
+M5H,Macedonian,0,2001
+M5H,Finnish,0,2001
+M5H,Montagnais-Naskapi,0,2001
+M5H,Hebrew,0,2001
+M5H,Yiddish,0,2001
+M5H,Serbian,0,2001
+M5H,Bengali,0,2001
+M5H,Slovak,0,2001
+M5H,Estonian,0,2001
+M5H,Turkish,0,2001
+M5H,Lithuanian,0,2001
+M5H,Latvian (Lettish),0,2001
+M5H,Micmac,0,2001
+M5H,Slovenian,0,2001
+M5H,Bulgarian,0,2001
+M5H,Serbo-Croatian,0,2001
+M5H,Dakota/Sioux,0,2001
+M5H,South Slave,0,2001
+M5H,Malay-Bahasa,0,2001
+M5H,Maltese,0,2001
+M5H,Blackfoot,0,2001
+M5H,Dogrib,0,2001
+M5H,Danish,0,2001
+M5H,Swedish,0,2001
+M5H,Malayalam,0,2001
+M5H,Thai,0,2001
+M5H,Kurdish,0,2001
+M5H,Pashto,0,2001
+M5H,Flemish,0,2001
+M5H,Chipewyan,0,2001
+M5H,Kutchin-Gwich'in (Loucheux),0,2001
+M5H,Norwegian,0,2001
+M5H,Gaelic languages,0,2001
+M5H,Tlingit,0,2001
+M5H,Other languages,10,2001
+M5J,Cantonese,20,2001
+M5J,Mandarin,30,2001
+M5J,Hakka,0,2001
+M5J,"Chinese, n.o.s.",100,2001
+M5J,Italian,10,2001
+M5J,Portuguese,0,2001
+M5J,Spanish,0,2001
+M5J,German,0,2001
+M5J,Polish,0,2001
+M5J,Punjabi,0,2001
+M5J,Greek,10,2001
+M5J,Vietnamese,10,2001
+M5J,Arabic,0,2001
+M5J,Cree,0,2001
+M5J,Tagalog (Pilipino),0,2001
+M5J,Ukrainian,0,2001
+M5J,Persian (Farsi),15,2001
+M5J,Korean,15,2001
+M5J,Hungarian,0,2001
+M5J,Tamil,0,2001
+M5J,Gujarati,0,2001
+M5J,Croatian,0,2001
+M5J,Armenian,0,2001
+M5J,Inuktitut (Eskimo),0,2001
+M5J,Hindi,10,2001
+M5J,Urdu,0,2001
+M5J,Japanese,35,2001
+M5J,Russian,0,2001
+M5J,Creoles,0,2001
+M5J,Dutch,0,2001
+M5J,Khmer (Cambodian),0,2001
+M5J,Ojibway,0,2001
+M5J,Romanian,0,2001
+M5J,Czech,0,2001
+M5J,Lao,0,2001
+M5J,Macedonian,0,2001
+M5J,Finnish,0,2001
+M5J,Montagnais-Naskapi,0,2001
+M5J,Hebrew,0,2001
+M5J,Yiddish,0,2001
+M5J,Serbian,25,2001
+M5J,Bengali,0,2001
+M5J,Slovak,0,2001
+M5J,Estonian,0,2001
+M5J,Turkish,20,2001
+M5J,Lithuanian,0,2001
+M5J,Latvian (Lettish),0,2001
+M5J,Micmac,0,2001
+M5J,Slovenian,0,2001
+M5J,Bulgarian,20,2001
+M5J,Serbo-Croatian,0,2001
+M5J,Dakota/Sioux,0,2001
+M5J,South Slave,0,2001
+M5J,Malay-Bahasa,0,2001
+M5J,Maltese,0,2001
+M5J,Blackfoot,0,2001
+M5J,Dogrib,0,2001
+M5J,Danish,0,2001
+M5J,Swedish,0,2001
+M5J,Malayalam,0,2001
+M5J,Thai,0,2001
+M5J,Kurdish,0,2001
+M5J,Pashto,0,2001
+M5J,Flemish,0,2001
+M5J,Chipewyan,0,2001
+M5J,Kutchin-Gwich'in (Loucheux),0,2001
+M5J,Norwegian,0,2001
+M5J,Gaelic languages,0,2001
+M5J,Tlingit,0,2001
+M5J,Other languages,20,2001
+M5M,Cantonese,10,2001
+M5M,Mandarin,20,2001
+M5M,Hakka,0,2001
+M5M,"Chinese, n.o.s.",55,2001
+M5M,Italian,40,2001
+M5M,Portuguese,35,2001
+M5M,Spanish,85,2001
+M5M,German,15,2001
+M5M,Polish,0,2001
+M5M,Punjabi,10,2001
+M5M,Greek,100,2001
+M5M,Vietnamese,0,2001
+M5M,Arabic,10,2001
+M5M,Cree,0,2001
+M5M,Tagalog (Pilipino),90,2001
+M5M,Ukrainian,40,2001
+M5M,Persian (Farsi),30,2001
+M5M,Korean,45,2001
+M5M,Hungarian,25,2001
+M5M,Tamil,0,2001
+M5M,Gujarati,0,2001
+M5M,Croatian,0,2001
+M5M,Armenian,0,2001
+M5M,Inuktitut (Eskimo),0,2001
+M5M,Hindi,0,2001
+M5M,Urdu,0,2001
+M5M,Japanese,0,2001
+M5M,Russian,90,2001
+M5M,Creoles,0,2001
+M5M,Dutch,0,2001
+M5M,Khmer (Cambodian),0,2001
+M5M,Ojibway,0,2001
+M5M,Romanian,50,2001
+M5M,Czech,10,2001
+M5M,Lao,0,2001
+M5M,Macedonian,0,2001
+M5M,Finnish,0,2001
+M5M,Montagnais-Naskapi,0,2001
+M5M,Hebrew,15,2001
+M5M,Yiddish,0,2001
+M5M,Serbian,55,2001
+M5M,Bengali,0,2001
+M5M,Slovak,0,2001
+M5M,Estonian,15,2001
+M5M,Turkish,0,2001
+M5M,Lithuanian,0,2001
+M5M,Latvian (Lettish),0,2001
+M5M,Micmac,0,2001
+M5M,Slovenian,0,2001
+M5M,Bulgarian,0,2001
+M5M,Serbo-Croatian,0,2001
+M5M,Dakota/Sioux,0,2001
+M5M,South Slave,0,2001
+M5M,Malay-Bahasa,0,2001
+M5M,Maltese,0,2001
+M5M,Blackfoot,0,2001
+M5M,Dogrib,0,2001
+M5M,Danish,0,2001
+M5M,Swedish,0,2001
+M5M,Malayalam,0,2001
+M5M,Thai,0,2001
+M5M,Kurdish,0,2001
+M5M,Pashto,0,2001
+M5M,Flemish,0,2001
+M5M,Chipewyan,0,2001
+M5M,Kutchin-Gwich'in (Loucheux),0,2001
+M5M,Norwegian,0,2001
+M5M,Gaelic languages,0,2001
+M5M,Tlingit,0,2001
+M5M,Other languages,65,2001
+M5N,Cantonese,10,2001
+M5N,Mandarin,0,2001
+M5N,Hakka,0,2001
+M5N,"Chinese, n.o.s.",40,2001
+M5N,Italian,20,2001
+M5N,Portuguese,35,2001
+M5N,Spanish,40,2001
+M5N,German,0,2001
+M5N,Polish,25,2001
+M5N,Punjabi,0,2001
+M5N,Greek,0,2001
+M5N,Vietnamese,0,2001
+M5N,Arabic,0,2001
+M5N,Cree,0,2001
+M5N,Tagalog (Pilipino),10,2001
+M5N,Ukrainian,15,2001
+M5N,Persian (Farsi),25,2001
+M5N,Korean,0,2001
+M5N,Hungarian,15,2001
+M5N,Tamil,0,2001
+M5N,Gujarati,0,2001
+M5N,Croatian,0,2001
+M5N,Armenian,0,2001
+M5N,Inuktitut (Eskimo),0,2001
+M5N,Hindi,0,2001
+M5N,Urdu,0,2001
+M5N,Japanese,0,2001
+M5N,Russian,85,2001
+M5N,Creoles,0,2001
+M5N,Dutch,0,2001
+M5N,Khmer (Cambodian),0,2001
+M5N,Ojibway,0,2001
+M5N,Romanian,35,2001
+M5N,Czech,0,2001
+M5N,Lao,0,2001
+M5N,Macedonian,0,2001
+M5N,Finnish,0,2001
+M5N,Montagnais-Naskapi,0,2001
+M5N,Hebrew,50,2001
+M5N,Yiddish,30,2001
+M5N,Serbian,15,2001
+M5N,Bengali,0,2001
+M5N,Slovak,0,2001
+M5N,Estonian,0,2001
+M5N,Turkish,0,2001
+M5N,Lithuanian,0,2001
+M5N,Latvian (Lettish),0,2001
+M5N,Micmac,0,2001
+M5N,Slovenian,0,2001
+M5N,Bulgarian,0,2001
+M5N,Serbo-Croatian,30,2001
+M5N,Dakota/Sioux,0,2001
+M5N,South Slave,0,2001
+M5N,Malay-Bahasa,0,2001
+M5N,Maltese,0,2001
+M5N,Blackfoot,0,2001
+M5N,Dogrib,0,2001
+M5N,Danish,0,2001
+M5N,Swedish,0,2001
+M5N,Malayalam,0,2001
+M5N,Thai,0,2001
+M5N,Kurdish,0,2001
+M5N,Pashto,0,2001
+M5N,Flemish,0,2001
+M5N,Chipewyan,0,2001
+M5N,Kutchin-Gwich'in (Loucheux),0,2001
+M5N,Norwegian,0,2001
+M5N,Gaelic languages,0,2001
+M5N,Tlingit,0,2001
+M5N,Other languages,50,2001
+M5P,Cantonese,15,2001
+M5P,Mandarin,25,2001
+M5P,Hakka,0,2001
+M5P,"Chinese, n.o.s.",35,2001
+M5P,Italian,0,2001
+M5P,Portuguese,10,2001
+M5P,Spanish,60,2001
+M5P,German,10,2001
+M5P,Polish,0,2001
+M5P,Punjabi,0,2001
+M5P,Greek,15,2001
+M5P,Vietnamese,0,2001
+M5P,Arabic,0,2001
+M5P,Cree,0,2001
+M5P,Tagalog (Pilipino),15,2001
+M5P,Ukrainian,0,2001
+M5P,Persian (Farsi),30,2001
+M5P,Korean,10,2001
+M5P,Hungarian,25,2001
+M5P,Tamil,0,2001
+M5P,Gujarati,0,2001
+M5P,Croatian,25,2001
+M5P,Armenian,10,2001
+M5P,Inuktitut (Eskimo),0,2001
+M5P,Hindi,0,2001
+M5P,Urdu,0,2001
+M5P,Japanese,10,2001
+M5P,Russian,25,2001
+M5P,Creoles,0,2001
+M5P,Dutch,0,2001
+M5P,Khmer (Cambodian),0,2001
+M5P,Ojibway,0,2001
+M5P,Romanian,20,2001
+M5P,Czech,0,2001
+M5P,Lao,0,2001
+M5P,Macedonian,0,2001
+M5P,Finnish,0,2001
+M5P,Montagnais-Naskapi,0,2001
+M5P,Hebrew,0,2001
+M5P,Yiddish,0,2001
+M5P,Serbian,20,2001
+M5P,Bengali,0,2001
+M5P,Slovak,0,2001
+M5P,Estonian,0,2001
+M5P,Turkish,0,2001
+M5P,Lithuanian,0,2001
+M5P,Latvian (Lettish),0,2001
+M5P,Micmac,0,2001
+M5P,Slovenian,0,2001
+M5P,Bulgarian,15,2001
+M5P,Serbo-Croatian,0,2001
+M5P,Dakota/Sioux,0,2001
+M5P,South Slave,0,2001
+M5P,Malay-Bahasa,0,2001
+M5P,Maltese,0,2001
+M5P,Blackfoot,0,2001
+M5P,Dogrib,0,2001
+M5P,Danish,0,2001
+M5P,Swedish,0,2001
+M5P,Malayalam,0,2001
+M5P,Thai,0,2001
+M5P,Kurdish,0,2001
+M5P,Pashto,0,2001
+M5P,Flemish,0,2001
+M5P,Chipewyan,0,2001
+M5P,Kutchin-Gwich'in (Loucheux),0,2001
+M5P,Norwegian,0,2001
+M5P,Gaelic languages,0,2001
+M5P,Tlingit,0,2001
+M5P,Other languages,60,2001
+M5R,Cantonese,155,2001
+M5R,Mandarin,40,2001
+M5R,Hakka,0,2001
+M5R,"Chinese, n.o.s.",200,2001
+M5R,Italian,50,2001
+M5R,Portuguese,20,2001
+M5R,Spanish,140,2001
+M5R,German,10,2001
+M5R,Polish,85,2001
+M5R,Punjabi,0,2001
+M5R,Greek,45,2001
+M5R,Vietnamese,75,2001
+M5R,Arabic,40,2001
+M5R,Cree,0,2001
+M5R,Tagalog (Pilipino),10,2001
+M5R,Ukrainian,25,2001
+M5R,Persian (Farsi),30,2001
+M5R,Korean,145,2001
+M5R,Hungarian,75,2001
+M5R,Tamil,25,2001
+M5R,Gujarati,0,2001
+M5R,Croatian,0,2001
+M5R,Armenian,0,2001
+M5R,Inuktitut (Eskimo),0,2001
+M5R,Hindi,0,2001
+M5R,Urdu,0,2001
+M5R,Japanese,45,2001
+M5R,Russian,40,2001
+M5R,Creoles,10,2001
+M5R,Dutch,0,2001
+M5R,Khmer (Cambodian),0,2001
+M5R,Ojibway,0,2001
+M5R,Romanian,25,2001
+M5R,Czech,10,2001
+M5R,Lao,0,2001
+M5R,Macedonian,0,2001
+M5R,Finnish,0,2001
+M5R,Montagnais-Naskapi,0,2001
+M5R,Hebrew,15,2001
+M5R,Yiddish,0,2001
+M5R,Serbian,10,2001
+M5R,Bengali,10,2001
+M5R,Slovak,10,2001
+M5R,Estonian,0,2001
+M5R,Turkish,0,2001
+M5R,Lithuanian,0,2001
+M5R,Latvian (Lettish),0,2001
+M5R,Micmac,0,2001
+M5R,Slovenian,0,2001
+M5R,Bulgarian,10,2001
+M5R,Serbo-Croatian,35,2001
+M5R,Dakota/Sioux,0,2001
+M5R,South Slave,0,2001
+M5R,Malay-Bahasa,0,2001
+M5R,Maltese,0,2001
+M5R,Blackfoot,0,2001
+M5R,Dogrib,0,2001
+M5R,Danish,0,2001
+M5R,Swedish,0,2001
+M5R,Malayalam,0,2001
+M5R,Thai,0,2001
+M5R,Kurdish,0,2001
+M5R,Pashto,0,2001
+M5R,Flemish,0,2001
+M5R,Chipewyan,0,2001
+M5R,Kutchin-Gwich'in (Loucheux),0,2001
+M5R,Norwegian,0,2001
+M5R,Gaelic languages,0,2001
+M5R,Tlingit,0,2001
+M5R,Other languages,135,2001
+M5S,Cantonese,270,2001
+M5S,Mandarin,70,2001
+M5S,Hakka,0,2001
+M5S,"Chinese, n.o.s.",300,2001
+M5S,Italian,105,2001
+M5S,Portuguese,290,2001
+M5S,Spanish,30,2001
+M5S,German,0,2001
+M5S,Polish,10,2001
+M5S,Punjabi,0,2001
+M5S,Greek,10,2001
+M5S,Vietnamese,30,2001
+M5S,Arabic,0,2001
+M5S,Cree,0,2001
+M5S,Tagalog (Pilipino),0,2001
+M5S,Ukrainian,70,2001
+M5S,Persian (Farsi),35,2001
+M5S,Korean,190,2001
+M5S,Hungarian,20,2001
+M5S,Tamil,0,2001
+M5S,Gujarati,0,2001
+M5S,Croatian,0,2001
+M5S,Armenian,0,2001
+M5S,Inuktitut (Eskimo),0,2001
+M5S,Hindi,0,2001
+M5S,Urdu,15,2001
+M5S,Japanese,25,2001
+M5S,Russian,75,2001
+M5S,Creoles,0,2001
+M5S,Dutch,0,2001
+M5S,Khmer (Cambodian),0,2001
+M5S,Ojibway,0,2001
+M5S,Romanian,25,2001
+M5S,Czech,0,2001
+M5S,Lao,0,2001
+M5S,Macedonian,0,2001
+M5S,Finnish,0,2001
+M5S,Montagnais-Naskapi,0,2001
+M5S,Hebrew,10,2001
+M5S,Yiddish,0,2001
+M5S,Serbian,15,2001
+M5S,Bengali,0,2001
+M5S,Slovak,0,2001
+M5S,Estonian,10,2001
+M5S,Turkish,0,2001
+M5S,Lithuanian,0,2001
+M5S,Latvian (Lettish),10,2001
+M5S,Micmac,0,2001
+M5S,Slovenian,0,2001
+M5S,Bulgarian,0,2001
+M5S,Serbo-Croatian,15,2001
+M5S,Dakota/Sioux,0,2001
+M5S,South Slave,0,2001
+M5S,Malay-Bahasa,0,2001
+M5S,Maltese,0,2001
+M5S,Blackfoot,0,2001
+M5S,Dogrib,0,2001
+M5S,Danish,0,2001
+M5S,Swedish,0,2001
+M5S,Malayalam,0,2001
+M5S,Thai,15,2001
+M5S,Kurdish,0,2001
+M5S,Pashto,0,2001
+M5S,Flemish,0,2001
+M5S,Chipewyan,0,2001
+M5S,Kutchin-Gwich'in (Loucheux),0,2001
+M5S,Norwegian,0,2001
+M5S,Gaelic languages,0,2001
+M5S,Tlingit,0,2001
+M5S,Other languages,130,2001
+M5T,Cantonese,1620,2001
+M5T,Mandarin,735,2001
+M5T,Hakka,10,2001
+M5T,"Chinese, n.o.s.",2080,2001
+M5T,Italian,0,2001
+M5T,Portuguese,295,2001
+M5T,Spanish,20,2001
+M5T,German,0,2001
+M5T,Polish,25,2001
+M5T,Punjabi,0,2001
+M5T,Greek,0,2001
+M5T,Vietnamese,425,2001
+M5T,Arabic,45,2001
+M5T,Cree,0,2001
+M5T,Tagalog (Pilipino),25,2001
+M5T,Ukrainian,10,2001
+M5T,Persian (Farsi),10,2001
+M5T,Korean,50,2001
+M5T,Hungarian,0,2001
+M5T,Tamil,0,2001
+M5T,Gujarati,0,2001
+M5T,Croatian,0,2001
+M5T,Armenian,0,2001
+M5T,Inuktitut (Eskimo),0,2001
+M5T,Hindi,0,2001
+M5T,Urdu,45,2001
+M5T,Japanese,15,2001
+M5T,Russian,10,2001
+M5T,Creoles,0,2001
+M5T,Dutch,0,2001
+M5T,Khmer (Cambodian),0,2001
+M5T,Ojibway,0,2001
+M5T,Romanian,15,2001
+M5T,Czech,0,2001
+M5T,Lao,0,2001
+M5T,Macedonian,0,2001
+M5T,Finnish,0,2001
+M5T,Montagnais-Naskapi,0,2001
+M5T,Hebrew,0,2001
+M5T,Yiddish,0,2001
+M5T,Serbian,0,2001
+M5T,Bengali,40,2001
+M5T,Slovak,0,2001
+M5T,Estonian,0,2001
+M5T,Turkish,0,2001
+M5T,Lithuanian,0,2001
+M5T,Latvian (Lettish),0,2001
+M5T,Micmac,0,2001
+M5T,Slovenian,0,2001
+M5T,Bulgarian,0,2001
+M5T,Serbo-Croatian,10,2001
+M5T,Dakota/Sioux,0,2001
+M5T,South Slave,0,2001
+M5T,Malay-Bahasa,35,2001
+M5T,Maltese,0,2001
+M5T,Blackfoot,0,2001
+M5T,Dogrib,0,2001
+M5T,Danish,0,2001
+M5T,Swedish,0,2001
+M5T,Malayalam,0,2001
+M5T,Thai,0,2001
+M5T,Kurdish,0,2001
+M5T,Pashto,0,2001
+M5T,Flemish,0,2001
+M5T,Chipewyan,0,2001
+M5T,Kutchin-Gwich'in (Loucheux),0,2001
+M5T,Norwegian,0,2001
+M5T,Gaelic languages,0,2001
+M5T,Tlingit,0,2001
+M5T,Other languages,450,2001
+M5V,Cantonese,165,2001
+M5V,Mandarin,135,2001
+M5V,Hakka,0,2001
+M5V,"Chinese, n.o.s.",90,2001
+M5V,Italian,10,2001
+M5V,Portuguese,70,2001
+M5V,Spanish,80,2001
+M5V,German,10,2001
+M5V,Polish,0,2001
+M5V,Punjabi,0,2001
+M5V,Greek,0,2001
+M5V,Vietnamese,45,2001
+M5V,Arabic,25,2001
+M5V,Cree,0,2001
+M5V,Tagalog (Pilipino),0,2001
+M5V,Ukrainian,0,2001
+M5V,Persian (Farsi),0,2001
+M5V,Korean,35,2001
+M5V,Hungarian,0,2001
+M5V,Tamil,0,2001
+M5V,Gujarati,0,2001
+M5V,Croatian,0,2001
+M5V,Armenian,0,2001
+M5V,Inuktitut (Eskimo),0,2001
+M5V,Hindi,0,2001
+M5V,Urdu,0,2001
+M5V,Japanese,10,2001
+M5V,Russian,25,2001
+M5V,Creoles,0,2001
+M5V,Dutch,0,2001
+M5V,Khmer (Cambodian),0,2001
+M5V,Ojibway,0,2001
+M5V,Romanian,10,2001
+M5V,Czech,0,2001
+M5V,Lao,0,2001
+M5V,Macedonian,0,2001
+M5V,Finnish,0,2001
+M5V,Montagnais-Naskapi,0,2001
+M5V,Hebrew,0,2001
+M5V,Yiddish,0,2001
+M5V,Serbian,0,2001
+M5V,Bengali,0,2001
+M5V,Slovak,0,2001
+M5V,Estonian,0,2001
+M5V,Turkish,0,2001
+M5V,Lithuanian,25,2001
+M5V,Latvian (Lettish),0,2001
+M5V,Micmac,0,2001
+M5V,Slovenian,0,2001
+M5V,Bulgarian,0,2001
+M5V,Serbo-Croatian,0,2001
+M5V,Dakota/Sioux,0,2001
+M5V,South Slave,0,2001
+M5V,Malay-Bahasa,0,2001
+M5V,Maltese,0,2001
+M5V,Blackfoot,0,2001
+M5V,Dogrib,0,2001
+M5V,Danish,0,2001
+M5V,Swedish,0,2001
+M5V,Malayalam,0,2001
+M5V,Thai,0,2001
+M5V,Kurdish,0,2001
+M5V,Pashto,0,2001
+M5V,Flemish,0,2001
+M5V,Chipewyan,0,2001
+M5V,Kutchin-Gwich'in (Loucheux),0,2001
+M5V,Norwegian,0,2001
+M5V,Gaelic languages,0,2001
+M5V,Tlingit,0,2001
+M5V,Other languages,30,2001
+M5W,Cantonese,0,2001
+M5W,Mandarin,0,2001
+M5W,Hakka,0,2001
+M5W,"Chinese, n.o.s.",0,2001
+M5W,Italian,0,2001
+M5W,Portuguese,0,2001
+M5W,Spanish,0,2001
+M5W,German,0,2001
+M5W,Polish,0,2001
+M5W,Punjabi,0,2001
+M5W,Greek,0,2001
+M5W,Vietnamese,0,2001
+M5W,Arabic,0,2001
+M5W,Cree,0,2001
+M5W,Tagalog (Pilipino),0,2001
+M5W,Ukrainian,0,2001
+M5W,Persian (Farsi),0,2001
+M5W,Korean,0,2001
+M5W,Hungarian,0,2001
+M5W,Tamil,0,2001
+M5W,Gujarati,0,2001
+M5W,Croatian,0,2001
+M5W,Armenian,0,2001
+M5W,Inuktitut (Eskimo),0,2001
+M5W,Hindi,0,2001
+M5W,Urdu,0,2001
+M5W,Japanese,0,2001
+M5W,Russian,0,2001
+M5W,Creoles,0,2001
+M5W,Dutch,0,2001
+M5W,Khmer (Cambodian),0,2001
+M5W,Ojibway,0,2001
+M5W,Romanian,0,2001
+M5W,Czech,0,2001
+M5W,Lao,0,2001
+M5W,Macedonian,0,2001
+M5W,Finnish,0,2001
+M5W,Montagnais-Naskapi,0,2001
+M5W,Hebrew,0,2001
+M5W,Yiddish,0,2001
+M5W,Serbian,0,2001
+M5W,Bengali,0,2001
+M5W,Slovak,0,2001
+M5W,Estonian,0,2001
+M5W,Turkish,0,2001
+M5W,Lithuanian,0,2001
+M5W,Latvian (Lettish),0,2001
+M5W,Micmac,0,2001
+M5W,Slovenian,0,2001
+M5W,Bulgarian,0,2001
+M5W,Serbo-Croatian,0,2001
+M5W,Dakota/Sioux,0,2001
+M5W,South Slave,0,2001
+M5W,Malay-Bahasa,0,2001
+M5W,Maltese,0,2001
+M5W,Blackfoot,0,2001
+M5W,Dogrib,0,2001
+M5W,Danish,0,2001
+M5W,Swedish,0,2001
+M5W,Malayalam,0,2001
+M5W,Thai,0,2001
+M5W,Kurdish,0,2001
+M5W,Pashto,0,2001
+M5W,Flemish,0,2001
+M5W,Chipewyan,0,2001
+M5W,Kutchin-Gwich'in (Loucheux),0,2001
+M5W,Norwegian,0,2001
+M5W,Gaelic languages,0,2001
+M5W,Tlingit,0,2001
+M5W,Other languages,0,2001
+M6A,Cantonese,40,2001
+M6A,Mandarin,15,2001
+M6A,Hakka,0,2001
+M6A,"Chinese, n.o.s.",80,2001
+M6A,Italian,590,2001
+M6A,Portuguese,80,2001
+M6A,Spanish,195,2001
+M6A,German,10,2001
+M6A,Polish,85,2001
+M6A,Punjabi,0,2001
+M6A,Greek,35,2001
+M6A,Vietnamese,50,2001
+M6A,Arabic,0,2001
+M6A,Cree,0,2001
+M6A,Tagalog (Pilipino),430,2001
+M6A,Ukrainian,55,2001
+M6A,Persian (Farsi),90,2001
+M6A,Korean,15,2001
+M6A,Hungarian,70,2001
+M6A,Tamil,10,2001
+M6A,Gujarati,0,2001
+M6A,Croatian,0,2001
+M6A,Armenian,20,2001
+M6A,Inuktitut (Eskimo),0,2001
+M6A,Hindi,25,2001
+M6A,Urdu,10,2001
+M6A,Japanese,0,2001
+M6A,Russian,240,2001
+M6A,Creoles,0,2001
+M6A,Dutch,0,2001
+M6A,Khmer (Cambodian),0,2001
+M6A,Ojibway,0,2001
+M6A,Romanian,55,2001
+M6A,Czech,0,2001
+M6A,Lao,60,2001
+M6A,Macedonian,0,2001
+M6A,Finnish,0,2001
+M6A,Montagnais-Naskapi,0,2001
+M6A,Hebrew,10,2001
+M6A,Yiddish,10,2001
+M6A,Serbian,0,2001
+M6A,Bengali,0,2001
+M6A,Slovak,0,2001
+M6A,Estonian,0,2001
+M6A,Turkish,15,2001
+M6A,Lithuanian,0,2001
+M6A,Latvian (Lettish),0,2001
+M6A,Micmac,0,2001
+M6A,Slovenian,0,2001
+M6A,Bulgarian,25,2001
+M6A,Serbo-Croatian,0,2001
+M6A,Dakota/Sioux,0,2001
+M6A,South Slave,0,2001
+M6A,Malay-Bahasa,0,2001
+M6A,Maltese,0,2001
+M6A,Blackfoot,0,2001
+M6A,Dogrib,0,2001
+M6A,Danish,0,2001
+M6A,Swedish,0,2001
+M6A,Malayalam,0,2001
+M6A,Thai,0,2001
+M6A,Kurdish,0,2001
+M6A,Pashto,55,2001
+M6A,Flemish,0,2001
+M6A,Chipewyan,0,2001
+M6A,Kutchin-Gwich'in (Loucheux),0,2001
+M6A,Norwegian,0,2001
+M6A,Gaelic languages,0,2001
+M6A,Tlingit,0,2001
+M6A,Other languages,555,2001
+M6B,Cantonese,250,2001
+M6B,Mandarin,25,2001
+M6B,Hakka,0,2001
+M6B,"Chinese, n.o.s.",310,2001
+M6B,Italian,1560,2001
+M6B,Portuguese,195,2001
+M6B,Spanish,430,2001
+M6B,German,20,2001
+M6B,Polish,60,2001
+M6B,Punjabi,20,2001
+M6B,Greek,75,2001
+M6B,Vietnamese,225,2001
+M6B,Arabic,95,2001
+M6B,Cree,0,2001
+M6B,Tagalog (Pilipino),215,2001
+M6B,Ukrainian,90,2001
+M6B,Persian (Farsi),55,2001
+M6B,Korean,100,2001
+M6B,Hungarian,120,2001
+M6B,Tamil,25,2001
+M6B,Gujarati,0,2001
+M6B,Croatian,0,2001
+M6B,Armenian,20,2001
+M6B,Inuktitut (Eskimo),0,2001
+M6B,Hindi,0,2001
+M6B,Urdu,45,2001
+M6B,Japanese,0,2001
+M6B,Russian,665,2001
+M6B,Creoles,10,2001
+M6B,Dutch,0,2001
+M6B,Khmer (Cambodian),0,2001
+M6B,Ojibway,0,2001
+M6B,Romanian,275,2001
+M6B,Czech,0,2001
+M6B,Lao,40,2001
+M6B,Macedonian,0,2001
+M6B,Finnish,0,2001
+M6B,Montagnais-Naskapi,0,2001
+M6B,Hebrew,35,2001
+M6B,Yiddish,0,2001
+M6B,Serbian,165,2001
+M6B,Bengali,35,2001
+M6B,Slovak,15,2001
+M6B,Estonian,0,2001
+M6B,Turkish,10,2001
+M6B,Lithuanian,0,2001
+M6B,Latvian (Lettish),10,2001
+M6B,Micmac,0,2001
+M6B,Slovenian,0,2001
+M6B,Bulgarian,15,2001
+M6B,Serbo-Croatian,45,2001
+M6B,Dakota/Sioux,0,2001
+M6B,South Slave,0,2001
+M6B,Malay-Bahasa,0,2001
+M6B,Maltese,0,2001
+M6B,Blackfoot,0,2001
+M6B,Dogrib,0,2001
+M6B,Danish,0,2001
+M6B,Swedish,0,2001
+M6B,Malayalam,0,2001
+M6B,Thai,0,2001
+M6B,Kurdish,0,2001
+M6B,Pashto,0,2001
+M6B,Flemish,0,2001
+M6B,Chipewyan,0,2001
+M6B,Kutchin-Gwich'in (Loucheux),0,2001
+M6B,Norwegian,0,2001
+M6B,Gaelic languages,0,2001
+M6B,Tlingit,0,2001
+M6B,Other languages,515,2001
+M6C,Cantonese,150,2001
+M6C,Mandarin,10,2001
+M6C,Hakka,0,2001
+M6C,"Chinese, n.o.s.",120,2001
+M6C,Italian,690,2001
+M6C,Portuguese,510,2001
+M6C,Spanish,185,2001
+M6C,German,0,2001
+M6C,Polish,15,2001
+M6C,Punjabi,10,2001
+M6C,Greek,215,2001
+M6C,Vietnamese,90,2001
+M6C,Arabic,10,2001
+M6C,Cree,0,2001
+M6C,Tagalog (Pilipino),310,2001
+M6C,Ukrainian,25,2001
+M6C,Persian (Farsi),65,2001
+M6C,Korean,40,2001
+M6C,Hungarian,155,2001
+M6C,Tamil,0,2001
+M6C,Gujarati,0,2001
+M6C,Croatian,0,2001
+M6C,Armenian,0,2001
+M6C,Inuktitut (Eskimo),0,2001
+M6C,Hindi,0,2001
+M6C,Urdu,35,2001
+M6C,Japanese,10,2001
+M6C,Russian,55,2001
+M6C,Creoles,0,2001
+M6C,Dutch,15,2001
+M6C,Khmer (Cambodian),0,2001
+M6C,Ojibway,10,2001
+M6C,Romanian,10,2001
+M6C,Czech,0,2001
+M6C,Lao,0,2001
+M6C,Macedonian,0,2001
+M6C,Finnish,0,2001
+M6C,Montagnais-Naskapi,0,2001
+M6C,Hebrew,0,2001
+M6C,Yiddish,0,2001
+M6C,Serbian,10,2001
+M6C,Bengali,0,2001
+M6C,Slovak,10,2001
+M6C,Estonian,0,2001
+M6C,Turkish,15,2001
+M6C,Lithuanian,10,2001
+M6C,Latvian (Lettish),10,2001
+M6C,Micmac,0,2001
+M6C,Slovenian,0,2001
+M6C,Bulgarian,0,2001
+M6C,Serbo-Croatian,15,2001
+M6C,Dakota/Sioux,0,2001
+M6C,South Slave,0,2001
+M6C,Malay-Bahasa,0,2001
+M6C,Maltese,0,2001
+M6C,Blackfoot,0,2001
+M6C,Dogrib,0,2001
+M6C,Danish,0,2001
+M6C,Swedish,0,2001
+M6C,Malayalam,0,2001
+M6C,Thai,0,2001
+M6C,Kurdish,0,2001
+M6C,Pashto,0,2001
+M6C,Flemish,0,2001
+M6C,Chipewyan,0,2001
+M6C,Kutchin-Gwich'in (Loucheux),0,2001
+M6C,Norwegian,0,2001
+M6C,Gaelic languages,0,2001
+M6C,Tlingit,0,2001
+M6C,Other languages,305,2001
+M6E,Cantonese,35,2001
+M6E,Mandarin,160,2001
+M6E,Hakka,0,2001
+M6E,"Chinese, n.o.s.",380,2001
+M6E,Italian,3300,2001
+M6E,Portuguese,3720,2001
+M6E,Spanish,1260,2001
+M6E,German,45,2001
+M6E,Polish,80,2001
+M6E,Punjabi,30,2001
+M6E,Greek,320,2001
+M6E,Vietnamese,315,2001
+M6E,Arabic,55,2001
+M6E,Cree,0,2001
+M6E,Tagalog (Pilipino),310,2001
+M6E,Ukrainian,25,2001
+M6E,Persian (Farsi),10,2001
+M6E,Korean,55,2001
+M6E,Hungarian,130,2001
+M6E,Tamil,100,2001
+M6E,Gujarati,0,2001
+M6E,Croatian,0,2001
+M6E,Armenian,0,2001
+M6E,Inuktitut (Eskimo),0,2001
+M6E,Hindi,0,2001
+M6E,Urdu,25,2001
+M6E,Japanese,10,2001
+M6E,Russian,20,2001
+M6E,Creoles,0,2001
+M6E,Dutch,0,2001
+M6E,Khmer (Cambodian),0,2001
+M6E,Ojibway,0,2001
+M6E,Romanian,10,2001
+M6E,Czech,0,2001
+M6E,Lao,45,2001
+M6E,Macedonian,0,2001
+M6E,Finnish,0,2001
+M6E,Montagnais-Naskapi,0,2001
+M6E,Hebrew,0,2001
+M6E,Yiddish,0,2001
+M6E,Serbian,10,2001
+M6E,Bengali,0,2001
+M6E,Slovak,0,2001
+M6E,Estonian,0,2001
+M6E,Turkish,175,2001
+M6E,Lithuanian,0,2001
+M6E,Latvian (Lettish),0,2001
+M6E,Micmac,0,2001
+M6E,Slovenian,0,2001
+M6E,Bulgarian,0,2001
+M6E,Serbo-Croatian,10,2001
+M6E,Dakota/Sioux,0,2001
+M6E,South Slave,0,2001
+M6E,Malay-Bahasa,0,2001
+M6E,Maltese,0,2001
+M6E,Blackfoot,0,2001
+M6E,Dogrib,0,2001
+M6E,Danish,0,2001
+M6E,Swedish,0,2001
+M6E,Malayalam,0,2001
+M6E,Thai,0,2001
+M6E,Kurdish,30,2001
+M6E,Pashto,0,2001
+M6E,Flemish,0,2001
+M6E,Chipewyan,0,2001
+M6E,Kutchin-Gwich'in (Loucheux),0,2001
+M6E,Norwegian,0,2001
+M6E,Gaelic languages,0,2001
+M6E,Tlingit,0,2001
+M6E,Other languages,505,2001
+M6G,Cantonese,865,2001
+M6G,Mandarin,210,2001
+M6G,Hakka,0,2001
+M6G,"Chinese, n.o.s.",640,2001
+M6G,Italian,1180,2001
+M6G,Portuguese,1790,2001
+M6G,Spanish,210,2001
+M6G,German,0,2001
+M6G,Polish,40,2001
+M6G,Punjabi,35,2001
+M6G,Greek,365,2001
+M6G,Vietnamese,200,2001
+M6G,Arabic,0,2001
+M6G,Cree,0,2001
+M6G,Tagalog (Pilipino),60,2001
+M6G,Ukrainian,65,2001
+M6G,Persian (Farsi),65,2001
+M6G,Korean,140,2001
+M6G,Hungarian,65,2001
+M6G,Tamil,0,2001
+M6G,Gujarati,0,2001
+M6G,Croatian,0,2001
+M6G,Armenian,0,2001
+M6G,Inuktitut (Eskimo),0,2001
+M6G,Hindi,0,2001
+M6G,Urdu,0,2001
+M6G,Japanese,10,2001
+M6G,Russian,60,2001
+M6G,Creoles,0,2001
+M6G,Dutch,0,2001
+M6G,Khmer (Cambodian),10,2001
+M6G,Ojibway,0,2001
+M6G,Romanian,35,2001
+M6G,Czech,0,2001
+M6G,Lao,0,2001
+M6G,Macedonian,0,2001
+M6G,Finnish,0,2001
+M6G,Montagnais-Naskapi,0,2001
+M6G,Hebrew,0,2001
+M6G,Yiddish,0,2001
+M6G,Serbian,10,2001
+M6G,Bengali,60,2001
+M6G,Slovak,0,2001
+M6G,Estonian,30,2001
+M6G,Turkish,15,2001
+M6G,Lithuanian,0,2001
+M6G,Latvian (Lettish),0,2001
+M6G,Micmac,0,2001
+M6G,Slovenian,15,2001
+M6G,Bulgarian,0,2001
+M6G,Serbo-Croatian,0,2001
+M6G,Dakota/Sioux,0,2001
+M6G,South Slave,0,2001
+M6G,Malay-Bahasa,0,2001
+M6G,Maltese,10,2001
+M6G,Blackfoot,0,2001
+M6G,Dogrib,0,2001
+M6G,Danish,0,2001
+M6G,Swedish,0,2001
+M6G,Malayalam,0,2001
+M6G,Thai,0,2001
+M6G,Kurdish,0,2001
+M6G,Pashto,0,2001
+M6G,Flemish,0,2001
+M6G,Chipewyan,0,2001
+M6G,Kutchin-Gwich'in (Loucheux),0,2001
+M6G,Norwegian,0,2001
+M6G,Gaelic languages,0,2001
+M6G,Tlingit,0,2001
+M6G,Other languages,235,2001
+M6H,Cantonese,455,2001
+M6H,Mandarin,210,2001
+M6H,Hakka,0,2001
+M6H,"Chinese, n.o.s.",1055,2001
+M6H,Italian,1225,2001
+M6H,Portuguese,5315,2001
+M6H,Spanish,805,2001
+M6H,German,0,2001
+M6H,Polish,60,2001
+M6H,Punjabi,180,2001
+M6H,Greek,205,2001
+M6H,Vietnamese,660,2001
+M6H,Arabic,25,2001
+M6H,Cree,0,2001
+M6H,Tagalog (Pilipino),45,2001
+M6H,Ukrainian,90,2001
+M6H,Persian (Farsi),20,2001
+M6H,Korean,135,2001
+M6H,Hungarian,40,2001
+M6H,Tamil,305,2001
+M6H,Gujarati,85,2001
+M6H,Croatian,20,2001
+M6H,Armenian,0,2001
+M6H,Inuktitut (Eskimo),0,2001
+M6H,Hindi,25,2001
+M6H,Urdu,250,2001
+M6H,Japanese,25,2001
+M6H,Russian,30,2001
+M6H,Creoles,0,2001
+M6H,Dutch,10,2001
+M6H,Khmer (Cambodian),0,2001
+M6H,Ojibway,0,2001
+M6H,Romanian,0,2001
+M6H,Czech,0,2001
+M6H,Lao,40,2001
+M6H,Macedonian,0,2001
+M6H,Finnish,0,2001
+M6H,Montagnais-Naskapi,0,2001
+M6H,Hebrew,0,2001
+M6H,Yiddish,0,2001
+M6H,Serbian,35,2001
+M6H,Bengali,185,2001
+M6H,Slovak,0,2001
+M6H,Estonian,10,2001
+M6H,Turkish,185,2001
+M6H,Lithuanian,40,2001
+M6H,Latvian (Lettish),0,2001
+M6H,Micmac,0,2001
+M6H,Slovenian,0,2001
+M6H,Bulgarian,10,2001
+M6H,Serbo-Croatian,0,2001
+M6H,Dakota/Sioux,0,2001
+M6H,South Slave,0,2001
+M6H,Malay-Bahasa,15,2001
+M6H,Maltese,0,2001
+M6H,Blackfoot,0,2001
+M6H,Dogrib,0,2001
+M6H,Danish,0,2001
+M6H,Swedish,0,2001
+M6H,Malayalam,0,2001
+M6H,Thai,0,2001
+M6H,Kurdish,0,2001
+M6H,Pashto,0,2001
+M6H,Flemish,0,2001
+M6H,Chipewyan,0,2001
+M6H,Kutchin-Gwich'in (Loucheux),0,2001
+M6H,Norwegian,0,2001
+M6H,Gaelic languages,0,2001
+M6H,Tlingit,0,2001
+M6H,Other languages,255,2001
+M6J,Cantonese,795,2001
+M6J,Mandarin,780,2001
+M6J,Hakka,0,2001
+M6J,"Chinese, n.o.s.",1245,2001
+M6J,Italian,375,2001
+M6J,Portuguese,4420,2001
+M6J,Spanish,110,2001
+M6J,German,0,2001
+M6J,Polish,175,2001
+M6J,Punjabi,10,2001
+M6J,Greek,10,2001
+M6J,Vietnamese,280,2001
+M6J,Arabic,25,2001
+M6J,Cree,0,2001
+M6J,Tagalog (Pilipino),100,2001
+M6J,Ukrainian,170,2001
+M6J,Persian (Farsi),40,2001
+M6J,Korean,0,2001
+M6J,Hungarian,0,2001
+M6J,Tamil,20,2001
+M6J,Gujarati,0,2001
+M6J,Croatian,0,2001
+M6J,Armenian,10,2001
+M6J,Inuktitut (Eskimo),0,2001
+M6J,Hindi,10,2001
+M6J,Urdu,0,2001
+M6J,Japanese,15,2001
+M6J,Russian,25,2001
+M6J,Creoles,0,2001
+M6J,Dutch,0,2001
+M6J,Khmer (Cambodian),0,2001
+M6J,Ojibway,0,2001
+M6J,Romanian,10,2001
+M6J,Czech,0,2001
+M6J,Lao,0,2001
+M6J,Macedonian,0,2001
+M6J,Finnish,0,2001
+M6J,Montagnais-Naskapi,0,2001
+M6J,Hebrew,0,2001
+M6J,Yiddish,0,2001
+M6J,Serbian,10,2001
+M6J,Bengali,10,2001
+M6J,Slovak,0,2001
+M6J,Estonian,0,2001
+M6J,Turkish,0,2001
+M6J,Lithuanian,25,2001
+M6J,Latvian (Lettish),0,2001
+M6J,Micmac,0,2001
+M6J,Slovenian,0,2001
+M6J,Bulgarian,40,2001
+M6J,Serbo-Croatian,0,2001
+M6J,Dakota/Sioux,0,2001
+M6J,South Slave,0,2001
+M6J,Malay-Bahasa,0,2001
+M6J,Maltese,0,2001
+M6J,Blackfoot,0,2001
+M6J,Dogrib,0,2001
+M6J,Danish,0,2001
+M6J,Swedish,0,2001
+M6J,Malayalam,0,2001
+M6J,Thai,0,2001
+M6J,Kurdish,0,2001
+M6J,Pashto,0,2001
+M6J,Flemish,0,2001
+M6J,Chipewyan,0,2001
+M6J,Kutchin-Gwich'in (Loucheux),0,2001
+M6J,Norwegian,0,2001
+M6J,Gaelic languages,0,2001
+M6J,Tlingit,0,2001
+M6J,Other languages,245,2001
+M6K,Cantonese,530,2001
+M6K,Mandarin,390,2001
+M6K,Hakka,0,2001
+M6K,"Chinese, n.o.s.",730,2001
+M6K,Italian,35,2001
+M6K,Portuguese,1525,2001
+M6K,Spanish,375,2001
+M6K,German,0,2001
+M6K,Polish,680,2001
+M6K,Punjabi,115,2001
+M6K,Greek,10,2001
+M6K,Vietnamese,1080,2001
+M6K,Arabic,100,2001
+M6K,Cree,0,2001
+M6K,Tagalog (Pilipino),400,2001
+M6K,Ukrainian,65,2001
+M6K,Persian (Farsi),35,2001
+M6K,Korean,60,2001
+M6K,Hungarian,105,2001
+M6K,Tamil,430,2001
+M6K,Gujarati,145,2001
+M6K,Croatian,20,2001
+M6K,Armenian,0,2001
+M6K,Inuktitut (Eskimo),0,2001
+M6K,Hindi,50,2001
+M6K,Urdu,105,2001
+M6K,Japanese,15,2001
+M6K,Russian,150,2001
+M6K,Creoles,0,2001
+M6K,Dutch,0,2001
+M6K,Khmer (Cambodian),0,2001
+M6K,Ojibway,10,2001
+M6K,Romanian,30,2001
+M6K,Czech,10,2001
+M6K,Lao,0,2001
+M6K,Macedonian,0,2001
+M6K,Finnish,0,2001
+M6K,Montagnais-Naskapi,0,2001
+M6K,Hebrew,0,2001
+M6K,Yiddish,0,2001
+M6K,Serbian,30,2001
+M6K,Bengali,155,2001
+M6K,Slovak,0,2001
+M6K,Estonian,0,2001
+M6K,Turkish,35,2001
+M6K,Lithuanian,10,2001
+M6K,Latvian (Lettish),0,2001
+M6K,Micmac,0,2001
+M6K,Slovenian,0,2001
+M6K,Bulgarian,40,2001
+M6K,Serbo-Croatian,15,2001
+M6K,Dakota/Sioux,0,2001
+M6K,South Slave,0,2001
+M6K,Malay-Bahasa,0,2001
+M6K,Maltese,0,2001
+M6K,Blackfoot,0,2001
+M6K,Dogrib,0,2001
+M6K,Danish,0,2001
+M6K,Swedish,0,2001
+M6K,Malayalam,0,2001
+M6K,Thai,0,2001
+M6K,Kurdish,0,2001
+M6K,Pashto,95,2001
+M6K,Flemish,0,2001
+M6K,Chipewyan,0,2001
+M6K,Kutchin-Gwich'in (Loucheux),0,2001
+M6K,Norwegian,0,2001
+M6K,Gaelic languages,0,2001
+M6K,Tlingit,0,2001
+M6K,Other languages,1080,2001
+M6L,Cantonese,65,2001
+M6L,Mandarin,50,2001
+M6L,Hakka,0,2001
+M6L,"Chinese, n.o.s.",145,2001
+M6L,Italian,1925,2001
+M6L,Portuguese,160,2001
+M6L,Spanish,620,2001
+M6L,German,10,2001
+M6L,Polish,15,2001
+M6L,Punjabi,130,2001
+M6L,Greek,0,2001
+M6L,Vietnamese,65,2001
+M6L,Arabic,10,2001
+M6L,Cree,0,2001
+M6L,Tagalog (Pilipino),55,2001
+M6L,Ukrainian,70,2001
+M6L,Persian (Farsi),40,2001
+M6L,Korean,10,2001
+M6L,Hungarian,15,2001
+M6L,Tamil,225,2001
+M6L,Gujarati,250,2001
+M6L,Croatian,50,2001
+M6L,Armenian,10,2001
+M6L,Inuktitut (Eskimo),0,2001
+M6L,Hindi,30,2001
+M6L,Urdu,155,2001
+M6L,Japanese,0,2001
+M6L,Russian,95,2001
+M6L,Creoles,15,2001
+M6L,Dutch,0,2001
+M6L,Khmer (Cambodian),0,2001
+M6L,Ojibway,0,2001
+M6L,Romanian,20,2001
+M6L,Czech,0,2001
+M6L,Lao,0,2001
+M6L,Macedonian,15,2001
+M6L,Finnish,0,2001
+M6L,Montagnais-Naskapi,0,2001
+M6L,Hebrew,0,2001
+M6L,Yiddish,0,2001
+M6L,Serbian,20,2001
+M6L,Bengali,120,2001
+M6L,Slovak,0,2001
+M6L,Estonian,0,2001
+M6L,Turkish,40,2001
+M6L,Lithuanian,0,2001
+M6L,Latvian (Lettish),0,2001
+M6L,Micmac,0,2001
+M6L,Slovenian,0,2001
+M6L,Bulgarian,10,2001
+M6L,Serbo-Croatian,0,2001
+M6L,Dakota/Sioux,0,2001
+M6L,South Slave,0,2001
+M6L,Malay-Bahasa,0,2001
+M6L,Maltese,0,2001
+M6L,Blackfoot,0,2001
+M6L,Dogrib,0,2001
+M6L,Danish,0,2001
+M6L,Swedish,0,2001
+M6L,Malayalam,0,2001
+M6L,Thai,0,2001
+M6L,Kurdish,0,2001
+M6L,Pashto,45,2001
+M6L,Flemish,0,2001
+M6L,Chipewyan,0,2001
+M6L,Kutchin-Gwich'in (Loucheux),0,2001
+M6L,Norwegian,0,2001
+M6L,Gaelic languages,0,2001
+M6L,Tlingit,0,2001
+M6L,Other languages,665,2001
+M6M,Cantonese,95,2001
+M6M,Mandarin,75,2001
+M6M,Hakka,0,2001
+M6M,"Chinese, n.o.s.",385,2001
+M6M,Italian,1535,2001
+M6M,Portuguese,1820,2001
+M6M,Spanish,1070,2001
+M6M,German,20,2001
+M6M,Polish,185,2001
+M6M,Punjabi,80,2001
+M6M,Greek,30,2001
+M6M,Vietnamese,1045,2001
+M6M,Arabic,75,2001
+M6M,Cree,0,2001
+M6M,Tagalog (Pilipino),100,2001
+M6M,Ukrainian,60,2001
+M6M,Persian (Farsi),145,2001
+M6M,Korean,315,2001
+M6M,Hungarian,40,2001
+M6M,Tamil,275,2001
+M6M,Gujarati,30,2001
+M6M,Croatian,50,2001
+M6M,Armenian,10,2001
+M6M,Inuktitut (Eskimo),0,2001
+M6M,Hindi,55,2001
+M6M,Urdu,135,2001
+M6M,Japanese,0,2001
+M6M,Russian,75,2001
+M6M,Creoles,0,2001
+M6M,Dutch,0,2001
+M6M,Khmer (Cambodian),0,2001
+M6M,Ojibway,0,2001
+M6M,Romanian,10,2001
+M6M,Czech,0,2001
+M6M,Lao,25,2001
+M6M,Macedonian,10,2001
+M6M,Finnish,0,2001
+M6M,Montagnais-Naskapi,0,2001
+M6M,Hebrew,0,2001
+M6M,Yiddish,0,2001
+M6M,Serbian,40,2001
+M6M,Bengali,15,2001
+M6M,Slovak,0,2001
+M6M,Estonian,0,2001
+M6M,Turkish,50,2001
+M6M,Lithuanian,0,2001
+M6M,Latvian (Lettish),10,2001
+M6M,Micmac,0,2001
+M6M,Slovenian,10,2001
+M6M,Bulgarian,35,2001
+M6M,Serbo-Croatian,15,2001
+M6M,Dakota/Sioux,0,2001
+M6M,South Slave,0,2001
+M6M,Malay-Bahasa,0,2001
+M6M,Maltese,10,2001
+M6M,Blackfoot,0,2001
+M6M,Dogrib,0,2001
+M6M,Danish,0,2001
+M6M,Swedish,0,2001
+M6M,Malayalam,0,2001
+M6M,Thai,0,2001
+M6M,Kurdish,0,2001
+M6M,Pashto,0,2001
+M6M,Flemish,0,2001
+M6M,Chipewyan,0,2001
+M6M,Kutchin-Gwich'in (Loucheux),0,2001
+M6M,Norwegian,0,2001
+M6M,Gaelic languages,0,2001
+M6M,Tlingit,0,2001
+M6M,Other languages,1040,2001
+M6N,Cantonese,225,2001
+M6N,Mandarin,70,2001
+M6N,Hakka,0,2001
+M6N,"Chinese, n.o.s.",405,2001
+M6N,Italian,930,2001
+M6N,Portuguese,2540,2001
+M6N,Spanish,1635,2001
+M6N,German,20,2001
+M6N,Polish,125,2001
+M6N,Punjabi,355,2001
+M6N,Greek,165,2001
+M6N,Vietnamese,1235,2001
+M6N,Arabic,35,2001
+M6N,Cree,0,2001
+M6N,Tagalog (Pilipino),200,2001
+M6N,Ukrainian,40,2001
+M6N,Persian (Farsi),15,2001
+M6N,Korean,45,2001
+M6N,Hungarian,15,2001
+M6N,Tamil,15,2001
+M6N,Gujarati,10,2001
+M6N,Croatian,115,2001
+M6N,Armenian,0,2001
+M6N,Inuktitut (Eskimo),0,2001
+M6N,Hindi,20,2001
+M6N,Urdu,85,2001
+M6N,Japanese,10,2001
+M6N,Russian,100,2001
+M6N,Creoles,0,2001
+M6N,Dutch,0,2001
+M6N,Khmer (Cambodian),10,2001
+M6N,Ojibway,0,2001
+M6N,Romanian,0,2001
+M6N,Czech,0,2001
+M6N,Lao,10,2001
+M6N,Macedonian,15,2001
+M6N,Finnish,0,2001
+M6N,Montagnais-Naskapi,0,2001
+M6N,Hebrew,0,2001
+M6N,Yiddish,0,2001
+M6N,Serbian,45,2001
+M6N,Bengali,75,2001
+M6N,Slovak,10,2001
+M6N,Estonian,0,2001
+M6N,Turkish,165,2001
+M6N,Lithuanian,60,2001
+M6N,Latvian (Lettish),0,2001
+M6N,Micmac,0,2001
+M6N,Slovenian,0,2001
+M6N,Bulgarian,0,2001
+M6N,Serbo-Croatian,0,2001
+M6N,Dakota/Sioux,0,2001
+M6N,South Slave,0,2001
+M6N,Malay-Bahasa,0,2001
+M6N,Maltese,40,2001
+M6N,Blackfoot,0,2001
+M6N,Dogrib,0,2001
+M6N,Danish,0,2001
+M6N,Swedish,0,2001
+M6N,Malayalam,10,2001
+M6N,Thai,0,2001
+M6N,Kurdish,40,2001
+M6N,Pashto,25,2001
+M6N,Flemish,0,2001
+M6N,Chipewyan,0,2001
+M6N,Kutchin-Gwich'in (Loucheux),0,2001
+M6N,Norwegian,0,2001
+M6N,Gaelic languages,0,2001
+M6N,Tlingit,0,2001
+M6N,Other languages,595,2001
+M6P,Cantonese,175,2001
+M6P,Mandarin,155,2001
+M6P,Hakka,0,2001
+M6P,"Chinese, n.o.s.",375,2001
+M6P,Italian,95,2001
+M6P,Portuguese,960,2001
+M6P,Spanish,390,2001
+M6P,German,25,2001
+M6P,Polish,460,2001
+M6P,Punjabi,75,2001
+M6P,Greek,55,2001
+M6P,Vietnamese,300,2001
+M6P,Arabic,45,2001
+M6P,Cree,0,2001
+M6P,Tagalog (Pilipino),120,2001
+M6P,Ukrainian,545,2001
+M6P,Persian (Farsi),135,2001
+M6P,Korean,250,2001
+M6P,Hungarian,40,2001
+M6P,Tamil,40,2001
+M6P,Gujarati,20,2001
+M6P,Croatian,10,2001
+M6P,Armenian,0,2001
+M6P,Inuktitut (Eskimo),0,2001
+M6P,Hindi,25,2001
+M6P,Urdu,45,2001
+M6P,Japanese,35,2001
+M6P,Russian,605,2001
+M6P,Creoles,0,2001
+M6P,Dutch,0,2001
+M6P,Khmer (Cambodian),0,2001
+M6P,Ojibway,0,2001
+M6P,Romanian,60,2001
+M6P,Czech,25,2001
+M6P,Lao,0,2001
+M6P,Macedonian,0,2001
+M6P,Finnish,0,2001
+M6P,Montagnais-Naskapi,0,2001
+M6P,Hebrew,0,2001
+M6P,Yiddish,0,2001
+M6P,Serbian,180,2001
+M6P,Bengali,65,2001
+M6P,Slovak,0,2001
+M6P,Estonian,45,2001
+M6P,Turkish,20,2001
+M6P,Lithuanian,105,2001
+M6P,Latvian (Lettish),30,2001
+M6P,Micmac,0,2001
+M6P,Slovenian,15,2001
+M6P,Bulgarian,15,2001
+M6P,Serbo-Croatian,30,2001
+M6P,Dakota/Sioux,0,2001
+M6P,South Slave,0,2001
+M6P,Malay-Bahasa,0,2001
+M6P,Maltese,75,2001
+M6P,Blackfoot,0,2001
+M6P,Dogrib,0,2001
+M6P,Danish,0,2001
+M6P,Swedish,10,2001
+M6P,Malayalam,0,2001
+M6P,Thai,0,2001
+M6P,Kurdish,0,2001
+M6P,Pashto,0,2001
+M6P,Flemish,0,2001
+M6P,Chipewyan,0,2001
+M6P,Kutchin-Gwich'in (Loucheux),0,2001
+M6P,Norwegian,0,2001
+M6P,Gaelic languages,0,2001
+M6P,Tlingit,0,2001
+M6P,Other languages,520,2001
+M6R,Cantonese,110,2001
+M6R,Mandarin,0,2001
+M6R,Hakka,0,2001
+M6R,"Chinese, n.o.s.",120,2001
+M6R,Italian,0,2001
+M6R,Portuguese,170,2001
+M6R,Spanish,30,2001
+M6R,German,0,2001
+M6R,Polish,965,2001
+M6R,Punjabi,10,2001
+M6R,Greek,25,2001
+M6R,Vietnamese,85,2001
+M6R,Arabic,0,2001
+M6R,Cree,0,2001
+M6R,Tagalog (Pilipino),75,2001
+M6R,Ukrainian,125,2001
+M6R,Persian (Farsi),0,2001
+M6R,Korean,70,2001
+M6R,Hungarian,0,2001
+M6R,Tamil,40,2001
+M6R,Gujarati,35,2001
+M6R,Croatian,25,2001
+M6R,Armenian,0,2001
+M6R,Inuktitut (Eskimo),0,2001
+M6R,Hindi,45,2001
+M6R,Urdu,35,2001
+M6R,Japanese,25,2001
+M6R,Russian,20,2001
+M6R,Creoles,0,2001
+M6R,Dutch,0,2001
+M6R,Khmer (Cambodian),0,2001
+M6R,Ojibway,0,2001
+M6R,Romanian,10,2001
+M6R,Czech,0,2001
+M6R,Lao,0,2001
+M6R,Macedonian,10,2001
+M6R,Finnish,0,2001
+M6R,Montagnais-Naskapi,0,2001
+M6R,Hebrew,40,2001
+M6R,Yiddish,0,2001
+M6R,Serbian,40,2001
+M6R,Bengali,0,2001
+M6R,Slovak,0,2001
+M6R,Estonian,0,2001
+M6R,Turkish,0,2001
+M6R,Lithuanian,75,2001
+M6R,Latvian (Lettish),0,2001
+M6R,Micmac,0,2001
+M6R,Slovenian,0,2001
+M6R,Bulgarian,0,2001
+M6R,Serbo-Croatian,0,2001
+M6R,Dakota/Sioux,0,2001
+M6R,South Slave,0,2001
+M6R,Malay-Bahasa,0,2001
+M6R,Maltese,0,2001
+M6R,Blackfoot,0,2001
+M6R,Dogrib,0,2001
+M6R,Danish,0,2001
+M6R,Swedish,0,2001
+M6R,Malayalam,0,2001
+M6R,Thai,0,2001
+M6R,Kurdish,20,2001
+M6R,Pashto,0,2001
+M6R,Flemish,0,2001
+M6R,Chipewyan,0,2001
+M6R,Kutchin-Gwich'in (Loucheux),0,2001
+M6R,Norwegian,0,2001
+M6R,Gaelic languages,0,2001
+M6R,Tlingit,0,2001
+M6R,Other languages,155,2001
+M6S,Cantonese,20,2001
+M6S,Mandarin,25,2001
+M6S,Hakka,0,2001
+M6S,"Chinese, n.o.s.",85,2001
+M6S,Italian,90,2001
+M6S,Portuguese,55,2001
+M6S,Spanish,110,2001
+M6S,German,25,2001
+M6S,Polish,465,2001
+M6S,Punjabi,55,2001
+M6S,Greek,100,2001
+M6S,Vietnamese,75,2001
+M6S,Arabic,20,2001
+M6S,Cree,0,2001
+M6S,Tagalog (Pilipino),15,2001
+M6S,Ukrainian,430,2001
+M6S,Persian (Farsi),15,2001
+M6S,Korean,80,2001
+M6S,Hungarian,110,2001
+M6S,Tamil,0,2001
+M6S,Gujarati,0,2001
+M6S,Croatian,80,2001
+M6S,Armenian,0,2001
+M6S,Inuktitut (Eskimo),0,2001
+M6S,Hindi,0,2001
+M6S,Urdu,10,2001
+M6S,Japanese,0,2001
+M6S,Russian,110,2001
+M6S,Creoles,0,2001
+M6S,Dutch,0,2001
+M6S,Khmer (Cambodian),0,2001
+M6S,Ojibway,0,2001
+M6S,Romanian,10,2001
+M6S,Czech,0,2001
+M6S,Lao,0,2001
+M6S,Macedonian,15,2001
+M6S,Finnish,0,2001
+M6S,Montagnais-Naskapi,0,2001
+M6S,Hebrew,0,2001
+M6S,Yiddish,0,2001
+M6S,Serbian,40,2001
+M6S,Bengali,25,2001
+M6S,Slovak,10,2001
+M6S,Estonian,0,2001
+M6S,Turkish,0,2001
+M6S,Lithuanian,95,2001
+M6S,Latvian (Lettish),80,2001
+M6S,Micmac,0,2001
+M6S,Slovenian,15,2001
+M6S,Bulgarian,0,2001
+M6S,Serbo-Croatian,25,2001
+M6S,Dakota/Sioux,0,2001
+M6S,South Slave,0,2001
+M6S,Malay-Bahasa,0,2001
+M6S,Maltese,70,2001
+M6S,Blackfoot,0,2001
+M6S,Dogrib,0,2001
+M6S,Danish,0,2001
+M6S,Swedish,0,2001
+M6S,Malayalam,0,2001
+M6S,Thai,0,2001
+M6S,Kurdish,0,2001
+M6S,Pashto,10,2001
+M6S,Flemish,0,2001
+M6S,Chipewyan,0,2001
+M6S,Kutchin-Gwich'in (Loucheux),0,2001
+M6S,Norwegian,0,2001
+M6S,Gaelic languages,0,2001
+M6S,Tlingit,0,2001
+M6S,Other languages,145,2001
+M8V,Cantonese,90,2001
+M8V,Mandarin,60,2001
+M8V,Hakka,0,2001
+M8V,"Chinese, n.o.s.",110,2001
+M8V,Italian,35,2001
+M8V,Portuguese,135,2001
+M8V,Spanish,290,2001
+M8V,German,15,2001
+M8V,Polish,1050,2001
+M8V,Punjabi,50,2001
+M8V,Greek,20,2001
+M8V,Vietnamese,85,2001
+M8V,Arabic,125,2001
+M8V,Cree,0,2001
+M8V,Tagalog (Pilipino),125,2001
+M8V,Ukrainian,270,2001
+M8V,Persian (Farsi),40,2001
+M8V,Korean,160,2001
+M8V,Hungarian,60,2001
+M8V,Tamil,60,2001
+M8V,Gujarati,20,2001
+M8V,Croatian,50,2001
+M8V,Armenian,0,2001
+M8V,Inuktitut (Eskimo),0,2001
+M8V,Hindi,20,2001
+M8V,Urdu,45,2001
+M8V,Japanese,10,2001
+M8V,Russian,300,2001
+M8V,Creoles,20,2001
+M8V,Dutch,0,2001
+M8V,Khmer (Cambodian),0,2001
+M8V,Ojibway,0,2001
+M8V,Romanian,45,2001
+M8V,Czech,30,2001
+M8V,Lao,0,2001
+M8V,Macedonian,0,2001
+M8V,Finnish,0,2001
+M8V,Montagnais-Naskapi,0,2001
+M8V,Hebrew,0,2001
+M8V,Yiddish,0,2001
+M8V,Serbian,45,2001
+M8V,Bengali,85,2001
+M8V,Slovak,30,2001
+M8V,Estonian,0,2001
+M8V,Turkish,0,2001
+M8V,Lithuanian,10,2001
+M8V,Latvian (Lettish),0,2001
+M8V,Micmac,0,2001
+M8V,Slovenian,0,2001
+M8V,Bulgarian,25,2001
+M8V,Serbo-Croatian,0,2001
+M8V,Dakota/Sioux,0,2001
+M8V,South Slave,0,2001
+M8V,Malay-Bahasa,0,2001
+M8V,Maltese,0,2001
+M8V,Blackfoot,0,2001
+M8V,Dogrib,0,2001
+M8V,Danish,0,2001
+M8V,Swedish,0,2001
+M8V,Malayalam,0,2001
+M8V,Thai,0,2001
+M8V,Kurdish,0,2001
+M8V,Pashto,0,2001
+M8V,Flemish,0,2001
+M8V,Chipewyan,0,2001
+M8V,Kutchin-Gwich'in (Loucheux),0,2001
+M8V,Norwegian,0,2001
+M8V,Gaelic languages,0,2001
+M8V,Tlingit,0,2001
+M8V,Other languages,410,2001
+M8W,Cantonese,50,2001
+M8W,Mandarin,15,2001
+M8W,Hakka,0,2001
+M8W,"Chinese, n.o.s.",40,2001
+M8W,Italian,340,2001
+M8W,Portuguese,75,2001
+M8W,Spanish,135,2001
+M8W,German,35,2001
+M8W,Polish,530,2001
+M8W,Punjabi,10,2001
+M8W,Greek,95,2001
+M8W,Vietnamese,45,2001
+M8W,Arabic,0,2001
+M8W,Cree,0,2001
+M8W,Tagalog (Pilipino),85,2001
+M8W,Ukrainian,200,2001
+M8W,Persian (Farsi),20,2001
+M8W,Korean,60,2001
+M8W,Hungarian,20,2001
+M8W,Tamil,0,2001
+M8W,Gujarati,25,2001
+M8W,Croatian,90,2001
+M8W,Armenian,0,2001
+M8W,Inuktitut (Eskimo),0,2001
+M8W,Hindi,0,2001
+M8W,Urdu,25,2001
+M8W,Japanese,0,2001
+M8W,Russian,55,2001
+M8W,Creoles,0,2001
+M8W,Dutch,0,2001
+M8W,Khmer (Cambodian),0,2001
+M8W,Ojibway,0,2001
+M8W,Romanian,10,2001
+M8W,Czech,0,2001
+M8W,Lao,0,2001
+M8W,Macedonian,0,2001
+M8W,Finnish,0,2001
+M8W,Montagnais-Naskapi,0,2001
+M8W,Hebrew,0,2001
+M8W,Yiddish,0,2001
+M8W,Serbian,85,2001
+M8W,Bengali,35,2001
+M8W,Slovak,0,2001
+M8W,Estonian,15,2001
+M8W,Turkish,0,2001
+M8W,Lithuanian,10,2001
+M8W,Latvian (Lettish),0,2001
+M8W,Micmac,0,2001
+M8W,Slovenian,70,2001
+M8W,Bulgarian,0,2001
+M8W,Serbo-Croatian,15,2001
+M8W,Dakota/Sioux,0,2001
+M8W,South Slave,0,2001
+M8W,Malay-Bahasa,0,2001
+M8W,Maltese,0,2001
+M8W,Blackfoot,0,2001
+M8W,Dogrib,0,2001
+M8W,Danish,0,2001
+M8W,Swedish,0,2001
+M8W,Malayalam,0,2001
+M8W,Thai,0,2001
+M8W,Kurdish,0,2001
+M8W,Pashto,0,2001
+M8W,Flemish,0,2001
+M8W,Chipewyan,0,2001
+M8W,Kutchin-Gwich'in (Loucheux),0,2001
+M8W,Norwegian,0,2001
+M8W,Gaelic languages,0,2001
+M8W,Tlingit,0,2001
+M8W,Other languages,110,2001
+M8X,Cantonese,0,2001
+M8X,Mandarin,0,2001
+M8X,Hakka,0,2001
+M8X,"Chinese, n.o.s.",10,2001
+M8X,Italian,0,2001
+M8X,Portuguese,0,2001
+M8X,Spanish,0,2001
+M8X,German,0,2001
+M8X,Polish,65,2001
+M8X,Punjabi,0,2001
+M8X,Greek,0,2001
+M8X,Vietnamese,0,2001
+M8X,Arabic,10,2001
+M8X,Cree,0,2001
+M8X,Tagalog (Pilipino),0,2001
+M8X,Ukrainian,70,2001
+M8X,Persian (Farsi),0,2001
+M8X,Korean,90,2001
+M8X,Hungarian,0,2001
+M8X,Tamil,0,2001
+M8X,Gujarati,0,2001
+M8X,Croatian,15,2001
+M8X,Armenian,0,2001
+M8X,Inuktitut (Eskimo),0,2001
+M8X,Hindi,0,2001
+M8X,Urdu,0,2001
+M8X,Japanese,0,2001
+M8X,Russian,15,2001
+M8X,Creoles,0,2001
+M8X,Dutch,0,2001
+M8X,Khmer (Cambodian),0,2001
+M8X,Ojibway,0,2001
+M8X,Romanian,20,2001
+M8X,Czech,0,2001
+M8X,Lao,0,2001
+M8X,Macedonian,0,2001
+M8X,Finnish,0,2001
+M8X,Montagnais-Naskapi,0,2001
+M8X,Hebrew,0,2001
+M8X,Yiddish,0,2001
+M8X,Serbian,110,2001
+M8X,Bengali,0,2001
+M8X,Slovak,0,2001
+M8X,Estonian,0,2001
+M8X,Turkish,0,2001
+M8X,Lithuanian,50,2001
+M8X,Latvian (Lettish),0,2001
+M8X,Micmac,0,2001
+M8X,Slovenian,0,2001
+M8X,Bulgarian,0,2001
+M8X,Serbo-Croatian,0,2001
+M8X,Dakota/Sioux,0,2001
+M8X,South Slave,0,2001
+M8X,Malay-Bahasa,0,2001
+M8X,Maltese,0,2001
+M8X,Blackfoot,0,2001
+M8X,Dogrib,0,2001
+M8X,Danish,0,2001
+M8X,Swedish,10,2001
+M8X,Malayalam,0,2001
+M8X,Thai,0,2001
+M8X,Kurdish,0,2001
+M8X,Pashto,0,2001
+M8X,Flemish,0,2001
+M8X,Chipewyan,0,2001
+M8X,Kutchin-Gwich'in (Loucheux),0,2001
+M8X,Norwegian,0,2001
+M8X,Gaelic languages,0,2001
+M8X,Tlingit,0,2001
+M8X,Other languages,10,2001
+M8Y,Cantonese,45,2001
+M8Y,Mandarin,0,2001
+M8Y,Hakka,0,2001
+M8Y,"Chinese, n.o.s.",120,2001
+M8Y,Italian,100,2001
+M8Y,Portuguese,140,2001
+M8Y,Spanish,100,2001
+M8Y,German,0,2001
+M8Y,Polish,735,2001
+M8Y,Punjabi,0,2001
+M8Y,Greek,25,2001
+M8Y,Vietnamese,35,2001
+M8Y,Arabic,0,2001
+M8Y,Cree,0,2001
+M8Y,Tagalog (Pilipino),35,2001
+M8Y,Ukrainian,450,2001
+M8Y,Persian (Farsi),10,2001
+M8Y,Korean,0,2001
+M8Y,Hungarian,25,2001
+M8Y,Tamil,10,2001
+M8Y,Gujarati,20,2001
+M8Y,Croatian,10,2001
+M8Y,Armenian,0,2001
+M8Y,Inuktitut (Eskimo),0,2001
+M8Y,Hindi,10,2001
+M8Y,Urdu,0,2001
+M8Y,Japanese,0,2001
+M8Y,Russian,195,2001
+M8Y,Creoles,10,2001
+M8Y,Dutch,0,2001
+M8Y,Khmer (Cambodian),0,2001
+M8Y,Ojibway,0,2001
+M8Y,Romanian,0,2001
+M8Y,Czech,0,2001
+M8Y,Lao,0,2001
+M8Y,Macedonian,0,2001
+M8Y,Finnish,0,2001
+M8Y,Montagnais-Naskapi,0,2001
+M8Y,Hebrew,0,2001
+M8Y,Yiddish,0,2001
+M8Y,Serbian,350,2001
+M8Y,Bengali,0,2001
+M8Y,Slovak,35,2001
+M8Y,Estonian,0,2001
+M8Y,Turkish,0,2001
+M8Y,Lithuanian,40,2001
+M8Y,Latvian (Lettish),0,2001
+M8Y,Micmac,0,2001
+M8Y,Slovenian,15,2001
+M8Y,Bulgarian,35,2001
+M8Y,Serbo-Croatian,0,2001
+M8Y,Dakota/Sioux,0,2001
+M8Y,South Slave,0,2001
+M8Y,Malay-Bahasa,0,2001
+M8Y,Maltese,0,2001
+M8Y,Blackfoot,0,2001
+M8Y,Dogrib,0,2001
+M8Y,Danish,0,2001
+M8Y,Swedish,0,2001
+M8Y,Malayalam,0,2001
+M8Y,Thai,0,2001
+M8Y,Kurdish,0,2001
+M8Y,Pashto,0,2001
+M8Y,Flemish,0,2001
+M8Y,Chipewyan,0,2001
+M8Y,Kutchin-Gwich'in (Loucheux),0,2001
+M8Y,Norwegian,0,2001
+M8Y,Gaelic languages,0,2001
+M8Y,Tlingit,0,2001
+M8Y,Other languages,255,2001
+M8Z,Cantonese,15,2001
+M8Z,Mandarin,25,2001
+M8Z,Hakka,0,2001
+M8Z,"Chinese, n.o.s.",35,2001
+M8Z,Italian,545,2001
+M8Z,Portuguese,220,2001
+M8Z,Spanish,25,2001
+M8Z,German,45,2001
+M8Z,Polish,155,2001
+M8Z,Punjabi,10,2001
+M8Z,Greek,0,2001
+M8Z,Vietnamese,70,2001
+M8Z,Arabic,0,2001
+M8Z,Cree,0,2001
+M8Z,Tagalog (Pilipino),35,2001
+M8Z,Ukrainian,225,2001
+M8Z,Persian (Farsi),0,2001
+M8Z,Korean,45,2001
+M8Z,Hungarian,0,2001
+M8Z,Tamil,0,2001
+M8Z,Gujarati,10,2001
+M8Z,Croatian,25,2001
+M8Z,Armenian,0,2001
+M8Z,Inuktitut (Eskimo),0,2001
+M8Z,Hindi,0,2001
+M8Z,Urdu,25,2001
+M8Z,Japanese,10,2001
+M8Z,Russian,10,2001
+M8Z,Creoles,0,2001
+M8Z,Dutch,0,2001
+M8Z,Khmer (Cambodian),0,2001
+M8Z,Ojibway,0,2001
+M8Z,Romanian,0,2001
+M8Z,Czech,0,2001
+M8Z,Lao,0,2001
+M8Z,Macedonian,0,2001
+M8Z,Finnish,0,2001
+M8Z,Montagnais-Naskapi,0,2001
+M8Z,Hebrew,0,2001
+M8Z,Yiddish,0,2001
+M8Z,Serbian,35,2001
+M8Z,Bengali,0,2001
+M8Z,Slovak,10,2001
+M8Z,Estonian,0,2001
+M8Z,Turkish,0,2001
+M8Z,Lithuanian,35,2001
+M8Z,Latvian (Lettish),0,2001
+M8Z,Micmac,0,2001
+M8Z,Slovenian,0,2001
+M8Z,Bulgarian,0,2001
+M8Z,Serbo-Croatian,0,2001
+M8Z,Dakota/Sioux,0,2001
+M8Z,South Slave,0,2001
+M8Z,Malay-Bahasa,0,2001
+M8Z,Maltese,10,2001
+M8Z,Blackfoot,0,2001
+M8Z,Dogrib,0,2001
+M8Z,Danish,0,2001
+M8Z,Swedish,0,2001
+M8Z,Malayalam,0,2001
+M8Z,Thai,0,2001
+M8Z,Kurdish,0,2001
+M8Z,Pashto,0,2001
+M8Z,Flemish,0,2001
+M8Z,Chipewyan,0,2001
+M8Z,Kutchin-Gwich'in (Loucheux),0,2001
+M8Z,Norwegian,0,2001
+M8Z,Gaelic languages,0,2001
+M8Z,Tlingit,0,2001
+M8Z,Other languages,55,2001
+M9A,Cantonese,90,2001
+M9A,Mandarin,65,2001
+M9A,Hakka,0,2001
+M9A,"Chinese, n.o.s.",105,2001
+M9A,Italian,175,2001
+M9A,Portuguese,115,2001
+M9A,Spanish,100,2001
+M9A,German,15,2001
+M9A,Polish,460,2001
+M9A,Punjabi,20,2001
+M9A,Greek,85,2001
+M9A,Vietnamese,15,2001
+M9A,Arabic,90,2001
+M9A,Cree,0,2001
+M9A,Tagalog (Pilipino),15,2001
+M9A,Ukrainian,290,2001
+M9A,Persian (Farsi),210,2001
+M9A,Korean,745,2001
+M9A,Hungarian,0,2001
+M9A,Tamil,30,2001
+M9A,Gujarati,25,2001
+M9A,Croatian,115,2001
+M9A,Armenian,10,2001
+M9A,Inuktitut (Eskimo),0,2001
+M9A,Hindi,45,2001
+M9A,Urdu,70,2001
+M9A,Japanese,0,2001
+M9A,Russian,300,2001
+M9A,Creoles,0,2001
+M9A,Dutch,0,2001
+M9A,Khmer (Cambodian),0,2001
+M9A,Ojibway,0,2001
+M9A,Romanian,75,2001
+M9A,Czech,10,2001
+M9A,Lao,0,2001
+M9A,Macedonian,0,2001
+M9A,Finnish,0,2001
+M9A,Montagnais-Naskapi,0,2001
+M9A,Hebrew,0,2001
+M9A,Yiddish,0,2001
+M9A,Serbian,340,2001
+M9A,Bengali,70,2001
+M9A,Slovak,10,2001
+M9A,Estonian,10,2001
+M9A,Turkish,0,2001
+M9A,Lithuanian,0,2001
+M9A,Latvian (Lettish),25,2001
+M9A,Micmac,0,2001
+M9A,Slovenian,0,2001
+M9A,Bulgarian,60,2001
+M9A,Serbo-Croatian,135,2001
+M9A,Dakota/Sioux,0,2001
+M9A,South Slave,0,2001
+M9A,Malay-Bahasa,0,2001
+M9A,Maltese,10,2001
+M9A,Blackfoot,0,2001
+M9A,Dogrib,0,2001
+M9A,Danish,0,2001
+M9A,Swedish,0,2001
+M9A,Malayalam,10,2001
+M9A,Thai,0,2001
+M9A,Kurdish,0,2001
+M9A,Pashto,0,2001
+M9A,Flemish,0,2001
+M9A,Chipewyan,0,2001
+M9A,Kutchin-Gwich'in (Loucheux),0,2001
+M9A,Norwegian,0,2001
+M9A,Gaelic languages,0,2001
+M9A,Tlingit,0,2001
+M9A,Other languages,410,2001
+M9B,Cantonese,30,2001
+M9B,Mandarin,10,2001
+M9B,Hakka,20,2001
+M9B,"Chinese, n.o.s.",90,2001
+M9B,Italian,155,2001
+M9B,Portuguese,60,2001
+M9B,Spanish,80,2001
+M9B,German,20,2001
+M9B,Polish,545,2001
+M9B,Punjabi,45,2001
+M9B,Greek,35,2001
+M9B,Vietnamese,35,2001
+M9B,Arabic,15,2001
+M9B,Cree,0,2001
+M9B,Tagalog (Pilipino),110,2001
+M9B,Ukrainian,355,2001
+M9B,Persian (Farsi),90,2001
+M9B,Korean,150,2001
+M9B,Hungarian,55,2001
+M9B,Tamil,10,2001
+M9B,Gujarati,35,2001
+M9B,Croatian,90,2001
+M9B,Armenian,0,2001
+M9B,Inuktitut (Eskimo),0,2001
+M9B,Hindi,10,2001
+M9B,Urdu,50,2001
+M9B,Japanese,0,2001
+M9B,Russian,65,2001
+M9B,Creoles,20,2001
+M9B,Dutch,0,2001
+M9B,Khmer (Cambodian),0,2001
+M9B,Ojibway,0,2001
+M9B,Romanian,50,2001
+M9B,Czech,0,2001
+M9B,Lao,0,2001
+M9B,Macedonian,0,2001
+M9B,Finnish,0,2001
+M9B,Montagnais-Naskapi,0,2001
+M9B,Hebrew,0,2001
+M9B,Yiddish,0,2001
+M9B,Serbian,285,2001
+M9B,Bengali,10,2001
+M9B,Slovak,0,2001
+M9B,Estonian,0,2001
+M9B,Turkish,15,2001
+M9B,Lithuanian,45,2001
+M9B,Latvian (Lettish),25,2001
+M9B,Micmac,0,2001
+M9B,Slovenian,15,2001
+M9B,Bulgarian,25,2001
+M9B,Serbo-Croatian,140,2001
+M9B,Dakota/Sioux,0,2001
+M9B,South Slave,0,2001
+M9B,Malay-Bahasa,0,2001
+M9B,Maltese,10,2001
+M9B,Blackfoot,0,2001
+M9B,Dogrib,0,2001
+M9B,Danish,0,2001
+M9B,Swedish,0,2001
+M9B,Malayalam,0,2001
+M9B,Thai,0,2001
+M9B,Kurdish,0,2001
+M9B,Pashto,0,2001
+M9B,Flemish,0,2001
+M9B,Chipewyan,0,2001
+M9B,Kutchin-Gwich'in (Loucheux),0,2001
+M9B,Norwegian,0,2001
+M9B,Gaelic languages,0,2001
+M9B,Tlingit,0,2001
+M9B,Other languages,335,2001
+M9C,Cantonese,165,2001
+M9C,Mandarin,25,2001
+M9C,Hakka,0,2001
+M9C,"Chinese, n.o.s.",405,2001
+M9C,Italian,175,2001
+M9C,Portuguese,200,2001
+M9C,Spanish,215,2001
+M9C,German,55,2001
+M9C,Polish,605,2001
+M9C,Punjabi,45,2001
+M9C,Greek,60,2001
+M9C,Vietnamese,30,2001
+M9C,Arabic,130,2001
+M9C,Cree,0,2001
+M9C,Tagalog (Pilipino),20,2001
+M9C,Ukrainian,230,2001
+M9C,Persian (Farsi),40,2001
+M9C,Korean,400,2001
+M9C,Hungarian,70,2001
+M9C,Tamil,190,2001
+M9C,Gujarati,15,2001
+M9C,Croatian,100,2001
+M9C,Armenian,0,2001
+M9C,Inuktitut (Eskimo),0,2001
+M9C,Hindi,10,2001
+M9C,Urdu,245,2001
+M9C,Japanese,0,2001
+M9C,Russian,145,2001
+M9C,Creoles,0,2001
+M9C,Dutch,0,2001
+M9C,Khmer (Cambodian),0,2001
+M9C,Ojibway,0,2001
+M9C,Romanian,0,2001
+M9C,Czech,0,2001
+M9C,Lao,0,2001
+M9C,Macedonian,0,2001
+M9C,Finnish,0,2001
+M9C,Montagnais-Naskapi,0,2001
+M9C,Hebrew,0,2001
+M9C,Yiddish,0,2001
+M9C,Serbian,255,2001
+M9C,Bengali,10,2001
+M9C,Slovak,0,2001
+M9C,Estonian,0,2001
+M9C,Turkish,105,2001
+M9C,Lithuanian,20,2001
+M9C,Latvian (Lettish),30,2001
+M9C,Micmac,0,2001
+M9C,Slovenian,10,2001
+M9C,Bulgarian,0,2001
+M9C,Serbo-Croatian,110,2001
+M9C,Dakota/Sioux,0,2001
+M9C,South Slave,0,2001
+M9C,Malay-Bahasa,10,2001
+M9C,Maltese,10,2001
+M9C,Blackfoot,0,2001
+M9C,Dogrib,0,2001
+M9C,Danish,0,2001
+M9C,Swedish,0,2001
+M9C,Malayalam,0,2001
+M9C,Thai,0,2001
+M9C,Kurdish,0,2001
+M9C,Pashto,0,2001
+M9C,Flemish,0,2001
+M9C,Chipewyan,0,2001
+M9C,Kutchin-Gwich'in (Loucheux),0,2001
+M9C,Norwegian,0,2001
+M9C,Gaelic languages,0,2001
+M9C,Tlingit,0,2001
+M9C,Other languages,265,2001
+M9L,Cantonese,15,2001
+M9L,Mandarin,0,2001
+M9L,Hakka,0,2001
+M9L,"Chinese, n.o.s.",90,2001
+M9L,Italian,1435,2001
+M9L,Portuguese,45,2001
+M9L,Spanish,140,2001
+M9L,German,0,2001
+M9L,Polish,35,2001
+M9L,Punjabi,985,2001
+M9L,Greek,20,2001
+M9L,Vietnamese,90,2001
+M9L,Arabic,120,2001
+M9L,Cree,0,2001
+M9L,Tagalog (Pilipino),0,2001
+M9L,Ukrainian,0,2001
+M9L,Persian (Farsi),95,2001
+M9L,Korean,20,2001
+M9L,Hungarian,0,2001
+M9L,Tamil,10,2001
+M9L,Gujarati,0,2001
+M9L,Croatian,0,2001
+M9L,Armenian,0,2001
+M9L,Inuktitut (Eskimo),0,2001
+M9L,Hindi,10,2001
+M9L,Urdu,220,2001
+M9L,Japanese,0,2001
+M9L,Russian,0,2001
+M9L,Creoles,0,2001
+M9L,Dutch,0,2001
+M9L,Khmer (Cambodian),0,2001
+M9L,Ojibway,0,2001
+M9L,Romanian,0,2001
+M9L,Czech,0,2001
+M9L,Lao,0,2001
+M9L,Macedonian,0,2001
+M9L,Finnish,0,2001
+M9L,Montagnais-Naskapi,0,2001
+M9L,Hebrew,0,2001
+M9L,Yiddish,0,2001
+M9L,Serbian,0,2001
+M9L,Bengali,0,2001
+M9L,Slovak,0,2001
+M9L,Estonian,0,2001
+M9L,Turkish,10,2001
+M9L,Lithuanian,0,2001
+M9L,Latvian (Lettish),0,2001
+M9L,Micmac,0,2001
+M9L,Slovenian,0,2001
+M9L,Bulgarian,0,2001
+M9L,Serbo-Croatian,0,2001
+M9L,Dakota/Sioux,0,2001
+M9L,South Slave,0,2001
+M9L,Malay-Bahasa,0,2001
+M9L,Maltese,0,2001
+M9L,Blackfoot,0,2001
+M9L,Dogrib,0,2001
+M9L,Danish,0,2001
+M9L,Swedish,0,2001
+M9L,Malayalam,0,2001
+M9L,Thai,0,2001
+M9L,Kurdish,0,2001
+M9L,Pashto,0,2001
+M9L,Flemish,0,2001
+M9L,Chipewyan,0,2001
+M9L,Kutchin-Gwich'in (Loucheux),0,2001
+M9L,Norwegian,0,2001
+M9L,Gaelic languages,0,2001
+M9L,Tlingit,0,2001
+M9L,Other languages,365,2001
+M9M,Cantonese,205,2001
+M9M,Mandarin,0,2001
+M9M,Hakka,0,2001
+M9M,"Chinese, n.o.s.",180,2001
+M9M,Italian,910,2001
+M9M,Portuguese,10,2001
+M9M,Spanish,725,2001
+M9M,German,0,2001
+M9M,Polish,30,2001
+M9M,Punjabi,860,2001
+M9M,Greek,30,2001
+M9M,Vietnamese,215,2001
+M9M,Arabic,255,2001
+M9M,Cree,0,2001
+M9M,Tagalog (Pilipino),10,2001
+M9M,Ukrainian,0,2001
+M9M,Persian (Farsi),20,2001
+M9M,Korean,140,2001
+M9M,Hungarian,0,2001
+M9M,Tamil,230,2001
+M9M,Gujarati,15,2001
+M9M,Croatian,15,2001
+M9M,Armenian,15,2001
+M9M,Inuktitut (Eskimo),0,2001
+M9M,Hindi,45,2001
+M9M,Urdu,230,2001
+M9M,Japanese,0,2001
+M9M,Russian,50,2001
+M9M,Creoles,0,2001
+M9M,Dutch,0,2001
+M9M,Khmer (Cambodian),0,2001
+M9M,Ojibway,0,2001
+M9M,Romanian,15,2001
+M9M,Czech,0,2001
+M9M,Lao,0,2001
+M9M,Macedonian,0,2001
+M9M,Finnish,0,2001
+M9M,Montagnais-Naskapi,0,2001
+M9M,Hebrew,0,2001
+M9M,Yiddish,0,2001
+M9M,Serbian,0,2001
+M9M,Bengali,10,2001
+M9M,Slovak,0,2001
+M9M,Estonian,0,2001
+M9M,Turkish,10,2001
+M9M,Lithuanian,0,2001
+M9M,Latvian (Lettish),0,2001
+M9M,Micmac,0,2001
+M9M,Slovenian,10,2001
+M9M,Bulgarian,0,2001
+M9M,Serbo-Croatian,0,2001
+M9M,Dakota/Sioux,0,2001
+M9M,South Slave,0,2001
+M9M,Malay-Bahasa,0,2001
+M9M,Maltese,0,2001
+M9M,Blackfoot,0,2001
+M9M,Dogrib,0,2001
+M9M,Danish,0,2001
+M9M,Swedish,0,2001
+M9M,Malayalam,0,2001
+M9M,Thai,0,2001
+M9M,Kurdish,0,2001
+M9M,Pashto,0,2001
+M9M,Flemish,10,2001
+M9M,Chipewyan,0,2001
+M9M,Kutchin-Gwich'in (Loucheux),0,2001
+M9M,Norwegian,0,2001
+M9M,Gaelic languages,0,2001
+M9M,Tlingit,0,2001
+M9M,Other languages,395,2001
+M9N,Cantonese,125,2001
+M9N,Mandarin,10,2001
+M9N,Hakka,0,2001
+M9N,"Chinese, n.o.s.",150,2001
+M9N,Italian,465,2001
+M9N,Portuguese,145,2001
+M9N,Spanish,820,2001
+M9N,German,0,2001
+M9N,Polish,120,2001
+M9N,Punjabi,45,2001
+M9N,Greek,45,2001
+M9N,Vietnamese,330,2001
+M9N,Arabic,85,2001
+M9N,Cree,0,2001
+M9N,Tagalog (Pilipino),65,2001
+M9N,Ukrainian,10,2001
+M9N,Persian (Farsi),105,2001
+M9N,Korean,105,2001
+M9N,Hungarian,35,2001
+M9N,Tamil,290,2001
+M9N,Gujarati,20,2001
+M9N,Croatian,10,2001
+M9N,Armenian,0,2001
+M9N,Inuktitut (Eskimo),0,2001
+M9N,Hindi,35,2001
+M9N,Urdu,55,2001
+M9N,Japanese,0,2001
+M9N,Russian,45,2001
+M9N,Creoles,0,2001
+M9N,Dutch,0,2001
+M9N,Khmer (Cambodian),0,2001
+M9N,Ojibway,0,2001
+M9N,Romanian,45,2001
+M9N,Czech,0,2001
+M9N,Lao,20,2001
+M9N,Macedonian,15,2001
+M9N,Finnish,0,2001
+M9N,Montagnais-Naskapi,0,2001
+M9N,Hebrew,10,2001
+M9N,Yiddish,0,2001
+M9N,Serbian,20,2001
+M9N,Bengali,10,2001
+M9N,Slovak,0,2001
+M9N,Estonian,0,2001
+M9N,Turkish,0,2001
+M9N,Lithuanian,15,2001
+M9N,Latvian (Lettish),0,2001
+M9N,Micmac,0,2001
+M9N,Slovenian,0,2001
+M9N,Bulgarian,0,2001
+M9N,Serbo-Croatian,65,2001
+M9N,Dakota/Sioux,0,2001
+M9N,South Slave,0,2001
+M9N,Malay-Bahasa,0,2001
+M9N,Maltese,0,2001
+M9N,Blackfoot,0,2001
+M9N,Dogrib,0,2001
+M9N,Danish,0,2001
+M9N,Swedish,0,2001
+M9N,Malayalam,20,2001
+M9N,Thai,0,2001
+M9N,Kurdish,0,2001
+M9N,Pashto,20,2001
+M9N,Flemish,0,2001
+M9N,Chipewyan,0,2001
+M9N,Kutchin-Gwich'in (Loucheux),0,2001
+M9N,Norwegian,0,2001
+M9N,Gaelic languages,0,2001
+M9N,Tlingit,0,2001
+M9N,Other languages,620,2001
+M9P,Cantonese,0,2001
+M9P,Mandarin,45,2001
+M9P,Hakka,0,2001
+M9P,"Chinese, n.o.s.",45,2001
+M9P,Italian,665,2001
+M9P,Portuguese,165,2001
+M9P,Spanish,115,2001
+M9P,German,50,2001
+M9P,Polish,255,2001
+M9P,Punjabi,10,2001
+M9P,Greek,15,2001
+M9P,Vietnamese,45,2001
+M9P,Arabic,40,2001
+M9P,Cree,0,2001
+M9P,Tagalog (Pilipino),20,2001
+M9P,Ukrainian,415,2001
+M9P,Persian (Farsi),55,2001
+M9P,Korean,305,2001
+M9P,Hungarian,60,2001
+M9P,Tamil,20,2001
+M9P,Gujarati,10,2001
+M9P,Croatian,40,2001
+M9P,Armenian,0,2001
+M9P,Inuktitut (Eskimo),0,2001
+M9P,Hindi,10,2001
+M9P,Urdu,35,2001
+M9P,Japanese,20,2001
+M9P,Russian,130,2001
+M9P,Creoles,0,2001
+M9P,Dutch,15,2001
+M9P,Khmer (Cambodian),0,2001
+M9P,Ojibway,0,2001
+M9P,Romanian,60,2001
+M9P,Czech,0,2001
+M9P,Lao,0,2001
+M9P,Macedonian,15,2001
+M9P,Finnish,0,2001
+M9P,Montagnais-Naskapi,0,2001
+M9P,Hebrew,0,2001
+M9P,Yiddish,0,2001
+M9P,Serbian,75,2001
+M9P,Bengali,0,2001
+M9P,Slovak,40,2001
+M9P,Estonian,0,2001
+M9P,Turkish,0,2001
+M9P,Lithuanian,35,2001
+M9P,Latvian (Lettish),0,2001
+M9P,Micmac,0,2001
+M9P,Slovenian,0,2001
+M9P,Bulgarian,0,2001
+M9P,Serbo-Croatian,0,2001
+M9P,Dakota/Sioux,0,2001
+M9P,South Slave,0,2001
+M9P,Malay-Bahasa,0,2001
+M9P,Maltese,0,2001
+M9P,Blackfoot,0,2001
+M9P,Dogrib,0,2001
+M9P,Danish,0,2001
+M9P,Swedish,0,2001
+M9P,Malayalam,0,2001
+M9P,Thai,0,2001
+M9P,Kurdish,0,2001
+M9P,Pashto,0,2001
+M9P,Flemish,0,2001
+M9P,Chipewyan,0,2001
+M9P,Kutchin-Gwich'in (Loucheux),0,2001
+M9P,Norwegian,0,2001
+M9P,Gaelic languages,0,2001
+M9P,Tlingit,0,2001
+M9P,Other languages,300,2001
+M9R,Cantonese,100,2001
+M9R,Mandarin,70,2001
+M9R,Hakka,0,2001
+M9R,"Chinese, n.o.s.",95,2001
+M9R,Italian,710,2001
+M9R,Portuguese,130,2001
+M9R,Spanish,270,2001
+M9R,German,15,2001
+M9R,Polish,350,2001
+M9R,Punjabi,500,2001
+M9R,Greek,60,2001
+M9R,Vietnamese,80,2001
+M9R,Arabic,110,2001
+M9R,Cree,0,2001
+M9R,Tagalog (Pilipino),130,2001
+M9R,Ukrainian,165,2001
+M9R,Persian (Farsi),295,2001
+M9R,Korean,205,2001
+M9R,Hungarian,25,2001
+M9R,Tamil,265,2001
+M9R,Gujarati,95,2001
+M9R,Croatian,25,2001
+M9R,Armenian,25,2001
+M9R,Inuktitut (Eskimo),0,2001
+M9R,Hindi,165,2001
+M9R,Urdu,380,2001
+M9R,Japanese,0,2001
+M9R,Russian,185,2001
+M9R,Creoles,70,2001
+M9R,Dutch,0,2001
+M9R,Khmer (Cambodian),0,2001
+M9R,Ojibway,0,2001
+M9R,Romanian,25,2001
+M9R,Czech,10,2001
+M9R,Lao,0,2001
+M9R,Macedonian,15,2001
+M9R,Finnish,0,2001
+M9R,Montagnais-Naskapi,0,2001
+M9R,Hebrew,0,2001
+M9R,Yiddish,0,2001
+M9R,Serbian,25,2001
+M9R,Bengali,85,2001
+M9R,Slovak,0,2001
+M9R,Estonian,20,2001
+M9R,Turkish,0,2001
+M9R,Lithuanian,10,2001
+M9R,Latvian (Lettish),0,2001
+M9R,Micmac,0,2001
+M9R,Slovenian,0,2001
+M9R,Bulgarian,10,2001
+M9R,Serbo-Croatian,40,2001
+M9R,Dakota/Sioux,0,2001
+M9R,South Slave,0,2001
+M9R,Malay-Bahasa,0,2001
+M9R,Maltese,10,2001
+M9R,Blackfoot,0,2001
+M9R,Dogrib,0,2001
+M9R,Danish,10,2001
+M9R,Swedish,0,2001
+M9R,Malayalam,0,2001
+M9R,Thai,0,2001
+M9R,Kurdish,10,2001
+M9R,Pashto,25,2001
+M9R,Flemish,0,2001
+M9R,Chipewyan,0,2001
+M9R,Kutchin-Gwich'in (Loucheux),0,2001
+M9R,Norwegian,0,2001
+M9R,Gaelic languages,0,2001
+M9R,Tlingit,0,2001
+M9R,Other languages,1430,2001
+M9V,Cantonese,185,2001
+M9V,Mandarin,10,2001
+M9V,Hakka,0,2001
+M9V,"Chinese, n.o.s.",240,2001
+M9V,Italian,820,2001
+M9V,Portuguese,135,2001
+M9V,Spanish,920,2001
+M9V,German,15,2001
+M9V,Polish,160,2001
+M9V,Punjabi,4590,2001
+M9V,Greek,75,2001
+M9V,Vietnamese,350,2001
+M9V,Arabic,1120,2001
+M9V,Cree,0,2001
+M9V,Tagalog (Pilipino),170,2001
+M9V,Ukrainian,0,2001
+M9V,Persian (Farsi),285,2001
+M9V,Korean,100,2001
+M9V,Hungarian,50,2001
+M9V,Tamil,1160,2001
+M9V,Gujarati,555,2001
+M9V,Croatian,120,2001
+M9V,Armenian,15,2001
+M9V,Inuktitut (Eskimo),0,2001
+M9V,Hindi,310,2001
+M9V,Urdu,530,2001
+M9V,Japanese,0,2001
+M9V,Russian,40,2001
+M9V,Creoles,10,2001
+M9V,Dutch,0,2001
+M9V,Khmer (Cambodian),0,2001
+M9V,Ojibway,0,2001
+M9V,Romanian,20,2001
+M9V,Czech,0,2001
+M9V,Lao,30,2001
+M9V,Macedonian,0,2001
+M9V,Finnish,0,2001
+M9V,Montagnais-Naskapi,0,2001
+M9V,Hebrew,20,2001
+M9V,Yiddish,0,2001
+M9V,Serbian,10,2001
+M9V,Bengali,60,2001
+M9V,Slovak,40,2001
+M9V,Estonian,0,2001
+M9V,Turkish,0,2001
+M9V,Lithuanian,0,2001
+M9V,Latvian (Lettish),0,2001
+M9V,Micmac,0,2001
+M9V,Slovenian,10,2001
+M9V,Bulgarian,10,2001
+M9V,Serbo-Croatian,0,2001
+M9V,Dakota/Sioux,0,2001
+M9V,South Slave,0,2001
+M9V,Malay-Bahasa,0,2001
+M9V,Maltese,0,2001
+M9V,Blackfoot,0,2001
+M9V,Dogrib,0,2001
+M9V,Danish,0,2001
+M9V,Swedish,0,2001
+M9V,Malayalam,30,2001
+M9V,Thai,0,2001
+M9V,Kurdish,0,2001
+M9V,Pashto,50,2001
+M9V,Flemish,0,2001
+M9V,Chipewyan,0,2001
+M9V,Kutchin-Gwich'in (Loucheux),0,2001
+M9V,Norwegian,0,2001
+M9V,Gaelic languages,0,2001
+M9V,Tlingit,0,2001
+M9V,Other languages,1335,2001
+M9W,Cantonese,35,2001
+M9W,Mandarin,10,2001
+M9W,Hakka,0,2001
+M9W,"Chinese, n.o.s.",320,2001
+M9W,Italian,565,2001
+M9W,Portuguese,10,2001
+M9W,Spanish,580,2001
+M9W,German,15,2001
+M9W,Polish,165,2001
+M9W,Punjabi,1875,2001
+M9W,Greek,35,2001
+M9W,Vietnamese,105,2001
+M9W,Arabic,470,2001
+M9W,Cree,0,2001
+M9W,Tagalog (Pilipino),115,2001
+M9W,Ukrainian,20,2001
+M9W,Persian (Farsi),440,2001
+M9W,Korean,130,2001
+M9W,Hungarian,15,2001
+M9W,Tamil,265,2001
+M9W,Gujarati,220,2001
+M9W,Croatian,190,2001
+M9W,Armenian,10,2001
+M9W,Inuktitut (Eskimo),0,2001
+M9W,Hindi,40,2001
+M9W,Urdu,150,2001
+M9W,Japanese,0,2001
+M9W,Russian,15,2001
+M9W,Creoles,0,2001
+M9W,Dutch,0,2001
+M9W,Khmer (Cambodian),0,2001
+M9W,Ojibway,0,2001
+M9W,Romanian,10,2001
+M9W,Czech,10,2001
+M9W,Lao,0,2001
+M9W,Macedonian,0,2001
+M9W,Finnish,0,2001
+M9W,Montagnais-Naskapi,0,2001
+M9W,Hebrew,0,2001
+M9W,Yiddish,0,2001
+M9W,Serbian,25,2001
+M9W,Bengali,120,2001
+M9W,Slovak,0,2001
+M9W,Estonian,0,2001
+M9W,Turkish,25,2001
+M9W,Lithuanian,0,2001
+M9W,Latvian (Lettish),0,2001
+M9W,Micmac,0,2001
+M9W,Slovenian,0,2001
+M9W,Bulgarian,15,2001
+M9W,Serbo-Croatian,25,2001
+M9W,Dakota/Sioux,0,2001
+M9W,South Slave,0,2001
+M9W,Malay-Bahasa,0,2001
+M9W,Maltese,0,2001
+M9W,Blackfoot,0,2001
+M9W,Dogrib,0,2001
+M9W,Danish,0,2001
+M9W,Swedish,0,2001
+M9W,Malayalam,10,2001
+M9W,Thai,0,2001
+M9W,Kurdish,0,2001
+M9W,Pashto,0,2001
+M9W,Flemish,0,2001
+M9W,Chipewyan,0,2001
+M9W,Kutchin-Gwich'in (Loucheux),0,2001
+M9W,Norwegian,0,2001
+M9W,Gaelic languages,0,2001
+M9W,Tlingit,0,2001
+M9W,Other languages,820,2001

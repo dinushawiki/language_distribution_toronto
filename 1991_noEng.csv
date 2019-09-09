@@ -1,0 +1,3039 @@
+FSA,Language,Count,Year
+M1B,  Chinese,3095,1991
+M1B,  Italian,165,1991
+M1B,  Portuguese,100,1991
+M1B,  Spanish,440,1991
+M1B,  German,10,1991
+M1B,  Polish,190,1991
+M1B,  Punjabi,635,1991
+M1B,  Greek,165,1991
+M1B,  Vietnamese,155,1991
+M1B,  Arabic,255,1991
+M1B,  Cree,0,1991
+M1B,  Tagalog (Pilipino),1005,1991
+M1B,  Ukrainian,0,1991
+M1B,  Persian (Farsi),110,1991
+M1B,  Korean,150,1991
+M1B,  Hungarian,60,1991
+M1B,  Tamil,1280,1991
+M1B,  Gujarati,660,1991
+M1B,  Croatian,10,1991
+M1B,  Armenian,40,1991
+M1B,  Inuktitut,0,1991
+M1B,  Hindi,230,1991
+M1B,  Urdu,375,1991
+M1B,  Japanese,40,1991
+M1B,  Russian,0,1991
+M1B,  Creoles,0,1991
+M1B,  Dutch,15,1991
+M1B,  Khmer (Cambodian),0,1991
+M1B,  Ojibway,0,1991
+M1B,  Romanian,0,1991
+M1B,  Other languages,650,1991
+M1C,  Chinese,1015,1991
+M1C,  Italian,350,1991
+M1C,  Portuguese,45,1991
+M1C,  Spanish,70,1991
+M1C,  German,120,1991
+M1C,  Polish,120,1991
+M1C,  Punjabi,75,1991
+M1C,  Greek,105,1991
+M1C,  Vietnamese,10,1991
+M1C,  Arabic,0,1991
+M1C,  Cree,0,1991
+M1C,  Tagalog (Pilipino),285,1991
+M1C,  Ukrainian,20,1991
+M1C,  Persian (Farsi),50,1991
+M1C,  Korean,115,1991
+M1C,  Hungarian,0,1991
+M1C,  Tamil,25,1991
+M1C,  Gujarati,40,1991
+M1C,  Croatian,0,1991
+M1C,  Armenian,30,1991
+M1C,  Inuktitut,0,1991
+M1C,  Hindi,70,1991
+M1C,  Urdu,110,1991
+M1C,  Japanese,35,1991
+M1C,  Russian,0,1991
+M1C,  Creoles,0,1991
+M1C,  Dutch,0,1991
+M1C,  Khmer (Cambodian),0,1991
+M1C,  Ojibway,0,1991
+M1C,  Romanian,25,1991
+M1C,  Other languages,370,1991
+M1E,  Chinese,925,1991
+M1E,  Italian,365,1991
+M1E,  Portuguese,140,1991
+M1E,  Spanish,425,1991
+M1E,  German,215,1991
+M1E,  Polish,210,1991
+M1E,  Punjabi,155,1991
+M1E,  Greek,185,1991
+M1E,  Vietnamese,65,1991
+M1E,  Arabic,50,1991
+M1E,  Cree,0,1991
+M1E,  Tagalog (Pilipino),140,1991
+M1E,  Ukrainian,40,1991
+M1E,  Persian (Farsi),340,1991
+M1E,  Korean,250,1991
+M1E,  Hungarian,35,1991
+M1E,  Tamil,425,1991
+M1E,  Gujarati,150,1991
+M1E,  Croatian,25,1991
+M1E,  Armenian,25,1991
+M1E,  Inuktitut,0,1991
+M1E,  Hindi,40,1991
+M1E,  Urdu,205,1991
+M1E,  Japanese,15,1991
+M1E,  Russian,35,1991
+M1E,  Creoles,20,1991
+M1E,  Dutch,45,1991
+M1E,  Khmer (Cambodian),0,1991
+M1E,  Ojibway,0,1991
+M1E,  Romanian,10,1991
+M1E,  Other languages,735,1991
+M1G,  Chinese,375,1991
+M1G,  Italian,120,1991
+M1G,  Portuguese,70,1991
+M1G,  Spanish,505,1991
+M1G,  German,85,1991
+M1G,  Polish,700,1991
+M1G,  Punjabi,280,1991
+M1G,  Greek,350,1991
+M1G,  Vietnamese,0,1991
+M1G,  Arabic,375,1991
+M1G,  Cree,0,1991
+M1G,  Tagalog (Pilipino),110,1991
+M1G,  Ukrainian,60,1991
+M1G,  Persian (Farsi),350,1991
+M1G,  Korean,105,1991
+M1G,  Hungarian,80,1991
+M1G,  Tamil,780,1991
+M1G,  Gujarati,365,1991
+M1G,  Croatian,10,1991
+M1G,  Armenian,40,1991
+M1G,  Inuktitut,0,1991
+M1G,  Hindi,30,1991
+M1G,  Urdu,145,1991
+M1G,  Japanese,10,1991
+M1G,  Russian,0,1991
+M1G,  Creoles,10,1991
+M1G,  Dutch,0,1991
+M1G,  Khmer (Cambodian),0,1991
+M1G,  Ojibway,0,1991
+M1G,  Romanian,35,1991
+M1G,  Other languages,660,1991
+M1H,  Chinese,370,1991
+M1H,  Italian,190,1991
+M1H,  Portuguese,125,1991
+M1H,  Spanish,150,1991
+M1H,  German,55,1991
+M1H,  Polish,75,1991
+M1H,  Punjabi,55,1991
+M1H,  Greek,270,1991
+M1H,  Vietnamese,35,1991
+M1H,  Arabic,40,1991
+M1H,  Cree,0,1991
+M1H,  Tagalog (Pilipino),190,1991
+M1H,  Ukrainian,0,1991
+M1H,  Persian (Farsi),175,1991
+M1H,  Korean,10,1991
+M1H,  Hungarian,20,1991
+M1H,  Tamil,440,1991
+M1H,  Gujarati,205,1991
+M1H,  Croatian,10,1991
+M1H,  Armenian,25,1991
+M1H,  Inuktitut,0,1991
+M1H,  Hindi,20,1991
+M1H,  Urdu,40,1991
+M1H,  Japanese,10,1991
+M1H,  Russian,0,1991
+M1H,  Creoles,0,1991
+M1H,  Dutch,0,1991
+M1H,  Khmer (Cambodian),0,1991
+M1H,  Ojibway,0,1991
+M1H,  Romanian,0,1991
+M1H,  Other languages,290,1991
+M1J,  Chinese,575,1991
+M1J,  Italian,390,1991
+M1J,  Portuguese,165,1991
+M1J,  Spanish,595,1991
+M1J,  German,190,1991
+M1J,  Polish,1045,1991
+M1J,  Punjabi,105,1991
+M1J,  Greek,425,1991
+M1J,  Vietnamese,130,1991
+M1J,  Arabic,110,1991
+M1J,  Cree,0,1991
+M1J,  Tagalog (Pilipino),375,1991
+M1J,  Ukrainian,40,1991
+M1J,  Persian (Farsi),500,1991
+M1J,  Korean,220,1991
+M1J,  Hungarian,60,1991
+M1J,  Tamil,750,1991
+M1J,  Gujarati,220,1991
+M1J,  Croatian,30,1991
+M1J,  Armenian,75,1991
+M1J,  Inuktitut,0,1991
+M1J,  Hindi,105,1991
+M1J,  Urdu,120,1991
+M1J,  Japanese,10,1991
+M1J,  Russian,0,1991
+M1J,  Creoles,0,1991
+M1J,  Dutch,0,1991
+M1J,  Khmer (Cambodian),0,1991
+M1J,  Ojibway,0,1991
+M1J,  Romanian,15,1991
+M1J,  Other languages,960,1991
+M1K,  Chinese,2470,1991
+M1K,  Italian,1055,1991
+M1K,  Portuguese,155,1991
+M1K,  Spanish,390,1991
+M1K,  German,235,1991
+M1K,  Polish,195,1991
+M1K,  Punjabi,290,1991
+M1K,  Greek,1235,1991
+M1K,  Vietnamese,105,1991
+M1K,  Arabic,200,1991
+M1K,  Cree,0,1991
+M1K,  Tagalog (Pilipino),340,1991
+M1K,  Ukrainian,30,1991
+M1K,  Persian (Farsi),230,1991
+M1K,  Korean,175,1991
+M1K,  Hungarian,105,1991
+M1K,  Tamil,880,1991
+M1K,  Gujarati,100,1991
+M1K,  Croatian,0,1991
+M1K,  Armenian,50,1991
+M1K,  Inuktitut,0,1991
+M1K,  Hindi,205,1991
+M1K,  Urdu,90,1991
+M1K,  Japanese,25,1991
+M1K,  Russian,10,1991
+M1K,  Creoles,45,1991
+M1K,  Dutch,0,1991
+M1K,  Khmer (Cambodian),0,1991
+M1K,  Ojibway,0,1991
+M1K,  Romanian,45,1991
+M1K,  Other languages,1450,1991
+M1L,  Chinese,1145,1991
+M1L,  Italian,345,1991
+M1L,  Portuguese,75,1991
+M1L,  Spanish,295,1991
+M1L,  German,85,1991
+M1L,  Polish,10,1991
+M1L,  Punjabi,75,1991
+M1L,  Greek,430,1991
+M1L,  Vietnamese,25,1991
+M1L,  Arabic,70,1991
+M1L,  Cree,0,1991
+M1L,  Tagalog (Pilipino),320,1991
+M1L,  Ukrainian,0,1991
+M1L,  Persian (Farsi),415,1991
+M1L,  Korean,75,1991
+M1L,  Hungarian,20,1991
+M1L,  Tamil,95,1991
+M1L,  Gujarati,250,1991
+M1L,  Croatian,0,1991
+M1L,  Armenian,35,1991
+M1L,  Inuktitut,0,1991
+M1L,  Hindi,0,1991
+M1L,  Urdu,95,1991
+M1L,  Japanese,50,1991
+M1L,  Russian,0,1991
+M1L,  Creoles,10,1991
+M1L,  Dutch,0,1991
+M1L,  Khmer (Cambodian),0,1991
+M1L,  Ojibway,0,1991
+M1L,  Romanian,20,1991
+M1L,  Other languages,765,1991
+M1M,  Chinese,165,1991
+M1M,  Italian,185,1991
+M1M,  Portuguese,145,1991
+M1M,  Spanish,80,1991
+M1M,  German,180,1991
+M1M,  Polish,190,1991
+M1M,  Punjabi,45,1991
+M1M,  Greek,150,1991
+M1M,  Vietnamese,35,1991
+M1M,  Arabic,40,1991
+M1M,  Cree,0,1991
+M1M,  Tagalog (Pilipino),210,1991
+M1M,  Ukrainian,25,1991
+M1M,  Persian (Farsi),165,1991
+M1M,  Korean,95,1991
+M1M,  Hungarian,30,1991
+M1M,  Tamil,15,1991
+M1M,  Gujarati,15,1991
+M1M,  Croatian,0,1991
+M1M,  Armenian,30,1991
+M1M,  Inuktitut,0,1991
+M1M,  Hindi,0,1991
+M1M,  Urdu,20,1991
+M1M,  Japanese,10,1991
+M1M,  Russian,0,1991
+M1M,  Creoles,0,1991
+M1M,  Dutch,0,1991
+M1M,  Khmer (Cambodian),0,1991
+M1M,  Ojibway,0,1991
+M1M,  Romanian,50,1991
+M1M,  Other languages,460,1991
+M1N,  Chinese,500,1991
+M1N,  Italian,280,1991
+M1N,  Portuguese,60,1991
+M1N,  Spanish,115,1991
+M1N,  German,30,1991
+M1N,  Polish,55,1991
+M1N,  Punjabi,10,1991
+M1N,  Greek,225,1991
+M1N,  Vietnamese,20,1991
+M1N,  Arabic,20,1991
+M1N,  Cree,0,1991
+M1N,  Tagalog (Pilipino),245,1991
+M1N,  Ukrainian,15,1991
+M1N,  Persian (Farsi),35,1991
+M1N,  Korean,35,1991
+M1N,  Hungarian,25,1991
+M1N,  Tamil,0,1991
+M1N,  Gujarati,10,1991
+M1N,  Croatian,0,1991
+M1N,  Armenian,0,1991
+M1N,  Inuktitut,0,1991
+M1N,  Hindi,50,1991
+M1N,  Urdu,0,1991
+M1N,  Japanese,0,1991
+M1N,  Russian,0,1991
+M1N,  Creoles,0,1991
+M1N,  Dutch,10,1991
+M1N,  Khmer (Cambodian),0,1991
+M1N,  Ojibway,0,1991
+M1N,  Romanian,0,1991
+M1N,  Other languages,295,1991
+M1P,  Chinese,1235,1991
+M1P,  Italian,255,1991
+M1P,  Portuguese,125,1991
+M1P,  Spanish,280,1991
+M1P,  German,115,1991
+M1P,  Polish,50,1991
+M1P,  Punjabi,55,1991
+M1P,  Greek,635,1991
+M1P,  Vietnamese,165,1991
+M1P,  Arabic,80,1991
+M1P,  Cree,0,1991
+M1P,  Tagalog (Pilipino),225,1991
+M1P,  Ukrainian,0,1991
+M1P,  Persian (Farsi),270,1991
+M1P,  Korean,265,1991
+M1P,  Hungarian,55,1991
+M1P,  Tamil,545,1991
+M1P,  Gujarati,385,1991
+M1P,  Croatian,20,1991
+M1P,  Armenian,195,1991
+M1P,  Inuktitut,0,1991
+M1P,  Hindi,30,1991
+M1P,  Urdu,185,1991
+M1P,  Japanese,10,1991
+M1P,  Russian,10,1991
+M1P,  Creoles,10,1991
+M1P,  Dutch,0,1991
+M1P,  Khmer (Cambodian),0,1991
+M1P,  Ojibway,0,1991
+M1P,  Romanian,10,1991
+M1P,  Other languages,530,1991
+M1R,  Chinese,555,1991
+M1R,  Italian,545,1991
+M1R,  Portuguese,160,1991
+M1R,  Spanish,330,1991
+M1R,  German,120,1991
+M1R,  Polish,220,1991
+M1R,  Punjabi,30,1991
+M1R,  Greek,705,1991
+M1R,  Vietnamese,45,1991
+M1R,  Arabic,235,1991
+M1R,  Cree,0,1991
+M1R,  Tagalog (Pilipino),270,1991
+M1R,  Ukrainian,30,1991
+M1R,  Persian (Farsi),100,1991
+M1R,  Korean,75,1991
+M1R,  Hungarian,60,1991
+M1R,  Tamil,100,1991
+M1R,  Gujarati,65,1991
+M1R,  Croatian,25,1991
+M1R,  Armenian,165,1991
+M1R,  Inuktitut,0,1991
+M1R,  Hindi,60,1991
+M1R,  Urdu,95,1991
+M1R,  Japanese,10,1991
+M1R,  Russian,0,1991
+M1R,  Creoles,0,1991
+M1R,  Dutch,10,1991
+M1R,  Khmer (Cambodian),0,1991
+M1R,  Ojibway,0,1991
+M1R,  Romanian,10,1991
+M1R,  Other languages,485,1991
+M1S,  Chinese,7440,1991
+M1S,  Italian,555,1991
+M1S,  Portuguese,45,1991
+M1S,  Spanish,225,1991
+M1S,  German,40,1991
+M1S,  Polish,10,1991
+M1S,  Punjabi,110,1991
+M1S,  Greek,510,1991
+M1S,  Vietnamese,105,1991
+M1S,  Arabic,85,1991
+M1S,  Cree,0,1991
+M1S,  Tagalog (Pilipino),180,1991
+M1S,  Ukrainian,95,1991
+M1S,  Persian (Farsi),80,1991
+M1S,  Korean,25,1991
+M1S,  Hungarian,65,1991
+M1S,  Tamil,245,1991
+M1S,  Gujarati,280,1991
+M1S,  Croatian,0,1991
+M1S,  Armenian,175,1991
+M1S,  Inuktitut,0,1991
+M1S,  Hindi,55,1991
+M1S,  Urdu,185,1991
+M1S,  Japanese,100,1991
+M1S,  Russian,0,1991
+M1S,  Creoles,0,1991
+M1S,  Dutch,0,1991
+M1S,  Khmer (Cambodian),0,1991
+M1S,  Ojibway,0,1991
+M1S,  Romanian,15,1991
+M1S,  Other languages,235,1991
+M1T,  Chinese,3365,1991
+M1T,  Italian,355,1991
+M1T,  Portuguese,140,1991
+M1T,  Spanish,105,1991
+M1T,  German,110,1991
+M1T,  Polish,55,1991
+M1T,  Punjabi,20,1991
+M1T,  Greek,440,1991
+M1T,  Vietnamese,20,1991
+M1T,  Arabic,100,1991
+M1T,  Cree,0,1991
+M1T,  Tagalog (Pilipino),160,1991
+M1T,  Ukrainian,0,1991
+M1T,  Persian (Farsi),305,1991
+M1T,  Korean,170,1991
+M1T,  Hungarian,100,1991
+M1T,  Tamil,290,1991
+M1T,  Gujarati,55,1991
+M1T,  Croatian,0,1991
+M1T,  Armenian,420,1991
+M1T,  Inuktitut,0,1991
+M1T,  Hindi,25,1991
+M1T,  Urdu,160,1991
+M1T,  Japanese,40,1991
+M1T,  Russian,0,1991
+M1T,  Creoles,0,1991
+M1T,  Dutch,0,1991
+M1T,  Khmer (Cambodian),0,1991
+M1T,  Ojibway,0,1991
+M1T,  Romanian,60,1991
+M1T,  Other languages,455,1991
+M1V,  Chinese,15780,1991
+M1V,  Italian,315,1991
+M1V,  Portuguese,200,1991
+M1V,  Spanish,340,1991
+M1V,  German,60,1991
+M1V,  Polish,40,1991
+M1V,  Punjabi,295,1991
+M1V,  Greek,380,1991
+M1V,  Vietnamese,100,1991
+M1V,  Arabic,505,1991
+M1V,  Cree,0,1991
+M1V,  Tagalog (Pilipino),585,1991
+M1V,  Ukrainian,0,1991
+M1V,  Persian (Farsi),245,1991
+M1V,  Korean,135,1991
+M1V,  Hungarian,45,1991
+M1V,  Tamil,515,1991
+M1V,  Gujarati,205,1991
+M1V,  Croatian,15,1991
+M1V,  Armenian,95,1991
+M1V,  Inuktitut,0,1991
+M1V,  Hindi,90,1991
+M1V,  Urdu,245,1991
+M1V,  Japanese,65,1991
+M1V,  Russian,0,1991
+M1V,  Creoles,0,1991
+M1V,  Dutch,0,1991
+M1V,  Khmer (Cambodian),0,1991
+M1V,  Ojibway,0,1991
+M1V,  Romanian,10,1991
+M1V,  Other languages,700,1991
+M1W,  Chinese,10155,1991
+M1W,  Italian,865,1991
+M1W,  Portuguese,80,1991
+M1W,  Spanish,210,1991
+M1W,  German,75,1991
+M1W,  Polish,60,1991
+M1W,  Punjabi,70,1991
+M1W,  Greek,575,1991
+M1W,  Vietnamese,10,1991
+M1W,  Arabic,455,1991
+M1W,  Cree,0,1991
+M1W,  Tagalog (Pilipino),345,1991
+M1W,  Ukrainian,20,1991
+M1W,  Persian (Farsi),455,1991
+M1W,  Korean,120,1991
+M1W,  Hungarian,40,1991
+M1W,  Tamil,850,1991
+M1W,  Gujarati,400,1991
+M1W,  Croatian,60,1991
+M1W,  Armenian,740,1991
+M1W,  Inuktitut,0,1991
+M1W,  Hindi,60,1991
+M1W,  Urdu,135,1991
+M1W,  Japanese,125,1991
+M1W,  Russian,0,1991
+M1W,  Creoles,0,1991
+M1W,  Dutch,0,1991
+M1W,  Khmer (Cambodian),0,1991
+M1W,  Ojibway,0,1991
+M1W,  Romanian,10,1991
+M1W,  Other languages,995,1991
+M1X,  Chinese,70,1991
+M1X,  Italian,0,1991
+M1X,  Portuguese,15,1991
+M1X,  Spanish,0,1991
+M1X,  German,0,1991
+M1X,  Polish,0,1991
+M1X,  Punjabi,0,1991
+M1X,  Greek,0,1991
+M1X,  Vietnamese,0,1991
+M1X,  Arabic,0,1991
+M1X,  Cree,0,1991
+M1X,  Tagalog (Pilipino),95,1991
+M1X,  Ukrainian,0,1991
+M1X,  Persian (Farsi),0,1991
+M1X,  Korean,20,1991
+M1X,  Hungarian,0,1991
+M1X,  Tamil,0,1991
+M1X,  Gujarati,35,1991
+M1X,  Croatian,0,1991
+M1X,  Armenian,0,1991
+M1X,  Inuktitut,0,1991
+M1X,  Hindi,0,1991
+M1X,  Urdu,0,1991
+M1X,  Japanese,0,1991
+M1X,  Russian,0,1991
+M1X,  Creoles,0,1991
+M1X,  Dutch,0,1991
+M1X,  Khmer (Cambodian),0,1991
+M1X,  Ojibway,0,1991
+M1X,  Romanian,0,1991
+M1X,  Other languages,15,1991
+M2H,  Chinese,4195,1991
+M2H,  Italian,270,1991
+M2H,  Portuguese,15,1991
+M2H,  Spanish,110,1991
+M2H,  German,45,1991
+M2H,  Polish,140,1991
+M2H,  Punjabi,140,1991
+M2H,  Greek,530,1991
+M2H,  Vietnamese,55,1991
+M2H,  Arabic,85,1991
+M2H,  Cree,0,1991
+M2H,  Tagalog (Pilipino),65,1991
+M2H,  Ukrainian,0,1991
+M2H,  Persian (Farsi),355,1991
+M2H,  Korean,185,1991
+M2H,  Hungarian,65,1991
+M2H,  Tamil,90,1991
+M2H,  Gujarati,130,1991
+M2H,  Croatian,0,1991
+M2H,  Armenian,200,1991
+M2H,  Inuktitut,0,1991
+M2H,  Hindi,25,1991
+M2H,  Urdu,75,1991
+M2H,  Japanese,30,1991
+M2H,  Russian,15,1991
+M2H,  Creoles,0,1991
+M2H,  Dutch,0,1991
+M2H,  Khmer (Cambodian),15,1991
+M2H,  Ojibway,0,1991
+M2H,  Romanian,10,1991
+M2H,  Other languages,445,1991
+M2J,  Chinese,4915,1991
+M2J,  Italian,800,1991
+M2J,  Portuguese,200,1991
+M2J,  Spanish,480,1991
+M2J,  German,80,1991
+M2J,  Polish,150,1991
+M2J,  Punjabi,125,1991
+M2J,  Greek,630,1991
+M2J,  Vietnamese,75,1991
+M2J,  Arabic,620,1991
+M2J,  Cree,0,1991
+M2J,  Tagalog (Pilipino),255,1991
+M2J,  Ukrainian,10,1991
+M2J,  Persian (Farsi),1715,1991
+M2J,  Korean,570,1991
+M2J,  Hungarian,330,1991
+M2J,  Tamil,390,1991
+M2J,  Gujarati,395,1991
+M2J,  Croatian,15,1991
+M2J,  Armenian,1085,1991
+M2J,  Inuktitut,0,1991
+M2J,  Hindi,85,1991
+M2J,  Urdu,120,1991
+M2J,  Japanese,130,1991
+M2J,  Russian,30,1991
+M2J,  Creoles,40,1991
+M2J,  Dutch,10,1991
+M2J,  Khmer (Cambodian),0,1991
+M2J,  Ojibway,0,1991
+M2J,  Romanian,205,1991
+M2J,  Other languages,1295,1991
+M2K,  Chinese,1275,1991
+M2K,  Italian,60,1991
+M2K,  Portuguese,0,1991
+M2K,  Spanish,20,1991
+M2K,  German,20,1991
+M2K,  Polish,10,1991
+M2K,  Punjabi,0,1991
+M2K,  Greek,125,1991
+M2K,  Vietnamese,15,1991
+M2K,  Arabic,60,1991
+M2K,  Cree,0,1991
+M2K,  Tagalog (Pilipino),30,1991
+M2K,  Ukrainian,10,1991
+M2K,  Persian (Farsi),20,1991
+M2K,  Korean,60,1991
+M2K,  Hungarian,20,1991
+M2K,  Tamil,20,1991
+M2K,  Gujarati,0,1991
+M2K,  Croatian,30,1991
+M2K,  Armenian,155,1991
+M2K,  Inuktitut,0,1991
+M2K,  Hindi,0,1991
+M2K,  Urdu,10,1991
+M2K,  Japanese,80,1991
+M2K,  Russian,30,1991
+M2K,  Creoles,0,1991
+M2K,  Dutch,0,1991
+M2K,  Khmer (Cambodian),0,1991
+M2K,  Ojibway,0,1991
+M2K,  Romanian,95,1991
+M2K,  Other languages,185,1991
+M2L,  Chinese,665,1991
+M2L,  Italian,35,1991
+M2L,  Portuguese,45,1991
+M2L,  Spanish,65,1991
+M2L,  German,30,1991
+M2L,  Polish,0,1991
+M2L,  Punjabi,10,1991
+M2L,  Greek,10,1991
+M2L,  Vietnamese,55,1991
+M2L,  Arabic,15,1991
+M2L,  Cree,0,1991
+M2L,  Tagalog (Pilipino),10,1991
+M2L,  Ukrainian,0,1991
+M2L,  Persian (Farsi),350,1991
+M2L,  Korean,30,1991
+M2L,  Hungarian,60,1991
+M2L,  Tamil,0,1991
+M2L,  Gujarati,10,1991
+M2L,  Croatian,0,1991
+M2L,  Armenian,25,1991
+M2L,  Inuktitut,0,1991
+M2L,  Hindi,0,1991
+M2L,  Urdu,0,1991
+M2L,  Japanese,70,1991
+M2L,  Russian,30,1991
+M2L,  Creoles,0,1991
+M2L,  Dutch,10,1991
+M2L,  Khmer (Cambodian),0,1991
+M2L,  Ojibway,0,1991
+M2L,  Romanian,15,1991
+M2L,  Other languages,115,1991
+M2M,  Chinese,2155,1991
+M2M,  Italian,700,1991
+M2M,  Portuguese,45,1991
+M2M,  Spanish,165,1991
+M2M,  German,140,1991
+M2M,  Polish,110,1991
+M2M,  Punjabi,25,1991
+M2M,  Greek,135,1991
+M2M,  Vietnamese,20,1991
+M2M,  Arabic,90,1991
+M2M,  Cree,0,1991
+M2M,  Tagalog (Pilipino),175,1991
+M2M,  Ukrainian,40,1991
+M2M,  Persian (Farsi),55,1991
+M2M,  Korean,495,1991
+M2M,  Hungarian,140,1991
+M2M,  Tamil,0,1991
+M2M,  Gujarati,0,1991
+M2M,  Croatian,65,1991
+M2M,  Armenian,40,1991
+M2M,  Inuktitut,0,1991
+M2M,  Hindi,0,1991
+M2M,  Urdu,20,1991
+M2M,  Japanese,135,1991
+M2M,  Russian,640,1991
+M2M,  Creoles,15,1991
+M2M,  Dutch,35,1991
+M2M,  Khmer (Cambodian),15,1991
+M2M,  Ojibway,0,1991
+M2M,  Romanian,80,1991
+M2M,  Other languages,1060,1991
+M2N,  Chinese,2425,1991
+M2N,  Italian,250,1991
+M2N,  Portuguese,45,1991
+M2N,  Spanish,235,1991
+M2N,  German,100,1991
+M2N,  Polish,130,1991
+M2N,  Punjabi,15,1991
+M2N,  Greek,160,1991
+M2N,  Vietnamese,10,1991
+M2N,  Arabic,145,1991
+M2N,  Cree,0,1991
+M2N,  Tagalog (Pilipino),55,1991
+M2N,  Ukrainian,40,1991
+M2N,  Persian (Farsi),245,1991
+M2N,  Korean,350,1991
+M2N,  Hungarian,185,1991
+M2N,  Tamil,0,1991
+M2N,  Gujarati,0,1991
+M2N,  Croatian,30,1991
+M2N,  Armenian,70,1991
+M2N,  Inuktitut,0,1991
+M2N,  Hindi,10,1991
+M2N,  Urdu,55,1991
+M2N,  Japanese,110,1991
+M2N,  Russian,165,1991
+M2N,  Creoles,10,1991
+M2N,  Dutch,45,1991
+M2N,  Khmer (Cambodian),0,1991
+M2N,  Ojibway,0,1991
+M2N,  Romanian,95,1991
+M2N,  Other languages,755,1991
+M2P,  Chinese,170,1991
+M2P,  Italian,0,1991
+M2P,  Portuguese,0,1991
+M2P,  Spanish,20,1991
+M2P,  German,10,1991
+M2P,  Polish,0,1991
+M2P,  Punjabi,0,1991
+M2P,  Greek,0,1991
+M2P,  Vietnamese,0,1991
+M2P,  Arabic,0,1991
+M2P,  Cree,0,1991
+M2P,  Tagalog (Pilipino),0,1991
+M2P,  Ukrainian,0,1991
+M2P,  Persian (Farsi),10,1991
+M2P,  Korean,0,1991
+M2P,  Hungarian,55,1991
+M2P,  Tamil,0,1991
+M2P,  Gujarati,0,1991
+M2P,  Croatian,15,1991
+M2P,  Armenian,30,1991
+M2P,  Inuktitut,0,1991
+M2P,  Hindi,0,1991
+M2P,  Urdu,0,1991
+M2P,  Japanese,15,1991
+M2P,  Russian,0,1991
+M2P,  Creoles,0,1991
+M2P,  Dutch,0,1991
+M2P,  Khmer (Cambodian),0,1991
+M2P,  Ojibway,0,1991
+M2P,  Romanian,15,1991
+M2P,  Other languages,35,1991
+M2R,  Chinese,670,1991
+M2R,  Italian,355,1991
+M2R,  Portuguese,110,1991
+M2R,  Spanish,530,1991
+M2R,  German,105,1991
+M2R,  Polish,295,1991
+M2R,  Punjabi,120,1991
+M2R,  Greek,240,1991
+M2R,  Vietnamese,45,1991
+M2R,  Arabic,60,1991
+M2R,  Cree,0,1991
+M2R,  Tagalog (Pilipino),350,1991
+M2R,  Ukrainian,30,1991
+M2R,  Persian (Farsi),505,1991
+M2R,  Korean,345,1991
+M2R,  Hungarian,375,1991
+M2R,  Tamil,25,1991
+M2R,  Gujarati,100,1991
+M2R,  Croatian,10,1991
+M2R,  Armenian,95,1991
+M2R,  Inuktitut,0,1991
+M2R,  Hindi,40,1991
+M2R,  Urdu,30,1991
+M2R,  Japanese,10,1991
+M2R,  Russian,3910,1991
+M2R,  Creoles,0,1991
+M2R,  Dutch,0,1991
+M2R,  Khmer (Cambodian),0,1991
+M2R,  Ojibway,0,1991
+M2R,  Romanian,320,1991
+M2R,  Other languages,2870,1991
+M3A,  Chinese,1225,1991
+M3A,  Italian,250,1991
+M3A,  Portuguese,125,1991
+M3A,  Spanish,255,1991
+M3A,  German,140,1991
+M3A,  Polish,540,1991
+M3A,  Punjabi,80,1991
+M3A,  Greek,370,1991
+M3A,  Vietnamese,10,1991
+M3A,  Arabic,355,1991
+M3A,  Cree,0,1991
+M3A,  Tagalog (Pilipino),215,1991
+M3A,  Ukrainian,0,1991
+M3A,  Persian (Farsi),300,1991
+M3A,  Korean,245,1991
+M3A,  Hungarian,160,1991
+M3A,  Tamil,215,1991
+M3A,  Gujarati,150,1991
+M3A,  Croatian,0,1991
+M3A,  Armenian,400,1991
+M3A,  Inuktitut,0,1991
+M3A,  Hindi,0,1991
+M3A,  Urdu,30,1991
+M3A,  Japanese,120,1991
+M3A,  Russian,10,1991
+M3A,  Creoles,0,1991
+M3A,  Dutch,15,1991
+M3A,  Khmer (Cambodian),0,1991
+M3A,  Ojibway,0,1991
+M3A,  Romanian,20,1991
+M3A,  Other languages,565,1991
+M3B,  Chinese,970,1991
+M3B,  Italian,0,1991
+M3B,  Portuguese,25,1991
+M3B,  Spanish,30,1991
+M3B,  German,30,1991
+M3B,  Polish,20,1991
+M3B,  Punjabi,10,1991
+M3B,  Greek,115,1991
+M3B,  Vietnamese,0,1991
+M3B,  Arabic,0,1991
+M3B,  Cree,0,1991
+M3B,  Tagalog (Pilipino),30,1991
+M3B,  Ukrainian,55,1991
+M3B,  Persian (Farsi),30,1991
+M3B,  Korean,70,1991
+M3B,  Hungarian,35,1991
+M3B,  Tamil,20,1991
+M3B,  Gujarati,25,1991
+M3B,  Croatian,40,1991
+M3B,  Armenian,80,1991
+M3B,  Inuktitut,0,1991
+M3B,  Hindi,20,1991
+M3B,  Urdu,0,1991
+M3B,  Japanese,40,1991
+M3B,  Russian,0,1991
+M3B,  Creoles,0,1991
+M3B,  Dutch,30,1991
+M3B,  Khmer (Cambodian),0,1991
+M3B,  Ojibway,0,1991
+M3B,  Romanian,0,1991
+M3B,  Other languages,215,1991
+M3C,  Chinese,2085,1991
+M3C,  Italian,55,1991
+M3C,  Portuguese,60,1991
+M3C,  Spanish,255,1991
+M3C,  German,40,1991
+M3C,  Polish,665,1991
+M3C,  Punjabi,205,1991
+M3C,  Greek,850,1991
+M3C,  Vietnamese,140,1991
+M3C,  Arabic,260,1991
+M3C,  Cree,0,1991
+M3C,  Tagalog (Pilipino),715,1991
+M3C,  Ukrainian,10,1991
+M3C,  Persian (Farsi),645,1991
+M3C,  Korean,210,1991
+M3C,  Hungarian,160,1991
+M3C,  Tamil,900,1991
+M3C,  Gujarati,500,1991
+M3C,  Croatian,15,1991
+M3C,  Armenian,110,1991
+M3C,  Inuktitut,0,1991
+M3C,  Hindi,115,1991
+M3C,  Urdu,150,1991
+M3C,  Japanese,45,1991
+M3C,  Russian,10,1991
+M3C,  Creoles,25,1991
+M3C,  Dutch,20,1991
+M3C,  Khmer (Cambodian),0,1991
+M3C,  Ojibway,0,1991
+M3C,  Romanian,310,1991
+M3C,  Other languages,1345,1991
+M3H,  Chinese,320,1991
+M3H,  Italian,1310,1991
+M3H,  Portuguese,200,1991
+M3H,  Spanish,530,1991
+M3H,  German,40,1991
+M3H,  Polish,225,1991
+M3H,  Punjabi,95,1991
+M3H,  Greek,465,1991
+M3H,  Vietnamese,50,1991
+M3H,  Arabic,60,1991
+M3H,  Cree,0,1991
+M3H,  Tagalog (Pilipino),470,1991
+M3H,  Ukrainian,40,1991
+M3H,  Persian (Farsi),35,1991
+M3H,  Korean,110,1991
+M3H,  Hungarian,295,1991
+M3H,  Tamil,65,1991
+M3H,  Gujarati,85,1991
+M3H,  Croatian,15,1991
+M3H,  Armenian,140,1991
+M3H,  Inuktitut,0,1991
+M3H,  Hindi,25,1991
+M3H,  Urdu,0,1991
+M3H,  Japanese,0,1991
+M3H,  Russian,620,1991
+M3H,  Creoles,0,1991
+M3H,  Dutch,0,1991
+M3H,  Khmer (Cambodian),0,1991
+M3H,  Ojibway,0,1991
+M3H,  Romanian,85,1991
+M3H,  Other languages,995,1991
+M3J,  Chinese,540,1991
+M3J,  Italian,2980,1991
+M3J,  Portuguese,195,1991
+M3J,  Spanish,650,1991
+M3J,  German,40,1991
+M3J,  Polish,370,1991
+M3J,  Punjabi,275,1991
+M3J,  Greek,75,1991
+M3J,  Vietnamese,160,1991
+M3J,  Arabic,135,1991
+M3J,  Cree,0,1991
+M3J,  Tagalog (Pilipino),15,1991
+M3J,  Ukrainian,50,1991
+M3J,  Persian (Farsi),365,1991
+M3J,  Korean,70,1991
+M3J,  Hungarian,85,1991
+M3J,  Tamil,80,1991
+M3J,  Gujarati,20,1991
+M3J,  Croatian,45,1991
+M3J,  Armenian,75,1991
+M3J,  Inuktitut,0,1991
+M3J,  Hindi,50,1991
+M3J,  Urdu,120,1991
+M3J,  Japanese,15,1991
+M3J,  Russian,25,1991
+M3J,  Creoles,0,1991
+M3J,  Dutch,0,1991
+M3J,  Khmer (Cambodian),0,1991
+M3J,  Ojibway,0,1991
+M3J,  Romanian,25,1991
+M3J,  Other languages,385,1991
+M3K,  Chinese,0,1991
+M3K,  Italian,1280,1991
+M3K,  Portuguese,85,1991
+M3K,  Spanish,290,1991
+M3K,  German,10,1991
+M3K,  Polish,0,1991
+M3K,  Punjabi,35,1991
+M3K,  Greek,85,1991
+M3K,  Vietnamese,35,1991
+M3K,  Arabic,85,1991
+M3K,  Cree,0,1991
+M3K,  Tagalog (Pilipino),20,1991
+M3K,  Ukrainian,0,1991
+M3K,  Persian (Farsi),15,1991
+M3K,  Korean,0,1991
+M3K,  Hungarian,10,1991
+M3K,  Tamil,75,1991
+M3K,  Gujarati,30,1991
+M3K,  Croatian,45,1991
+M3K,  Armenian,0,1991
+M3K,  Inuktitut,0,1991
+M3K,  Hindi,15,1991
+M3K,  Urdu,0,1991
+M3K,  Japanese,10,1991
+M3K,  Russian,0,1991
+M3K,  Creoles,0,1991
+M3K,  Dutch,0,1991
+M3K,  Khmer (Cambodian),10,1991
+M3K,  Ojibway,0,1991
+M3K,  Romanian,0,1991
+M3K,  Other languages,80,1991
+M3L,  Chinese,95,1991
+M3L,  Italian,4325,1991
+M3L,  Portuguese,175,1991
+M3L,  Spanish,1135,1991
+M3L,  German,50,1991
+M3L,  Polish,20,1991
+M3L,  Punjabi,95,1991
+M3L,  Greek,155,1991
+M3L,  Vietnamese,225,1991
+M3L,  Arabic,40,1991
+M3L,  Cree,0,1991
+M3L,  Tagalog (Pilipino),10,1991
+M3L,  Ukrainian,10,1991
+M3L,  Persian (Farsi),55,1991
+M3L,  Korean,10,1991
+M3L,  Hungarian,40,1991
+M3L,  Tamil,0,1991
+M3L,  Gujarati,60,1991
+M3L,  Croatian,0,1991
+M3L,  Armenian,0,1991
+M3L,  Inuktitut,0,1991
+M3L,  Hindi,55,1991
+M3L,  Urdu,10,1991
+M3L,  Japanese,0,1991
+M3L,  Russian,0,1991
+M3L,  Creoles,20,1991
+M3L,  Dutch,0,1991
+M3L,  Khmer (Cambodian),55,1991
+M3L,  Ojibway,0,1991
+M3L,  Romanian,0,1991
+M3L,  Other languages,430,1991
+M3M,  Chinese,400,1991
+M3M,  Italian,3205,1991
+M3M,  Portuguese,270,1991
+M3M,  Spanish,1235,1991
+M3M,  German,60,1991
+M3M,  Polish,405,1991
+M3M,  Punjabi,160,1991
+M3M,  Greek,80,1991
+M3M,  Vietnamese,510,1991
+M3M,  Arabic,165,1991
+M3M,  Cree,0,1991
+M3M,  Tagalog (Pilipino),40,1991
+M3M,  Ukrainian,40,1991
+M3M,  Persian (Farsi),115,1991
+M3M,  Korean,35,1991
+M3M,  Hungarian,55,1991
+M3M,  Tamil,75,1991
+M3M,  Gujarati,15,1991
+M3M,  Croatian,165,1991
+M3M,  Armenian,15,1991
+M3M,  Inuktitut,0,1991
+M3M,  Hindi,80,1991
+M3M,  Urdu,0,1991
+M3M,  Japanese,0,1991
+M3M,  Russian,70,1991
+M3M,  Creoles,0,1991
+M3M,  Dutch,0,1991
+M3M,  Khmer (Cambodian),185,1991
+M3M,  Ojibway,0,1991
+M3M,  Romanian,40,1991
+M3M,  Other languages,300,1991
+M3N,  Chinese,1875,1991
+M3N,  Italian,3875,1991
+M3N,  Portuguese,365,1991
+M3N,  Spanish,3075,1991
+M3N,  German,55,1991
+M3N,  Polish,1050,1991
+M3N,  Punjabi,1170,1991
+M3N,  Greek,55,1991
+M3N,  Vietnamese,1630,1991
+M3N,  Arabic,495,1991
+M3N,  Cree,0,1991
+M3N,  Tagalog (Pilipino),95,1991
+M3N,  Ukrainian,25,1991
+M3N,  Persian (Farsi),305,1991
+M3N,  Korean,20,1991
+M3N,  Hungarian,85,1991
+M3N,  Tamil,615,1991
+M3N,  Gujarati,410,1991
+M3N,  Croatian,10,1991
+M3N,  Armenian,175,1991
+M3N,  Inuktitut,0,1991
+M3N,  Hindi,140,1991
+M3N,  Urdu,205,1991
+M3N,  Japanese,15,1991
+M3N,  Russian,40,1991
+M3N,  Creoles,0,1991
+M3N,  Dutch,0,1991
+M3N,  Khmer (Cambodian),425,1991
+M3N,  Ojibway,0,1991
+M3N,  Romanian,45,1991
+M3N,  Other languages,1340,1991
+M4A,  Chinese,460,1991
+M4A,  Italian,185,1991
+M4A,  Portuguese,85,1991
+M4A,  Spanish,70,1991
+M4A,  German,15,1991
+M4A,  Polish,80,1991
+M4A,  Punjabi,25,1991
+M4A,  Greek,370,1991
+M4A,  Vietnamese,70,1991
+M4A,  Arabic,110,1991
+M4A,  Cree,0,1991
+M4A,  Tagalog (Pilipino),160,1991
+M4A,  Ukrainian,15,1991
+M4A,  Persian (Farsi),70,1991
+M4A,  Korean,140,1991
+M4A,  Hungarian,15,1991
+M4A,  Tamil,70,1991
+M4A,  Gujarati,95,1991
+M4A,  Croatian,0,1991
+M4A,  Armenian,20,1991
+M4A,  Inuktitut,0,1991
+M4A,  Hindi,50,1991
+M4A,  Urdu,35,1991
+M4A,  Japanese,55,1991
+M4A,  Russian,10,1991
+M4A,  Creoles,0,1991
+M4A,  Dutch,0,1991
+M4A,  Khmer (Cambodian),0,1991
+M4A,  Ojibway,0,1991
+M4A,  Romanian,0,1991
+M4A,  Other languages,485,1991
+M4B,  Chinese,440,1991
+M4B,  Italian,165,1991
+M4B,  Portuguese,35,1991
+M4B,  Spanish,60,1991
+M4B,  German,25,1991
+M4B,  Polish,150,1991
+M4B,  Punjabi,20,1991
+M4B,  Greek,415,1991
+M4B,  Vietnamese,0,1991
+M4B,  Arabic,15,1991
+M4B,  Cree,0,1991
+M4B,  Tagalog (Pilipino),145,1991
+M4B,  Ukrainian,20,1991
+M4B,  Persian (Farsi),60,1991
+M4B,  Korean,10,1991
+M4B,  Hungarian,40,1991
+M4B,  Tamil,325,1991
+M4B,  Gujarati,55,1991
+M4B,  Croatian,0,1991
+M4B,  Armenian,0,1991
+M4B,  Inuktitut,0,1991
+M4B,  Hindi,10,1991
+M4B,  Urdu,0,1991
+M4B,  Japanese,10,1991
+M4B,  Russian,10,1991
+M4B,  Creoles,0,1991
+M4B,  Dutch,0,1991
+M4B,  Khmer (Cambodian),0,1991
+M4B,  Ojibway,0,1991
+M4B,  Romanian,0,1991
+M4B,  Other languages,320,1991
+M4C,  Chinese,2830,1991
+M4C,  Italian,1250,1991
+M4C,  Portuguese,145,1991
+M4C,  Spanish,215,1991
+M4C,  German,80,1991
+M4C,  Polish,305,1991
+M4C,  Punjabi,70,1991
+M4C,  Greek,915,1991
+M4C,  Vietnamese,160,1991
+M4C,  Arabic,150,1991
+M4C,  Cree,0,1991
+M4C,  Tagalog (Pilipino),260,1991
+M4C,  Ukrainian,10,1991
+M4C,  Persian (Farsi),265,1991
+M4C,  Korean,55,1991
+M4C,  Hungarian,50,1991
+M4C,  Tamil,150,1991
+M4C,  Gujarati,365,1991
+M4C,  Croatian,50,1991
+M4C,  Armenian,0,1991
+M4C,  Inuktitut,0,1991
+M4C,  Hindi,25,1991
+M4C,  Urdu,55,1991
+M4C,  Japanese,55,1991
+M4C,  Russian,30,1991
+M4C,  Creoles,15,1991
+M4C,  Dutch,0,1991
+M4C,  Khmer (Cambodian),0,1991
+M4C,  Ojibway,10,1991
+M4C,  Romanian,155,1991
+M4C,  Other languages,1065,1991
+M4E,  Chinese,470,1991
+M4E,  Italian,70,1991
+M4E,  Portuguese,50,1991
+M4E,  Spanish,80,1991
+M4E,  German,110,1991
+M4E,  Polish,30,1991
+M4E,  Punjabi,0,1991
+M4E,  Greek,45,1991
+M4E,  Vietnamese,0,1991
+M4E,  Arabic,0,1991
+M4E,  Cree,0,1991
+M4E,  Tagalog (Pilipino),45,1991
+M4E,  Ukrainian,0,1991
+M4E,  Persian (Farsi),20,1991
+M4E,  Korean,10,1991
+M4E,  Hungarian,45,1991
+M4E,  Tamil,0,1991
+M4E,  Gujarati,0,1991
+M4E,  Croatian,10,1991
+M4E,  Armenian,0,1991
+M4E,  Inuktitut,0,1991
+M4E,  Hindi,0,1991
+M4E,  Urdu,0,1991
+M4E,  Japanese,0,1991
+M4E,  Russian,10,1991
+M4E,  Creoles,0,1991
+M4E,  Dutch,0,1991
+M4E,  Khmer (Cambodian),0,1991
+M4E,  Ojibway,0,1991
+M4E,  Romanian,20,1991
+M4E,  Other languages,370,1991
+M4G,  Chinese,75,1991
+M4G,  Italian,20,1991
+M4G,  Portuguese,15,1991
+M4G,  Spanish,10,1991
+M4G,  German,30,1991
+M4G,  Polish,10,1991
+M4G,  Punjabi,0,1991
+M4G,  Greek,75,1991
+M4G,  Vietnamese,0,1991
+M4G,  Arabic,0,1991
+M4G,  Cree,0,1991
+M4G,  Tagalog (Pilipino),15,1991
+M4G,  Ukrainian,10,1991
+M4G,  Persian (Farsi),0,1991
+M4G,  Korean,0,1991
+M4G,  Hungarian,15,1991
+M4G,  Tamil,0,1991
+M4G,  Gujarati,25,1991
+M4G,  Croatian,0,1991
+M4G,  Armenian,25,1991
+M4G,  Inuktitut,0,1991
+M4G,  Hindi,0,1991
+M4G,  Urdu,0,1991
+M4G,  Japanese,60,1991
+M4G,  Russian,0,1991
+M4G,  Creoles,0,1991
+M4G,  Dutch,10,1991
+M4G,  Khmer (Cambodian),0,1991
+M4G,  Ojibway,0,1991
+M4G,  Romanian,10,1991
+M4G,  Other languages,225,1991
+M4H,  Chinese,170,1991
+M4H,  Italian,0,1991
+M4H,  Portuguese,15,1991
+M4H,  Spanish,100,1991
+M4H,  German,25,1991
+M4H,  Polish,10,1991
+M4H,  Punjabi,0,1991
+M4H,  Greek,430,1991
+M4H,  Vietnamese,0,1991
+M4H,  Arabic,130,1991
+M4H,  Cree,0,1991
+M4H,  Tagalog (Pilipino),380,1991
+M4H,  Ukrainian,0,1991
+M4H,  Persian (Farsi),50,1991
+M4H,  Korean,10,1991
+M4H,  Hungarian,15,1991
+M4H,  Tamil,10,1991
+M4H,  Gujarati,915,1991
+M4H,  Croatian,20,1991
+M4H,  Armenian,20,1991
+M4H,  Inuktitut,0,1991
+M4H,  Hindi,70,1991
+M4H,  Urdu,230,1991
+M4H,  Japanese,10,1991
+M4H,  Russian,0,1991
+M4H,  Creoles,0,1991
+M4H,  Dutch,0,1991
+M4H,  Khmer (Cambodian),0,1991
+M4H,  Ojibway,0,1991
+M4H,  Romanian,0,1991
+M4H,  Other languages,385,1991
+M4J,  Chinese,3355,1991
+M4J,  Italian,1145,1991
+M4J,  Portuguese,200,1991
+M4J,  Spanish,355,1991
+M4J,  German,85,1991
+M4J,  Polish,60,1991
+M4J,  Punjabi,30,1991
+M4J,  Greek,2900,1991
+M4J,  Vietnamese,210,1991
+M4J,  Arabic,75,1991
+M4J,  Cree,0,1991
+M4J,  Tagalog (Pilipino),200,1991
+M4J,  Ukrainian,30,1991
+M4J,  Persian (Farsi),280,1991
+M4J,  Korean,70,1991
+M4J,  Hungarian,25,1991
+M4J,  Tamil,35,1991
+M4J,  Gujarati,225,1991
+M4J,  Croatian,35,1991
+M4J,  Armenian,0,1991
+M4J,  Inuktitut,0,1991
+M4J,  Hindi,35,1991
+M4J,  Urdu,80,1991
+M4J,  Japanese,100,1991
+M4J,  Russian,0,1991
+M4J,  Creoles,50,1991
+M4J,  Dutch,0,1991
+M4J,  Khmer (Cambodian),50,1991
+M4J,  Ojibway,0,1991
+M4J,  Romanian,20,1991
+M4J,  Other languages,820,1991
+M4K,  Chinese,2370,1991
+M4K,  Italian,275,1991
+M4K,  Portuguese,20,1991
+M4K,  Spanish,90,1991
+M4K,  German,50,1991
+M4K,  Polish,185,1991
+M4K,  Punjabi,65,1991
+M4K,  Greek,2745,1991
+M4K,  Vietnamese,85,1991
+M4K,  Arabic,40,1991
+M4K,  Cree,0,1991
+M4K,  Tagalog (Pilipino),215,1991
+M4K,  Ukrainian,90,1991
+M4K,  Persian (Farsi),195,1991
+M4K,  Korean,210,1991
+M4K,  Hungarian,40,1991
+M4K,  Tamil,225,1991
+M4K,  Gujarati,45,1991
+M4K,  Croatian,30,1991
+M4K,  Armenian,0,1991
+M4K,  Inuktitut,0,1991
+M4K,  Hindi,25,1991
+M4K,  Urdu,15,1991
+M4K,  Japanese,40,1991
+M4K,  Russian,10,1991
+M4K,  Creoles,20,1991
+M4K,  Dutch,0,1991
+M4K,  Khmer (Cambodian),0,1991
+M4K,  Ojibway,0,1991
+M4K,  Romanian,60,1991
+M4K,  Other languages,755,1991
+M4L,  Chinese,3610,1991
+M4L,  Italian,115,1991
+M4L,  Portuguese,110,1991
+M4L,  Spanish,185,1991
+M4L,  German,35,1991
+M4L,  Polish,55,1991
+M4L,  Punjabi,110,1991
+M4L,  Greek,295,1991
+M4L,  Vietnamese,110,1991
+M4L,  Arabic,40,1991
+M4L,  Cree,0,1991
+M4L,  Tagalog (Pilipino),50,1991
+M4L,  Ukrainian,10,1991
+M4L,  Persian (Farsi),70,1991
+M4L,  Korean,60,1991
+M4L,  Hungarian,20,1991
+M4L,  Tamil,0,1991
+M4L,  Gujarati,0,1991
+M4L,  Croatian,0,1991
+M4L,  Armenian,0,1991
+M4L,  Inuktitut,0,1991
+M4L,  Hindi,30,1991
+M4L,  Urdu,95,1991
+M4L,  Japanese,15,1991
+M4L,  Russian,0,1991
+M4L,  Creoles,10,1991
+M4L,  Dutch,0,1991
+M4L,  Khmer (Cambodian),70,1991
+M4L,  Ojibway,0,1991
+M4L,  Romanian,10,1991
+M4L,  Other languages,395,1991
+M4M,  Chinese,5405,1991
+M4M,  Italian,15,1991
+M4M,  Portuguese,360,1991
+M4M,  Spanish,210,1991
+M4M,  German,20,1991
+M4M,  Polish,0,1991
+M4M,  Punjabi,0,1991
+M4M,  Greek,75,1991
+M4M,  Vietnamese,780,1991
+M4M,  Arabic,0,1991
+M4M,  Cree,10,1991
+M4M,  Tagalog (Pilipino),25,1991
+M4M,  Ukrainian,10,1991
+M4M,  Persian (Farsi),20,1991
+M4M,  Korean,65,1991
+M4M,  Hungarian,0,1991
+M4M,  Tamil,0,1991
+M4M,  Gujarati,0,1991
+M4M,  Croatian,0,1991
+M4M,  Armenian,0,1991
+M4M,  Inuktitut,0,1991
+M4M,  Hindi,0,1991
+M4M,  Urdu,0,1991
+M4M,  Japanese,20,1991
+M4M,  Russian,0,1991
+M4M,  Creoles,0,1991
+M4M,  Dutch,0,1991
+M4M,  Khmer (Cambodian),35,1991
+M4M,  Ojibway,0,1991
+M4M,  Romanian,0,1991
+M4M,  Other languages,185,1991
+M4N,  Chinese,95,1991
+M4N,  Italian,45,1991
+M4N,  Portuguese,0,1991
+M4N,  Spanish,40,1991
+M4N,  German,50,1991
+M4N,  Polish,50,1991
+M4N,  Punjabi,0,1991
+M4N,  Greek,35,1991
+M4N,  Vietnamese,0,1991
+M4N,  Arabic,20,1991
+M4N,  Cree,0,1991
+M4N,  Tagalog (Pilipino),45,1991
+M4N,  Ukrainian,0,1991
+M4N,  Persian (Farsi),40,1991
+M4N,  Korean,0,1991
+M4N,  Hungarian,25,1991
+M4N,  Tamil,10,1991
+M4N,  Gujarati,10,1991
+M4N,  Croatian,30,1991
+M4N,  Armenian,0,1991
+M4N,  Inuktitut,0,1991
+M4N,  Hindi,0,1991
+M4N,  Urdu,0,1991
+M4N,  Japanese,20,1991
+M4N,  Russian,10,1991
+M4N,  Creoles,0,1991
+M4N,  Dutch,0,1991
+M4N,  Khmer (Cambodian),0,1991
+M4N,  Ojibway,0,1991
+M4N,  Romanian,10,1991
+M4N,  Other languages,180,1991
+M4P,  Chinese,190,1991
+M4P,  Italian,40,1991
+M4P,  Portuguese,55,1991
+M4P,  Spanish,60,1991
+M4P,  German,25,1991
+M4P,  Polish,65,1991
+M4P,  Punjabi,10,1991
+M4P,  Greek,40,1991
+M4P,  Vietnamese,10,1991
+M4P,  Arabic,35,1991
+M4P,  Cree,0,1991
+M4P,  Tagalog (Pilipino),40,1991
+M4P,  Ukrainian,10,1991
+M4P,  Persian (Farsi),45,1991
+M4P,  Korean,30,1991
+M4P,  Hungarian,45,1991
+M4P,  Tamil,20,1991
+M4P,  Gujarati,0,1991
+M4P,  Croatian,10,1991
+M4P,  Armenian,25,1991
+M4P,  Inuktitut,0,1991
+M4P,  Hindi,0,1991
+M4P,  Urdu,0,1991
+M4P,  Japanese,0,1991
+M4P,  Russian,15,1991
+M4P,  Creoles,10,1991
+M4P,  Dutch,0,1991
+M4P,  Khmer (Cambodian),0,1991
+M4P,  Ojibway,0,1991
+M4P,  Romanian,0,1991
+M4P,  Other languages,165,1991
+M4R,  Chinese,65,1991
+M4R,  Italian,85,1991
+M4R,  Portuguese,15,1991
+M4R,  Spanish,45,1991
+M4R,  German,35,1991
+M4R,  Polish,20,1991
+M4R,  Punjabi,0,1991
+M4R,  Greek,75,1991
+M4R,  Vietnamese,0,1991
+M4R,  Arabic,0,1991
+M4R,  Cree,0,1991
+M4R,  Tagalog (Pilipino),35,1991
+M4R,  Ukrainian,0,1991
+M4R,  Persian (Farsi),0,1991
+M4R,  Korean,45,1991
+M4R,  Hungarian,10,1991
+M4R,  Tamil,10,1991
+M4R,  Gujarati,10,1991
+M4R,  Croatian,0,1991
+M4R,  Armenian,0,1991
+M4R,  Inuktitut,0,1991
+M4R,  Hindi,0,1991
+M4R,  Urdu,20,1991
+M4R,  Japanese,40,1991
+M4R,  Russian,0,1991
+M4R,  Creoles,0,1991
+M4R,  Dutch,0,1991
+M4R,  Khmer (Cambodian),0,1991
+M4R,  Ojibway,0,1991
+M4R,  Romanian,15,1991
+M4R,  Other languages,130,1991
+M4S,  Chinese,180,1991
+M4S,  Italian,40,1991
+M4S,  Portuguese,15,1991
+M4S,  Spanish,65,1991
+M4S,  German,20,1991
+M4S,  Polish,25,1991
+M4S,  Punjabi,0,1991
+M4S,  Greek,85,1991
+M4S,  Vietnamese,0,1991
+M4S,  Arabic,60,1991
+M4S,  Cree,0,1991
+M4S,  Tagalog (Pilipino),340,1991
+M4S,  Ukrainian,15,1991
+M4S,  Persian (Farsi),175,1991
+M4S,  Korean,25,1991
+M4S,  Hungarian,100,1991
+M4S,  Tamil,10,1991
+M4S,  Gujarati,0,1991
+M4S,  Croatian,0,1991
+M4S,  Armenian,30,1991
+M4S,  Inuktitut,0,1991
+M4S,  Hindi,0,1991
+M4S,  Urdu,0,1991
+M4S,  Japanese,20,1991
+M4S,  Russian,10,1991
+M4S,  Creoles,0,1991
+M4S,  Dutch,10,1991
+M4S,  Khmer (Cambodian),0,1991
+M4S,  Ojibway,0,1991
+M4S,  Romanian,25,1991
+M4S,  Other languages,210,1991
+M4T,  Chinese,50,1991
+M4T,  Italian,0,1991
+M4T,  Portuguese,0,1991
+M4T,  Spanish,0,1991
+M4T,  German,15,1991
+M4T,  Polish,10,1991
+M4T,  Punjabi,10,1991
+M4T,  Greek,0,1991
+M4T,  Vietnamese,0,1991
+M4T,  Arabic,10,1991
+M4T,  Cree,0,1991
+M4T,  Tagalog (Pilipino),10,1991
+M4T,  Ukrainian,10,1991
+M4T,  Persian (Farsi),0,1991
+M4T,  Korean,0,1991
+M4T,  Hungarian,35,1991
+M4T,  Tamil,0,1991
+M4T,  Gujarati,0,1991
+M4T,  Croatian,0,1991
+M4T,  Armenian,0,1991
+M4T,  Inuktitut,0,1991
+M4T,  Hindi,0,1991
+M4T,  Urdu,0,1991
+M4T,  Japanese,0,1991
+M4T,  Russian,0,1991
+M4T,  Creoles,0,1991
+M4T,  Dutch,10,1991
+M4T,  Khmer (Cambodian),0,1991
+M4T,  Ojibway,0,1991
+M4T,  Romanian,10,1991
+M4T,  Other languages,110,1991
+M4V,  Chinese,50,1991
+M4V,  Italian,65,1991
+M4V,  Portuguese,0,1991
+M4V,  Spanish,55,1991
+M4V,  German,35,1991
+M4V,  Polish,30,1991
+M4V,  Punjabi,0,1991
+M4V,  Greek,15,1991
+M4V,  Vietnamese,0,1991
+M4V,  Arabic,0,1991
+M4V,  Cree,0,1991
+M4V,  Tagalog (Pilipino),30,1991
+M4V,  Ukrainian,30,1991
+M4V,  Persian (Farsi),25,1991
+M4V,  Korean,0,1991
+M4V,  Hungarian,120,1991
+M4V,  Tamil,145,1991
+M4V,  Gujarati,10,1991
+M4V,  Croatian,0,1991
+M4V,  Armenian,0,1991
+M4V,  Inuktitut,0,1991
+M4V,  Hindi,0,1991
+M4V,  Urdu,0,1991
+M4V,  Japanese,10,1991
+M4V,  Russian,0,1991
+M4V,  Creoles,0,1991
+M4V,  Dutch,25,1991
+M4V,  Khmer (Cambodian),0,1991
+M4V,  Ojibway,0,1991
+M4V,  Romanian,105,1991
+M4V,  Other languages,55,1991
+M4W,  Chinese,125,1991
+M4W,  Italian,10,1991
+M4W,  Portuguese,0,1991
+M4W,  Spanish,35,1991
+M4W,  German,20,1991
+M4W,  Polish,10,1991
+M4W,  Punjabi,15,1991
+M4W,  Greek,0,1991
+M4W,  Vietnamese,0,1991
+M4W,  Arabic,75,1991
+M4W,  Cree,0,1991
+M4W,  Tagalog (Pilipino),25,1991
+M4W,  Ukrainian,0,1991
+M4W,  Persian (Farsi),0,1991
+M4W,  Korean,15,1991
+M4W,  Hungarian,0,1991
+M4W,  Tamil,0,1991
+M4W,  Gujarati,0,1991
+M4W,  Croatian,0,1991
+M4W,  Armenian,0,1991
+M4W,  Inuktitut,0,1991
+M4W,  Hindi,0,1991
+M4W,  Urdu,0,1991
+M4W,  Japanese,0,1991
+M4W,  Russian,10,1991
+M4W,  Creoles,0,1991
+M4W,  Dutch,0,1991
+M4W,  Khmer (Cambodian),0,1991
+M4W,  Ojibway,0,1991
+M4W,  Romanian,0,1991
+M4W,  Other languages,70,1991
+M4X,  Chinese,1150,1991
+M4X,  Italian,10,1991
+M4X,  Portuguese,55,1991
+M4X,  Spanish,370,1991
+M4X,  German,10,1991
+M4X,  Polish,140,1991
+M4X,  Punjabi,90,1991
+M4X,  Greek,100,1991
+M4X,  Vietnamese,140,1991
+M4X,  Arabic,10,1991
+M4X,  Cree,0,1991
+M4X,  Tagalog (Pilipino),1130,1991
+M4X,  Ukrainian,20,1991
+M4X,  Persian (Farsi),100,1991
+M4X,  Korean,405,1991
+M4X,  Hungarian,45,1991
+M4X,  Tamil,1420,1991
+M4X,  Gujarati,30,1991
+M4X,  Croatian,10,1991
+M4X,  Armenian,20,1991
+M4X,  Inuktitut,0,1991
+M4X,  Hindi,10,1991
+M4X,  Urdu,115,1991
+M4X,  Japanese,20,1991
+M4X,  Russian,0,1991
+M4X,  Creoles,10,1991
+M4X,  Dutch,0,1991
+M4X,  Khmer (Cambodian),25,1991
+M4X,  Ojibway,0,1991
+M4X,  Romanian,115,1991
+M4X,  Other languages,560,1991
+M4Y,  Chinese,1100,1991
+M4Y,  Italian,60,1991
+M4Y,  Portuguese,100,1991
+M4Y,  Spanish,155,1991
+M4Y,  German,40,1991
+M4Y,  Polish,135,1991
+M4Y,  Punjabi,0,1991
+M4Y,  Greek,10,1991
+M4Y,  Vietnamese,25,1991
+M4Y,  Arabic,45,1991
+M4Y,  Cree,0,1991
+M4Y,  Tagalog (Pilipino),105,1991
+M4Y,  Ukrainian,25,1991
+M4Y,  Persian (Farsi),50,1991
+M4Y,  Korean,100,1991
+M4Y,  Hungarian,35,1991
+M4Y,  Tamil,245,1991
+M4Y,  Gujarati,0,1991
+M4Y,  Croatian,35,1991
+M4Y,  Armenian,30,1991
+M4Y,  Inuktitut,0,1991
+M4Y,  Hindi,10,1991
+M4Y,  Urdu,10,1991
+M4Y,  Japanese,40,1991
+M4Y,  Russian,30,1991
+M4Y,  Creoles,10,1991
+M4Y,  Dutch,10,1991
+M4Y,  Khmer (Cambodian),0,1991
+M4Y,  Ojibway,0,1991
+M4Y,  Romanian,35,1991
+M4Y,  Other languages,325,1991
+M5A,  Chinese,2495,1991
+M5A,  Italian,30,1991
+M5A,  Portuguese,115,1991
+M5A,  Spanish,530,1991
+M5A,  German,35,1991
+M5A,  Polish,80,1991
+M5A,  Punjabi,10,1991
+M5A,  Greek,55,1991
+M5A,  Vietnamese,1110,1991
+M5A,  Arabic,40,1991
+M5A,  Cree,0,1991
+M5A,  Tagalog (Pilipino),100,1991
+M5A,  Ukrainian,15,1991
+M5A,  Persian (Farsi),215,1991
+M5A,  Korean,250,1991
+M5A,  Hungarian,60,1991
+M5A,  Tamil,40,1991
+M5A,  Gujarati,25,1991
+M5A,  Croatian,10,1991
+M5A,  Armenian,0,1991
+M5A,  Inuktitut,0,1991
+M5A,  Hindi,25,1991
+M5A,  Urdu,35,1991
+M5A,  Japanese,50,1991
+M5A,  Russian,65,1991
+M5A,  Creoles,0,1991
+M5A,  Dutch,0,1991
+M5A,  Khmer (Cambodian),10,1991
+M5A,  Ojibway,15,1991
+M5A,  Romanian,25,1991
+M5A,  Other languages,780,1991
+M5B,  Chinese,490,1991
+M5B,  Italian,10,1991
+M5B,  Portuguese,0,1991
+M5B,  Spanish,85,1991
+M5B,  German,0,1991
+M5B,  Polish,0,1991
+M5B,  Punjabi,0,1991
+M5B,  Greek,0,1991
+M5B,  Vietnamese,10,1991
+M5B,  Arabic,30,1991
+M5B,  Cree,0,1991
+M5B,  Tagalog (Pilipino),0,1991
+M5B,  Ukrainian,15,1991
+M5B,  Persian (Farsi),65,1991
+M5B,  Korean,50,1991
+M5B,  Hungarian,10,1991
+M5B,  Tamil,0,1991
+M5B,  Gujarati,0,1991
+M5B,  Croatian,0,1991
+M5B,  Armenian,10,1991
+M5B,  Inuktitut,0,1991
+M5B,  Hindi,10,1991
+M5B,  Urdu,15,1991
+M5B,  Japanese,10,1991
+M5B,  Russian,0,1991
+M5B,  Creoles,0,1991
+M5B,  Dutch,0,1991
+M5B,  Khmer (Cambodian),0,1991
+M5B,  Ojibway,0,1991
+M5B,  Romanian,0,1991
+M5B,  Other languages,55,1991
+M5C,  Chinese,0,1991
+M5C,  Italian,0,1991
+M5C,  Portuguese,0,1991
+M5C,  Spanish,0,1991
+M5C,  German,0,1991
+M5C,  Polish,0,1991
+M5C,  Punjabi,0,1991
+M5C,  Greek,0,1991
+M5C,  Vietnamese,0,1991
+M5C,  Arabic,0,1991
+M5C,  Cree,0,1991
+M5C,  Tagalog (Pilipino),0,1991
+M5C,  Ukrainian,0,1991
+M5C,  Persian (Farsi),0,1991
+M5C,  Korean,20,1991
+M5C,  Hungarian,0,1991
+M5C,  Tamil,0,1991
+M5C,  Gujarati,0,1991
+M5C,  Croatian,0,1991
+M5C,  Armenian,25,1991
+M5C,  Inuktitut,0,1991
+M5C,  Hindi,0,1991
+M5C,  Urdu,0,1991
+M5C,  Japanese,0,1991
+M5C,  Russian,0,1991
+M5C,  Creoles,0,1991
+M5C,  Dutch,0,1991
+M5C,  Khmer (Cambodian),0,1991
+M5C,  Ojibway,0,1991
+M5C,  Romanian,0,1991
+M5C,  Other languages,40,1991
+M5E,  Chinese,80,1991
+M5E,  Italian,25,1991
+M5E,  Portuguese,0,1991
+M5E,  Spanish,0,1991
+M5E,  German,0,1991
+M5E,  Polish,10,1991
+M5E,  Punjabi,0,1991
+M5E,  Greek,0,1991
+M5E,  Vietnamese,0,1991
+M5E,  Arabic,40,1991
+M5E,  Cree,0,1991
+M5E,  Tagalog (Pilipino),20,1991
+M5E,  Ukrainian,0,1991
+M5E,  Persian (Farsi),0,1991
+M5E,  Korean,15,1991
+M5E,  Hungarian,20,1991
+M5E,  Tamil,0,1991
+M5E,  Gujarati,0,1991
+M5E,  Croatian,0,1991
+M5E,  Armenian,0,1991
+M5E,  Inuktitut,0,1991
+M5E,  Hindi,0,1991
+M5E,  Urdu,30,1991
+M5E,  Japanese,0,1991
+M5E,  Russian,0,1991
+M5E,  Creoles,0,1991
+M5E,  Dutch,0,1991
+M5E,  Khmer (Cambodian),0,1991
+M5E,  Ojibway,0,1991
+M5E,  Romanian,10,1991
+M5E,  Other languages,60,1991
+M5G,  Chinese,475,1991
+M5G,  Italian,10,1991
+M5G,  Portuguese,10,1991
+M5G,  Spanish,35,1991
+M5G,  German,0,1991
+M5G,  Polish,0,1991
+M5G,  Punjabi,0,1991
+M5G,  Greek,10,1991
+M5G,  Vietnamese,30,1991
+M5G,  Arabic,0,1991
+M5G,  Cree,0,1991
+M5G,  Tagalog (Pilipino),0,1991
+M5G,  Ukrainian,0,1991
+M5G,  Persian (Farsi),10,1991
+M5G,  Korean,30,1991
+M5G,  Hungarian,0,1991
+M5G,  Tamil,0,1991
+M5G,  Gujarati,0,1991
+M5G,  Croatian,0,1991
+M5G,  Armenian,0,1991
+M5G,  Inuktitut,0,1991
+M5G,  Hindi,0,1991
+M5G,  Urdu,20,1991
+M5G,  Japanese,40,1991
+M5G,  Russian,15,1991
+M5G,  Creoles,0,1991
+M5G,  Dutch,0,1991
+M5G,  Khmer (Cambodian),0,1991
+M5G,  Ojibway,0,1991
+M5G,  Romanian,0,1991
+M5G,  Other languages,85,1991
+M5H,  Chinese,15,1991
+M5H,  Italian,25,1991
+M5H,  Portuguese,25,1991
+M5H,  Spanish,0,1991
+M5H,  German,0,1991
+M5H,  Polish,0,1991
+M5H,  Punjabi,0,1991
+M5H,  Greek,0,1991
+M5H,  Vietnamese,0,1991
+M5H,  Arabic,0,1991
+M5H,  Cree,0,1991
+M5H,  Tagalog (Pilipino),0,1991
+M5H,  Ukrainian,0,1991
+M5H,  Persian (Farsi),0,1991
+M5H,  Korean,0,1991
+M5H,  Hungarian,0,1991
+M5H,  Tamil,0,1991
+M5H,  Gujarati,60,1991
+M5H,  Croatian,0,1991
+M5H,  Armenian,0,1991
+M5H,  Inuktitut,0,1991
+M5H,  Hindi,0,1991
+M5H,  Urdu,0,1991
+M5H,  Japanese,0,1991
+M5H,  Russian,0,1991
+M5H,  Creoles,0,1991
+M5H,  Dutch,0,1991
+M5H,  Khmer (Cambodian),0,1991
+M5H,  Ojibway,0,1991
+M5H,  Romanian,0,1991
+M5H,  Other languages,0,1991
+M5J,  Chinese,315,1991
+M5J,  Italian,0,1991
+M5J,  Portuguese,0,1991
+M5J,  Spanish,0,1991
+M5J,  German,35,1991
+M5J,  Polish,25,1991
+M5J,  Punjabi,10,1991
+M5J,  Greek,35,1991
+M5J,  Vietnamese,0,1991
+M5J,  Arabic,125,1991
+M5J,  Cree,0,1991
+M5J,  Tagalog (Pilipino),0,1991
+M5J,  Ukrainian,0,1991
+M5J,  Persian (Farsi),0,1991
+M5J,  Korean,10,1991
+M5J,  Hungarian,0,1991
+M5J,  Tamil,0,1991
+M5J,  Gujarati,0,1991
+M5J,  Croatian,0,1991
+M5J,  Armenian,0,1991
+M5J,  Inuktitut,0,1991
+M5J,  Hindi,0,1991
+M5J,  Urdu,0,1991
+M5J,  Japanese,30,1991
+M5J,  Russian,0,1991
+M5J,  Creoles,0,1991
+M5J,  Dutch,0,1991
+M5J,  Khmer (Cambodian),0,1991
+M5J,  Ojibway,0,1991
+M5J,  Romanian,0,1991
+M5J,  Other languages,15,1991
+M5L,  Chinese,0,1991
+M5L,  Italian,0,1991
+M5L,  Portuguese,0,1991
+M5L,  Spanish,0,1991
+M5L,  German,0,1991
+M5L,  Polish,0,1991
+M5L,  Punjabi,60,1991
+M5L,  Greek,0,1991
+M5L,  Vietnamese,0,1991
+M5L,  Arabic,0,1991
+M5L,  Cree,0,1991
+M5L,  Tagalog (Pilipino),0,1991
+M5L,  Ukrainian,0,1991
+M5L,  Persian (Farsi),0,1991
+M5L,  Korean,0,1991
+M5L,  Hungarian,0,1991
+M5L,  Tamil,0,1991
+M5L,  Gujarati,0,1991
+M5L,  Croatian,0,1991
+M5L,  Armenian,0,1991
+M5L,  Inuktitut,0,1991
+M5L,  Hindi,0,1991
+M5L,  Urdu,0,1991
+M5L,  Japanese,0,1991
+M5L,  Russian,0,1991
+M5L,  Creoles,0,1991
+M5L,  Dutch,0,1991
+M5L,  Khmer (Cambodian),0,1991
+M5L,  Ojibway,0,1991
+M5L,  Romanian,0,1991
+M5L,  Other languages,0,1991
+M5M,  Chinese,280,1991
+M5M,  Italian,125,1991
+M5M,  Portuguese,45,1991
+M5M,  Spanish,90,1991
+M5M,  German,70,1991
+M5M,  Polish,65,1991
+M5M,  Punjabi,0,1991
+M5M,  Greek,140,1991
+M5M,  Vietnamese,0,1991
+M5M,  Arabic,20,1991
+M5M,  Cree,0,1991
+M5M,  Tagalog (Pilipino),20,1991
+M5M,  Ukrainian,60,1991
+M5M,  Persian (Farsi),0,1991
+M5M,  Korean,10,1991
+M5M,  Hungarian,90,1991
+M5M,  Tamil,0,1991
+M5M,  Gujarati,0,1991
+M5M,  Croatian,20,1991
+M5M,  Armenian,165,1991
+M5M,  Inuktitut,0,1991
+M5M,  Hindi,0,1991
+M5M,  Urdu,0,1991
+M5M,  Japanese,20,1991
+M5M,  Russian,0,1991
+M5M,  Creoles,0,1991
+M5M,  Dutch,10,1991
+M5M,  Khmer (Cambodian),0,1991
+M5M,  Ojibway,0,1991
+M5M,  Romanian,0,1991
+M5M,  Other languages,375,1991
+M5N,  Chinese,80,1991
+M5N,  Italian,35,1991
+M5N,  Portuguese,0,1991
+M5N,  Spanish,160,1991
+M5N,  German,10,1991
+M5N,  Polish,25,1991
+M5N,  Punjabi,0,1991
+M5N,  Greek,15,1991
+M5N,  Vietnamese,0,1991
+M5N,  Arabic,0,1991
+M5N,  Cree,0,1991
+M5N,  Tagalog (Pilipino),65,1991
+M5N,  Ukrainian,30,1991
+M5N,  Persian (Farsi),15,1991
+M5N,  Korean,10,1991
+M5N,  Hungarian,155,1991
+M5N,  Tamil,20,1991
+M5N,  Gujarati,20,1991
+M5N,  Croatian,15,1991
+M5N,  Armenian,30,1991
+M5N,  Inuktitut,0,1991
+M5N,  Hindi,0,1991
+M5N,  Urdu,0,1991
+M5N,  Japanese,0,1991
+M5N,  Russian,50,1991
+M5N,  Creoles,0,1991
+M5N,  Dutch,0,1991
+M5N,  Khmer (Cambodian),0,1991
+M5N,  Ojibway,0,1991
+M5N,  Romanian,20,1991
+M5N,  Other languages,130,1991
+M5P,  Chinese,130,1991
+M5P,  Italian,10,1991
+M5P,  Portuguese,15,1991
+M5P,  Spanish,105,1991
+M5P,  German,35,1991
+M5P,  Polish,20,1991
+M5P,  Punjabi,0,1991
+M5P,  Greek,15,1991
+M5P,  Vietnamese,0,1991
+M5P,  Arabic,20,1991
+M5P,  Cree,0,1991
+M5P,  Tagalog (Pilipino),115,1991
+M5P,  Ukrainian,15,1991
+M5P,  Persian (Farsi),10,1991
+M5P,  Korean,40,1991
+M5P,  Hungarian,70,1991
+M5P,  Tamil,0,1991
+M5P,  Gujarati,0,1991
+M5P,  Croatian,55,1991
+M5P,  Armenian,15,1991
+M5P,  Inuktitut,0,1991
+M5P,  Hindi,0,1991
+M5P,  Urdu,0,1991
+M5P,  Japanese,10,1991
+M5P,  Russian,0,1991
+M5P,  Creoles,0,1991
+M5P,  Dutch,0,1991
+M5P,  Khmer (Cambodian),0,1991
+M5P,  Ojibway,0,1991
+M5P,  Romanian,10,1991
+M5P,  Other languages,70,1991
+M5R,  Chinese,700,1991
+M5R,  Italian,70,1991
+M5R,  Portuguese,65,1991
+M5R,  Spanish,265,1991
+M5R,  German,95,1991
+M5R,  Polish,185,1991
+M5R,  Punjabi,10,1991
+M5R,  Greek,115,1991
+M5R,  Vietnamese,0,1991
+M5R,  Arabic,55,1991
+M5R,  Cree,0,1991
+M5R,  Tagalog (Pilipino),10,1991
+M5R,  Ukrainian,150,1991
+M5R,  Persian (Farsi),35,1991
+M5R,  Korean,185,1991
+M5R,  Hungarian,170,1991
+M5R,  Tamil,10,1991
+M5R,  Gujarati,10,1991
+M5R,  Croatian,0,1991
+M5R,  Armenian,0,1991
+M5R,  Inuktitut,0,1991
+M5R,  Hindi,0,1991
+M5R,  Urdu,10,1991
+M5R,  Japanese,25,1991
+M5R,  Russian,15,1991
+M5R,  Creoles,0,1991
+M5R,  Dutch,10,1991
+M5R,  Khmer (Cambodian),0,1991
+M5R,  Ojibway,0,1991
+M5R,  Romanian,0,1991
+M5R,  Other languages,310,1991
+M5S,  Chinese,1025,1991
+M5S,  Italian,90,1991
+M5S,  Portuguese,575,1991
+M5S,  Spanish,145,1991
+M5S,  German,15,1991
+M5S,  Polish,10,1991
+M5S,  Punjabi,0,1991
+M5S,  Greek,25,1991
+M5S,  Vietnamese,70,1991
+M5S,  Arabic,75,1991
+M5S,  Cree,0,1991
+M5S,  Tagalog (Pilipino),20,1991
+M5S,  Ukrainian,40,1991
+M5S,  Persian (Farsi),80,1991
+M5S,  Korean,10,1991
+M5S,  Hungarian,45,1991
+M5S,  Tamil,0,1991
+M5S,  Gujarati,10,1991
+M5S,  Croatian,0,1991
+M5S,  Armenian,0,1991
+M5S,  Inuktitut,0,1991
+M5S,  Hindi,10,1991
+M5S,  Urdu,0,1991
+M5S,  Japanese,35,1991
+M5S,  Russian,10,1991
+M5S,  Creoles,0,1991
+M5S,  Dutch,0,1991
+M5S,  Khmer (Cambodian),0,1991
+M5S,  Ojibway,0,1991
+M5S,  Romanian,0,1991
+M5S,  Other languages,230,1991
+M5T,  Chinese,5465,1991
+M5T,  Italian,0,1991
+M5T,  Portuguese,700,1991
+M5T,  Spanish,320,1991
+M5T,  German,0,1991
+M5T,  Polish,75,1991
+M5T,  Punjabi,15,1991
+M5T,  Greek,75,1991
+M5T,  Vietnamese,515,1991
+M5T,  Arabic,50,1991
+M5T,  Cree,0,1991
+M5T,  Tagalog (Pilipino),50,1991
+M5T,  Ukrainian,45,1991
+M5T,  Persian (Farsi),45,1991
+M5T,  Korean,60,1991
+M5T,  Hungarian,0,1991
+M5T,  Tamil,0,1991
+M5T,  Gujarati,0,1991
+M5T,  Croatian,30,1991
+M5T,  Armenian,0,1991
+M5T,  Inuktitut,0,1991
+M5T,  Hindi,0,1991
+M5T,  Urdu,0,1991
+M5T,  Japanese,35,1991
+M5T,  Russian,0,1991
+M5T,  Creoles,50,1991
+M5T,  Dutch,0,1991
+M5T,  Khmer (Cambodian),0,1991
+M5T,  Ojibway,0,1991
+M5T,  Romanian,0,1991
+M5T,  Other languages,290,1991
+M5V,  Chinese,285,1991
+M5V,  Italian,10,1991
+M5V,  Portuguese,170,1991
+M5V,  Spanish,150,1991
+M5V,  German,0,1991
+M5V,  Polish,25,1991
+M5V,  Punjabi,0,1991
+M5V,  Greek,0,1991
+M5V,  Vietnamese,0,1991
+M5V,  Arabic,10,1991
+M5V,  Cree,0,1991
+M5V,  Tagalog (Pilipino),20,1991
+M5V,  Ukrainian,0,1991
+M5V,  Persian (Farsi),40,1991
+M5V,  Korean,10,1991
+M5V,  Hungarian,0,1991
+M5V,  Tamil,0,1991
+M5V,  Gujarati,0,1991
+M5V,  Croatian,0,1991
+M5V,  Armenian,0,1991
+M5V,  Inuktitut,0,1991
+M5V,  Hindi,0,1991
+M5V,  Urdu,0,1991
+M5V,  Japanese,0,1991
+M5V,  Russian,15,1991
+M5V,  Creoles,0,1991
+M5V,  Dutch,0,1991
+M5V,  Khmer (Cambodian),0,1991
+M5V,  Ojibway,0,1991
+M5V,  Romanian,0,1991
+M5V,  Other languages,80,1991
+M5W,  Chinese,20,1991
+M5W,  Italian,0,1991
+M5W,  Portuguese,0,1991
+M5W,  Spanish,0,1991
+M5W,  German,0,1991
+M5W,  Polish,0,1991
+M5W,  Punjabi,0,1991
+M5W,  Greek,0,1991
+M5W,  Vietnamese,0,1991
+M5W,  Arabic,0,1991
+M5W,  Cree,0,1991
+M5W,  Tagalog (Pilipino),0,1991
+M5W,  Ukrainian,0,1991
+M5W,  Persian (Farsi),0,1991
+M5W,  Korean,0,1991
+M5W,  Hungarian,0,1991
+M5W,  Tamil,0,1991
+M5W,  Gujarati,0,1991
+M5W,  Croatian,0,1991
+M5W,  Armenian,0,1991
+M5W,  Inuktitut,0,1991
+M5W,  Hindi,0,1991
+M5W,  Urdu,0,1991
+M5W,  Japanese,0,1991
+M5W,  Russian,0,1991
+M5W,  Creoles,0,1991
+M5W,  Dutch,0,1991
+M5W,  Khmer (Cambodian),0,1991
+M5W,  Ojibway,0,1991
+M5W,  Romanian,0,1991
+M5W,  Other languages,0,1991
+M6A,  Chinese,160,1991
+M6A,  Italian,1170,1991
+M6A,  Portuguese,65,1991
+M6A,  Spanish,275,1991
+M6A,  German,15,1991
+M6A,  Polish,100,1991
+M6A,  Punjabi,0,1991
+M6A,  Greek,125,1991
+M6A,  Vietnamese,190,1991
+M6A,  Arabic,45,1991
+M6A,  Cree,0,1991
+M6A,  Tagalog (Pilipino),225,1991
+M6A,  Ukrainian,10,1991
+M6A,  Persian (Farsi),175,1991
+M6A,  Korean,0,1991
+M6A,  Hungarian,160,1991
+M6A,  Tamil,0,1991
+M6A,  Gujarati,0,1991
+M6A,  Croatian,0,1991
+M6A,  Armenian,35,1991
+M6A,  Inuktitut,0,1991
+M6A,  Hindi,10,1991
+M6A,  Urdu,10,1991
+M6A,  Japanese,25,1991
+M6A,  Russian,50,1991
+M6A,  Creoles,0,1991
+M6A,  Dutch,0,1991
+M6A,  Khmer (Cambodian),0,1991
+M6A,  Ojibway,0,1991
+M6A,  Romanian,40,1991
+M6A,  Other languages,365,1991
+M6B,  Chinese,815,1991
+M6B,  Italian,2425,1991
+M6B,  Portuguese,375,1991
+M6B,  Spanish,535,1991
+M6B,  German,75,1991
+M6B,  Polish,115,1991
+M6B,  Punjabi,95,1991
+M6B,  Greek,325,1991
+M6B,  Vietnamese,220,1991
+M6B,  Arabic,10,1991
+M6B,  Cree,0,1991
+M6B,  Tagalog (Pilipino),225,1991
+M6B,  Ukrainian,20,1991
+M6B,  Persian (Farsi),85,1991
+M6B,  Korean,40,1991
+M6B,  Hungarian,380,1991
+M6B,  Tamil,175,1991
+M6B,  Gujarati,15,1991
+M6B,  Croatian,85,1991
+M6B,  Armenian,30,1991
+M6B,  Inuktitut,0,1991
+M6B,  Hindi,15,1991
+M6B,  Urdu,10,1991
+M6B,  Japanese,10,1991
+M6B,  Russian,70,1991
+M6B,  Creoles,0,1991
+M6B,  Dutch,0,1991
+M6B,  Khmer (Cambodian),0,1991
+M6B,  Ojibway,0,1991
+M6B,  Romanian,50,1991
+M6B,  Other languages,825,1991
+M6C,  Chinese,335,1991
+M6C,  Italian,1355,1991
+M6C,  Portuguese,855,1991
+M6C,  Spanish,430,1991
+M6C,  German,10,1991
+M6C,  Polish,70,1991
+M6C,  Punjabi,0,1991
+M6C,  Greek,650,1991
+M6C,  Vietnamese,155,1991
+M6C,  Arabic,30,1991
+M6C,  Cree,0,1991
+M6C,  Tagalog (Pilipino),240,1991
+M6C,  Ukrainian,80,1991
+M6C,  Persian (Farsi),70,1991
+M6C,  Korean,80,1991
+M6C,  Hungarian,295,1991
+M6C,  Tamil,0,1991
+M6C,  Gujarati,0,1991
+M6C,  Croatian,10,1991
+M6C,  Armenian,15,1991
+M6C,  Inuktitut,0,1991
+M6C,  Hindi,0,1991
+M6C,  Urdu,0,1991
+M6C,  Japanese,20,1991
+M6C,  Russian,25,1991
+M6C,  Creoles,0,1991
+M6C,  Dutch,0,1991
+M6C,  Khmer (Cambodian),0,1991
+M6C,  Ojibway,20,1991
+M6C,  Romanian,25,1991
+M6C,  Other languages,315,1991
+M6E,  Chinese,500,1991
+M6E,  Italian,6830,1991
+M6E,  Portuguese,4345,1991
+M6E,  Spanish,2225,1991
+M6E,  German,65,1991
+M6E,  Polish,205,1991
+M6E,  Punjabi,115,1991
+M6E,  Greek,440,1991
+M6E,  Vietnamese,290,1991
+M6E,  Arabic,10,1991
+M6E,  Cree,0,1991
+M6E,  Tagalog (Pilipino),130,1991
+M6E,  Ukrainian,30,1991
+M6E,  Persian (Farsi),15,1991
+M6E,  Korean,70,1991
+M6E,  Hungarian,60,1991
+M6E,  Tamil,65,1991
+M6E,  Gujarati,30,1991
+M6E,  Croatian,15,1991
+M6E,  Armenian,0,1991
+M6E,  Inuktitut,0,1991
+M6E,  Hindi,15,1991
+M6E,  Urdu,30,1991
+M6E,  Japanese,45,1991
+M6E,  Russian,15,1991
+M6E,  Creoles,0,1991
+M6E,  Dutch,0,1991
+M6E,  Khmer (Cambodian),25,1991
+M6E,  Ojibway,20,1991
+M6E,  Romanian,20,1991
+M6E,  Other languages,625,1991
+M6G,  Chinese,2730,1991
+M6G,  Italian,2440,1991
+M6G,  Portuguese,4790,1991
+M6G,  Spanish,1150,1991
+M6G,  German,30,1991
+M6G,  Polish,115,1991
+M6G,  Punjabi,50,1991
+M6G,  Greek,890,1991
+M6G,  Vietnamese,540,1991
+M6G,  Arabic,0,1991
+M6G,  Cree,0,1991
+M6G,  Tagalog (Pilipino),130,1991
+M6G,  Ukrainian,195,1991
+M6G,  Persian (Farsi),60,1991
+M6G,  Korean,90,1991
+M6G,  Hungarian,140,1991
+M6G,  Tamil,20,1991
+M6G,  Gujarati,0,1991
+M6G,  Croatian,0,1991
+M6G,  Armenian,10,1991
+M6G,  Inuktitut,0,1991
+M6G,  Hindi,15,1991
+M6G,  Urdu,60,1991
+M6G,  Japanese,60,1991
+M6G,  Russian,25,1991
+M6G,  Creoles,10,1991
+M6G,  Dutch,0,1991
+M6G,  Khmer (Cambodian),0,1991
+M6G,  Ojibway,0,1991
+M6G,  Romanian,15,1991
+M6G,  Other languages,350,1991
+M6H,  Chinese,1840,1991
+M6H,  Italian,2960,1991
+M6H,  Portuguese,11375,1991
+M6H,  Spanish,1670,1991
+M6H,  German,55,1991
+M6H,  Polish,270,1991
+M6H,  Punjabi,235,1991
+M6H,  Greek,645,1991
+M6H,  Vietnamese,825,1991
+M6H,  Arabic,10,1991
+M6H,  Cree,0,1991
+M6H,  Tagalog (Pilipino),110,1991
+M6H,  Ukrainian,260,1991
+M6H,  Persian (Farsi),95,1991
+M6H,  Korean,90,1991
+M6H,  Hungarian,80,1991
+M6H,  Tamil,605,1991
+M6H,  Gujarati,240,1991
+M6H,  Croatian,70,1991
+M6H,  Armenian,0,1991
+M6H,  Inuktitut,0,1991
+M6H,  Hindi,55,1991
+M6H,  Urdu,200,1991
+M6H,  Japanese,15,1991
+M6H,  Russian,30,1991
+M6H,  Creoles,25,1991
+M6H,  Dutch,0,1991
+M6H,  Khmer (Cambodian),0,1991
+M6H,  Ojibway,0,1991
+M6H,  Romanian,0,1991
+M6H,  Other languages,805,1991
+M6J,  Chinese,2945,1991
+M6J,  Italian,950,1991
+M6J,  Portuguese,9965,1991
+M6J,  Spanish,770,1991
+M6J,  German,20,1991
+M6J,  Polish,370,1991
+M6J,  Punjabi,20,1991
+M6J,  Greek,45,1991
+M6J,  Vietnamese,600,1991
+M6J,  Arabic,60,1991
+M6J,  Cree,0,1991
+M6J,  Tagalog (Pilipino),50,1991
+M6J,  Ukrainian,250,1991
+M6J,  Persian (Farsi),25,1991
+M6J,  Korean,30,1991
+M6J,  Hungarian,10,1991
+M6J,  Tamil,30,1991
+M6J,  Gujarati,0,1991
+M6J,  Croatian,0,1991
+M6J,  Armenian,10,1991
+M6J,  Inuktitut,0,1991
+M6J,  Hindi,20,1991
+M6J,  Urdu,20,1991
+M6J,  Japanese,15,1991
+M6J,  Russian,15,1991
+M6J,  Creoles,0,1991
+M6J,  Dutch,0,1991
+M6J,  Khmer (Cambodian),0,1991
+M6J,  Ojibway,0,1991
+M6J,  Romanian,0,1991
+M6J,  Other languages,310,1991
+M6K,  Chinese,1855,1991
+M6K,  Italian,105,1991
+M6K,  Portuguese,3800,1991
+M6K,  Spanish,520,1991
+M6K,  German,40,1991
+M6K,  Polish,1395,1991
+M6K,  Punjabi,110,1991
+M6K,  Greek,75,1991
+M6K,  Vietnamese,1320,1991
+M6K,  Arabic,150,1991
+M6K,  Cree,0,1991
+M6K,  Tagalog (Pilipino),480,1991
+M6K,  Ukrainian,130,1991
+M6K,  Persian (Farsi),130,1991
+M6K,  Korean,105,1991
+M6K,  Hungarian,50,1991
+M6K,  Tamil,670,1991
+M6K,  Gujarati,120,1991
+M6K,  Croatian,45,1991
+M6K,  Armenian,0,1991
+M6K,  Inuktitut,0,1991
+M6K,  Hindi,45,1991
+M6K,  Urdu,30,1991
+M6K,  Japanese,40,1991
+M6K,  Russian,40,1991
+M6K,  Creoles,0,1991
+M6K,  Dutch,0,1991
+M6K,  Khmer (Cambodian),15,1991
+M6K,  Ojibway,0,1991
+M6K,  Romanian,30,1991
+M6K,  Other languages,1000,1991
+M6L,  Chinese,245,1991
+M6L,  Italian,4065,1991
+M6L,  Portuguese,180,1991
+M6L,  Spanish,895,1991
+M6L,  German,65,1991
+M6L,  Polish,110,1991
+M6L,  Punjabi,190,1991
+M6L,  Greek,35,1991
+M6L,  Vietnamese,255,1991
+M6L,  Arabic,85,1991
+M6L,  Cree,0,1991
+M6L,  Tagalog (Pilipino),45,1991
+M6L,  Ukrainian,65,1991
+M6L,  Persian (Farsi),60,1991
+M6L,  Korean,25,1991
+M6L,  Hungarian,0,1991
+M6L,  Tamil,130,1991
+M6L,  Gujarati,110,1991
+M6L,  Croatian,55,1991
+M6L,  Armenian,75,1991
+M6L,  Inuktitut,0,1991
+M6L,  Hindi,215,1991
+M6L,  Urdu,315,1991
+M6L,  Japanese,0,1991
+M6L,  Russian,10,1991
+M6L,  Creoles,0,1991
+M6L,  Dutch,0,1991
+M6L,  Khmer (Cambodian),10,1991
+M6L,  Ojibway,0,1991
+M6L,  Romanian,0,1991
+M6L,  Other languages,405,1991
+M6M,  Chinese,460,1991
+M6M,  Italian,2635,1991
+M6M,  Portuguese,1145,1991
+M6M,  Spanish,1340,1991
+M6M,  German,75,1991
+M6M,  Polish,475,1991
+M6M,  Punjabi,180,1991
+M6M,  Greek,215,1991
+M6M,  Vietnamese,305,1991
+M6M,  Arabic,125,1991
+M6M,  Cree,0,1991
+M6M,  Tagalog (Pilipino),155,1991
+M6M,  Ukrainian,65,1991
+M6M,  Persian (Farsi),90,1991
+M6M,  Korean,170,1991
+M6M,  Hungarian,120,1991
+M6M,  Tamil,95,1991
+M6M,  Gujarati,55,1991
+M6M,  Croatian,85,1991
+M6M,  Armenian,55,1991
+M6M,  Inuktitut,0,1991
+M6M,  Hindi,105,1991
+M6M,  Urdu,75,1991
+M6M,  Japanese,15,1991
+M6M,  Russian,0,1991
+M6M,  Creoles,0,1991
+M6M,  Dutch,10,1991
+M6M,  Khmer (Cambodian),0,1991
+M6M,  Ojibway,0,1991
+M6M,  Romanian,25,1991
+M6M,  Other languages,1155,1991
+M6N,  Chinese,745,1991
+M6N,  Italian,2560,1991
+M6N,  Portuguese,3240,1991
+M6N,  Spanish,1700,1991
+M6N,  German,75,1991
+M6N,  Polish,605,1991
+M6N,  Punjabi,235,1991
+M6N,  Greek,555,1991
+M6N,  Vietnamese,860,1991
+M6N,  Arabic,125,1991
+M6N,  Cree,0,1991
+M6N,  Tagalog (Pilipino),115,1991
+M6N,  Ukrainian,190,1991
+M6N,  Persian (Farsi),65,1991
+M6N,  Korean,185,1991
+M6N,  Hungarian,95,1991
+M6N,  Tamil,60,1991
+M6N,  Gujarati,35,1991
+M6N,  Croatian,220,1991
+M6N,  Armenian,0,1991
+M6N,  Inuktitut,0,1991
+M6N,  Hindi,50,1991
+M6N,  Urdu,80,1991
+M6N,  Japanese,30,1991
+M6N,  Russian,0,1991
+M6N,  Creoles,10,1991
+M6N,  Dutch,0,1991
+M6N,  Khmer (Cambodian),220,1991
+M6N,  Ojibway,0,1991
+M6N,  Romanian,30,1991
+M6N,  Other languages,1115,1991
+M6P,  Chinese,565,1991
+M6P,  Italian,415,1991
+M6P,  Portuguese,1580,1991
+M6P,  Spanish,645,1991
+M6P,  German,70,1991
+M6P,  Polish,1720,1991
+M6P,  Punjabi,185,1991
+M6P,  Greek,310,1991
+M6P,  Vietnamese,375,1991
+M6P,  Arabic,30,1991
+M6P,  Cree,0,1991
+M6P,  Tagalog (Pilipino),75,1991
+M6P,  Ukrainian,735,1991
+M6P,  Persian (Farsi),350,1991
+M6P,  Korean,185,1991
+M6P,  Hungarian,120,1991
+M6P,  Tamil,90,1991
+M6P,  Gujarati,0,1991
+M6P,  Croatian,115,1991
+M6P,  Armenian,0,1991
+M6P,  Inuktitut,0,1991
+M6P,  Hindi,35,1991
+M6P,  Urdu,10,1991
+M6P,  Japanese,170,1991
+M6P,  Russian,40,1991
+M6P,  Creoles,0,1991
+M6P,  Dutch,15,1991
+M6P,  Khmer (Cambodian),45,1991
+M6P,  Ojibway,10,1991
+M6P,  Romanian,35,1991
+M6P,  Other languages,1570,1991
+M6R,  Chinese,380,1991
+M6R,  Italian,10,1991
+M6R,  Portuguese,565,1991
+M6R,  Spanish,165,1991
+M6R,  German,100,1991
+M6R,  Polish,2125,1991
+M6R,  Punjabi,60,1991
+M6R,  Greek,60,1991
+M6R,  Vietnamese,95,1991
+M6R,  Arabic,25,1991
+M6R,  Cree,0,1991
+M6R,  Tagalog (Pilipino),115,1991
+M6R,  Ukrainian,395,1991
+M6R,  Persian (Farsi),20,1991
+M6R,  Korean,100,1991
+M6R,  Hungarian,0,1991
+M6R,  Tamil,160,1991
+M6R,  Gujarati,10,1991
+M6R,  Croatian,55,1991
+M6R,  Armenian,0,1991
+M6R,  Inuktitut,0,1991
+M6R,  Hindi,10,1991
+M6R,  Urdu,25,1991
+M6R,  Japanese,20,1991
+M6R,  Russian,30,1991
+M6R,  Creoles,10,1991
+M6R,  Dutch,15,1991
+M6R,  Khmer (Cambodian),0,1991
+M6R,  Ojibway,0,1991
+M6R,  Romanian,0,1991
+M6R,  Other languages,660,1991
+M6S,  Chinese,275,1991
+M6S,  Italian,125,1991
+M6S,  Portuguese,305,1991
+M6S,  Spanish,275,1991
+M6S,  German,180,1991
+M6S,  Polish,1435,1991
+M6S,  Punjabi,40,1991
+M6S,  Greek,220,1991
+M6S,  Vietnamese,115,1991
+M6S,  Arabic,10,1991
+M6S,  Cree,0,1991
+M6S,  Tagalog (Pilipino),55,1991
+M6S,  Ukrainian,1375,1991
+M6S,  Persian (Farsi),85,1991
+M6S,  Korean,85,1991
+M6S,  Hungarian,295,1991
+M6S,  Tamil,0,1991
+M6S,  Gujarati,0,1991
+M6S,  Croatian,110,1991
+M6S,  Armenian,10,1991
+M6S,  Inuktitut,0,1991
+M6S,  Hindi,0,1991
+M6S,  Urdu,45,1991
+M6S,  Japanese,30,1991
+M6S,  Russian,70,1991
+M6S,  Creoles,0,1991
+M6S,  Dutch,0,1991
+M6S,  Khmer (Cambodian),10,1991
+M6S,  Ojibway,0,1991
+M6S,  Romanian,0,1991
+M6S,  Other languages,1020,1991
+M8V,  Chinese,295,1991
+M8V,  Italian,20,1991
+M8V,  Portuguese,405,1991
+M8V,  Spanish,430,1991
+M8V,  German,60,1991
+M8V,  Polish,1945,1991
+M8V,  Punjabi,35,1991
+M8V,  Greek,95,1991
+M8V,  Vietnamese,85,1991
+M8V,  Arabic,35,1991
+M8V,  Cree,0,1991
+M8V,  Tagalog (Pilipino),260,1991
+M8V,  Ukrainian,205,1991
+M8V,  Persian (Farsi),45,1991
+M8V,  Korean,135,1991
+M8V,  Hungarian,30,1991
+M8V,  Tamil,0,1991
+M8V,  Gujarati,70,1991
+M8V,  Croatian,25,1991
+M8V,  Armenian,0,1991
+M8V,  Inuktitut,0,1991
+M8V,  Hindi,0,1991
+M8V,  Urdu,25,1991
+M8V,  Japanese,0,1991
+M8V,  Russian,0,1991
+M8V,  Creoles,0,1991
+M8V,  Dutch,10,1991
+M8V,  Khmer (Cambodian),0,1991
+M8V,  Ojibway,0,1991
+M8V,  Romanian,10,1991
+M8V,  Other languages,355,1991
+M8W,  Chinese,110,1991
+M8W,  Italian,560,1991
+M8W,  Portuguese,455,1991
+M8W,  Spanish,160,1991
+M8W,  German,45,1991
+M8W,  Polish,895,1991
+M8W,  Punjabi,55,1991
+M8W,  Greek,85,1991
+M8W,  Vietnamese,45,1991
+M8W,  Arabic,10,1991
+M8W,  Cree,0,1991
+M8W,  Tagalog (Pilipino),280,1991
+M8W,  Ukrainian,140,1991
+M8W,  Persian (Farsi),50,1991
+M8W,  Korean,65,1991
+M8W,  Hungarian,70,1991
+M8W,  Tamil,15,1991
+M8W,  Gujarati,0,1991
+M8W,  Croatian,155,1991
+M8W,  Armenian,0,1991
+M8W,  Inuktitut,0,1991
+M8W,  Hindi,0,1991
+M8W,  Urdu,10,1991
+M8W,  Japanese,15,1991
+M8W,  Russian,10,1991
+M8W,  Creoles,0,1991
+M8W,  Dutch,0,1991
+M8W,  Khmer (Cambodian),0,1991
+M8W,  Ojibway,0,1991
+M8W,  Romanian,0,1991
+M8W,  Other languages,500,1991
+M8X,  Chinese,70,1991
+M8X,  Italian,20,1991
+M8X,  Portuguese,30,1991
+M8X,  Spanish,20,1991
+M8X,  German,35,1991
+M8X,  Polish,120,1991
+M8X,  Punjabi,0,1991
+M8X,  Greek,0,1991
+M8X,  Vietnamese,20,1991
+M8X,  Arabic,0,1991
+M8X,  Cree,0,1991
+M8X,  Tagalog (Pilipino),0,1991
+M8X,  Ukrainian,155,1991
+M8X,  Persian (Farsi),0,1991
+M8X,  Korean,10,1991
+M8X,  Hungarian,0,1991
+M8X,  Tamil,0,1991
+M8X,  Gujarati,0,1991
+M8X,  Croatian,15,1991
+M8X,  Armenian,0,1991
+M8X,  Inuktitut,0,1991
+M8X,  Hindi,0,1991
+M8X,  Urdu,0,1991
+M8X,  Japanese,15,1991
+M8X,  Russian,0,1991
+M8X,  Creoles,0,1991
+M8X,  Dutch,15,1991
+M8X,  Khmer (Cambodian),0,1991
+M8X,  Ojibway,0,1991
+M8X,  Romanian,0,1991
+M8X,  Other languages,95,1991
+M8Y,  Chinese,140,1991
+M8Y,  Italian,340,1991
+M8Y,  Portuguese,305,1991
+M8Y,  Spanish,295,1991
+M8Y,  German,65,1991
+M8Y,  Polish,1550,1991
+M8Y,  Punjabi,0,1991
+M8Y,  Greek,30,1991
+M8Y,  Vietnamese,15,1991
+M8Y,  Arabic,0,1991
+M8Y,  Cree,0,1991
+M8Y,  Tagalog (Pilipino),115,1991
+M8Y,  Ukrainian,570,1991
+M8Y,  Persian (Farsi),10,1991
+M8Y,  Korean,15,1991
+M8Y,  Hungarian,65,1991
+M8Y,  Tamil,0,1991
+M8Y,  Gujarati,0,1991
+M8Y,  Croatian,0,1991
+M8Y,  Armenian,10,1991
+M8Y,  Inuktitut,0,1991
+M8Y,  Hindi,0,1991
+M8Y,  Urdu,0,1991
+M8Y,  Japanese,10,1991
+M8Y,  Russian,40,1991
+M8Y,  Creoles,0,1991
+M8Y,  Dutch,0,1991
+M8Y,  Khmer (Cambodian),0,1991
+M8Y,  Ojibway,0,1991
+M8Y,  Romanian,0,1991
+M8Y,  Other languages,455,1991
+M8Z,  Chinese,90,1991
+M8Z,  Italian,1085,1991
+M8Z,  Portuguese,285,1991
+M8Z,  Spanish,95,1991
+M8Z,  German,55,1991
+M8Z,  Polish,405,1991
+M8Z,  Punjabi,0,1991
+M8Z,  Greek,15,1991
+M8Z,  Vietnamese,35,1991
+M8Z,  Arabic,0,1991
+M8Z,  Cree,0,1991
+M8Z,  Tagalog (Pilipino),35,1991
+M8Z,  Ukrainian,490,1991
+M8Z,  Persian (Farsi),0,1991
+M8Z,  Korean,30,1991
+M8Z,  Hungarian,25,1991
+M8Z,  Tamil,0,1991
+M8Z,  Gujarati,0,1991
+M8Z,  Croatian,50,1991
+M8Z,  Armenian,0,1991
+M8Z,  Inuktitut,0,1991
+M8Z,  Hindi,0,1991
+M8Z,  Urdu,25,1991
+M8Z,  Japanese,15,1991
+M8Z,  Russian,10,1991
+M8Z,  Creoles,0,1991
+M8Z,  Dutch,0,1991
+M8Z,  Khmer (Cambodian),0,1991
+M8Z,  Ojibway,0,1991
+M8Z,  Romanian,0,1991
+M8Z,  Other languages,255,1991
+M9A,  Chinese,310,1991
+M9A,  Italian,560,1991
+M9A,  Portuguese,85,1991
+M9A,  Spanish,180,1991
+M9A,  German,80,1991
+M9A,  Polish,700,1991
+M9A,  Punjabi,50,1991
+M9A,  Greek,70,1991
+M9A,  Vietnamese,40,1991
+M9A,  Arabic,60,1991
+M9A,  Cree,0,1991
+M9A,  Tagalog (Pilipino),55,1991
+M9A,  Ukrainian,555,1991
+M9A,  Persian (Farsi),105,1991
+M9A,  Korean,355,1991
+M9A,  Hungarian,60,1991
+M9A,  Tamil,0,1991
+M9A,  Gujarati,10,1991
+M9A,  Croatian,115,1991
+M9A,  Armenian,0,1991
+M9A,  Inuktitut,0,1991
+M9A,  Hindi,15,1991
+M9A,  Urdu,10,1991
+M9A,  Japanese,70,1991
+M9A,  Russian,50,1991
+M9A,  Creoles,0,1991
+M9A,  Dutch,20,1991
+M9A,  Khmer (Cambodian),0,1991
+M9A,  Ojibway,0,1991
+M9A,  Romanian,40,1991
+M9A,  Other languages,635,1991
+M9B,  Chinese,415,1991
+M9B,  Italian,320,1991
+M9B,  Portuguese,220,1991
+M9B,  Spanish,205,1991
+M9B,  German,40,1991
+M9B,  Polish,435,1991
+M9B,  Punjabi,20,1991
+M9B,  Greek,160,1991
+M9B,  Vietnamese,0,1991
+M9B,  Arabic,135,1991
+M9B,  Cree,0,1991
+M9B,  Tagalog (Pilipino),60,1991
+M9B,  Ukrainian,850,1991
+M9B,  Persian (Farsi),10,1991
+M9B,  Korean,250,1991
+M9B,  Hungarian,85,1991
+M9B,  Tamil,0,1991
+M9B,  Gujarati,45,1991
+M9B,  Croatian,255,1991
+M9B,  Armenian,0,1991
+M9B,  Inuktitut,0,1991
+M9B,  Hindi,50,1991
+M9B,  Urdu,125,1991
+M9B,  Japanese,15,1991
+M9B,  Russian,0,1991
+M9B,  Creoles,0,1991
+M9B,  Dutch,15,1991
+M9B,  Khmer (Cambodian),0,1991
+M9B,  Ojibway,0,1991
+M9B,  Romanian,20,1991
+M9B,  Other languages,925,1991
+M9C,  Chinese,640,1991
+M9C,  Italian,440,1991
+M9C,  Portuguese,405,1991
+M9C,  Spanish,190,1991
+M9C,  German,195,1991
+M9C,  Polish,800,1991
+M9C,  Punjabi,45,1991
+M9C,  Greek,230,1991
+M9C,  Vietnamese,10,1991
+M9C,  Arabic,40,1991
+M9C,  Cree,0,1991
+M9C,  Tagalog (Pilipino),105,1991
+M9C,  Ukrainian,415,1991
+M9C,  Persian (Farsi),35,1991
+M9C,  Korean,170,1991
+M9C,  Hungarian,105,1991
+M9C,  Tamil,10,1991
+M9C,  Gujarati,20,1991
+M9C,  Croatian,145,1991
+M9C,  Armenian,20,1991
+M9C,  Inuktitut,0,1991
+M9C,  Hindi,50,1991
+M9C,  Urdu,75,1991
+M9C,  Japanese,50,1991
+M9C,  Russian,0,1991
+M9C,  Creoles,0,1991
+M9C,  Dutch,20,1991
+M9C,  Khmer (Cambodian),0,1991
+M9C,  Ojibway,0,1991
+M9C,  Romanian,10,1991
+M9C,  Other languages,1060,1991
+M9L,  Chinese,50,1991
+M9L,  Italian,3355,1991
+M9L,  Portuguese,160,1991
+M9L,  Spanish,360,1991
+M9L,  German,10,1991
+M9L,  Polish,95,1991
+M9L,  Punjabi,290,1991
+M9L,  Greek,65,1991
+M9L,  Vietnamese,0,1991
+M9L,  Arabic,65,1991
+M9L,  Cree,0,1991
+M9L,  Tagalog (Pilipino),0,1991
+M9L,  Ukrainian,20,1991
+M9L,  Persian (Farsi),30,1991
+M9L,  Korean,10,1991
+M9L,  Hungarian,0,1991
+M9L,  Tamil,10,1991
+M9L,  Gujarati,15,1991
+M9L,  Croatian,0,1991
+M9L,  Armenian,0,1991
+M9L,  Inuktitut,0,1991
+M9L,  Hindi,0,1991
+M9L,  Urdu,0,1991
+M9L,  Japanese,0,1991
+M9L,  Russian,0,1991
+M9L,  Creoles,0,1991
+M9L,  Dutch,0,1991
+M9L,  Khmer (Cambodian),0,1991
+M9L,  Ojibway,0,1991
+M9L,  Romanian,0,1991
+M9L,  Other languages,55,1991
+M9M,  Chinese,255,1991
+M9M,  Italian,2300,1991
+M9M,  Portuguese,55,1991
+M9M,  Spanish,1200,1991
+M9M,  German,25,1991
+M9M,  Polish,155,1991
+M9M,  Punjabi,1245,1991
+M9M,  Greek,135,1991
+M9M,  Vietnamese,60,1991
+M9M,  Arabic,160,1991
+M9M,  Cree,0,1991
+M9M,  Tagalog (Pilipino),0,1991
+M9M,  Ukrainian,0,1991
+M9M,  Persian (Farsi),40,1991
+M9M,  Korean,515,1991
+M9M,  Hungarian,20,1991
+M9M,  Tamil,60,1991
+M9M,  Gujarati,35,1991
+M9M,  Croatian,60,1991
+M9M,  Armenian,0,1991
+M9M,  Inuktitut,0,1991
+M9M,  Hindi,20,1991
+M9M,  Urdu,160,1991
+M9M,  Japanese,0,1991
+M9M,  Russian,0,1991
+M9M,  Creoles,0,1991
+M9M,  Dutch,0,1991
+M9M,  Khmer (Cambodian),0,1991
+M9M,  Ojibway,0,1991
+M9M,  Romanian,0,1991
+M9M,  Other languages,285,1991
+M9N,  Chinese,160,1991
+M9N,  Italian,1075,1991
+M9N,  Portuguese,120,1991
+M9N,  Spanish,800,1991
+M9N,  German,55,1991
+M9N,  Polish,470,1991
+M9N,  Punjabi,15,1991
+M9N,  Greek,60,1991
+M9N,  Vietnamese,100,1991
+M9N,  Arabic,30,1991
+M9N,  Cree,0,1991
+M9N,  Tagalog (Pilipino),15,1991
+M9N,  Ukrainian,70,1991
+M9N,  Persian (Farsi),70,1991
+M9N,  Korean,160,1991
+M9N,  Hungarian,65,1991
+M9N,  Tamil,290,1991
+M9N,  Gujarati,45,1991
+M9N,  Croatian,70,1991
+M9N,  Armenian,0,1991
+M9N,  Inuktitut,0,1991
+M9N,  Hindi,10,1991
+M9N,  Urdu,15,1991
+M9N,  Japanese,0,1991
+M9N,  Russian,10,1991
+M9N,  Creoles,20,1991
+M9N,  Dutch,0,1991
+M9N,  Khmer (Cambodian),0,1991
+M9N,  Ojibway,0,1991
+M9N,  Romanian,35,1991
+M9N,  Other languages,320,1991
+M9P,  Chinese,250,1991
+M9P,  Italian,1440,1991
+M9P,  Portuguese,190,1991
+M9P,  Spanish,210,1991
+M9P,  German,110,1991
+M9P,  Polish,355,1991
+M9P,  Punjabi,60,1991
+M9P,  Greek,85,1991
+M9P,  Vietnamese,0,1991
+M9P,  Arabic,105,1991
+M9P,  Cree,0,1991
+M9P,  Tagalog (Pilipino),0,1991
+M9P,  Ukrainian,515,1991
+M9P,  Persian (Farsi),170,1991
+M9P,  Korean,115,1991
+M9P,  Hungarian,125,1991
+M9P,  Tamil,10,1991
+M9P,  Gujarati,30,1991
+M9P,  Croatian,200,1991
+M9P,  Armenian,0,1991
+M9P,  Inuktitut,0,1991
+M9P,  Hindi,0,1991
+M9P,  Urdu,25,1991
+M9P,  Japanese,0,1991
+M9P,  Russian,0,1991
+M9P,  Creoles,0,1991
+M9P,  Dutch,0,1991
+M9P,  Khmer (Cambodian),0,1991
+M9P,  Ojibway,0,1991
+M9P,  Romanian,0,1991
+M9P,  Other languages,575,1991
+M9R,  Chinese,330,1991
+M9R,  Italian,1665,1991
+M9R,  Portuguese,215,1991
+M9R,  Spanish,780,1991
+M9R,  German,105,1991
+M9R,  Polish,745,1991
+M9R,  Punjabi,885,1991
+M9R,  Greek,150,1991
+M9R,  Vietnamese,55,1991
+M9R,  Arabic,105,1991
+M9R,  Cree,0,1991
+M9R,  Tagalog (Pilipino),15,1991
+M9R,  Ukrainian,165,1991
+M9R,  Persian (Farsi),135,1991
+M9R,  Korean,180,1991
+M9R,  Hungarian,75,1991
+M9R,  Tamil,20,1991
+M9R,  Gujarati,110,1991
+M9R,  Croatian,105,1991
+M9R,  Armenian,15,1991
+M9R,  Inuktitut,0,1991
+M9R,  Hindi,230,1991
+M9R,  Urdu,105,1991
+M9R,  Japanese,20,1991
+M9R,  Russian,10,1991
+M9R,  Creoles,0,1991
+M9R,  Dutch,10,1991
+M9R,  Khmer (Cambodian),0,1991
+M9R,  Ojibway,0,1991
+M9R,  Romanian,15,1991
+M9R,  Other languages,2270,1991
+M9V,  Chinese,750,1991
+M9V,  Italian,2195,1991
+M9V,  Portuguese,290,1991
+M9V,  Spanish,1325,1991
+M9V,  German,125,1991
+M9V,  Polish,460,1991
+M9V,  Punjabi,3310,1991
+M9V,  Greek,115,1991
+M9V,  Vietnamese,255,1991
+M9V,  Arabic,710,1991
+M9V,  Cree,0,1991
+M9V,  Tagalog (Pilipino),330,1991
+M9V,  Ukrainian,15,1991
+M9V,  Persian (Farsi),160,1991
+M9V,  Korean,185,1991
+M9V,  Hungarian,140,1991
+M9V,  Tamil,750,1991
+M9V,  Gujarati,600,1991
+M9V,  Croatian,315,1991
+M9V,  Armenian,20,1991
+M9V,  Inuktitut,0,1991
+M9V,  Hindi,245,1991
+M9V,  Urdu,210,1991
+M9V,  Japanese,15,1991
+M9V,  Russian,0,1991
+M9V,  Creoles,45,1991
+M9V,  Dutch,15,1991
+M9V,  Khmer (Cambodian),60,1991
+M9V,  Ojibway,0,1991
+M9V,  Romanian,110,1991
+M9V,  Other languages,1430,1991
+M9W,  Chinese,330,1991
+M9W,  Italian,1185,1991
+M9W,  Portuguese,90,1991
+M9W,  Spanish,650,1991
+M9W,  German,115,1991
+M9W,  Polish,310,1991
+M9W,  Punjabi,875,1991
+M9W,  Greek,120,1991
+M9W,  Vietnamese,70,1991
+M9W,  Arabic,230,1991
+M9W,  Cree,0,1991
+M9W,  Tagalog (Pilipino),40,1991
+M9W,  Ukrainian,40,1991
+M9W,  Persian (Farsi),285,1991
+M9W,  Korean,170,1991
+M9W,  Hungarian,100,1991
+M9W,  Tamil,50,1991
+M9W,  Gujarati,125,1991
+M9W,  Croatian,595,1991
+M9W,  Armenian,0,1991
+M9W,  Inuktitut,0,1991
+M9W,  Hindi,35,1991
+M9W,  Urdu,70,1991
+M9W,  Japanese,35,1991
+M9W,  Russian,0,1991
+M9W,  Creoles,10,1991
+M9W,  Dutch,30,1991
+M9W,  Khmer (Cambodian),0,1991
+M9W,  Ojibway,0,1991
+M9W,  Romanian,45,1991
+M9W,  Other languages,790,1991
